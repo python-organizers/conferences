@@ -1,1 +1,38 @@
-Subject,Start Date,End Date,Location,Tutorial Deadline,Talk Deadline,Poster Deadline,Staff URL,Sponsorship URL,Website URL
+Subject,Geography,Start Date,End Date,Location,Tutorial Deadline,Talk Deadline,Sponsorship URL,Website URL
+PyCon Belarus,National,20170204,20170204,"Minsk, Minsk, Belarus",,,http://by.pycon.org/assets/files/Call_for_Partners_pycon2017.pdf,http://by.pycon.org
+PyCon Colombia,National,20170210,20170211,"Bogotá, Capital District, Colombia",,,,http://www.pycon.co
+PyCon Pune,Local,20170216,20170219,"Puen, Maharashtra, India",,,,https://pune.pycon.org
+PyCon PH,National,20170225,20170226,,,,,https://pycon.python.ph
+PyCon SK,National,20170310,20170310,"Bratislava, Bratislava, Slovakia",,,,https://2017.pycon.sk
+PyCon Italia,National,20170406,20170409,"Florence, Tuscany, Italy",,,,https://www.pycon.it
+PyCon Ukraine,National,20170408,20170409,"Lviv, Lviv Oblast, Ukraine",,,,https://ua.pycon.org
+PyCon LT,National,20170513,20170513,"Kaunas, Kaunas, Lithuania",,,,http://pycon.lt
+PyCon North America,International,20170517,20170525,"Portland, Oregon, USA",20161130,20170103,https://us.pycon.org/2017/sponsors/prospectus,https://us.pycon.org/2017
+PyCon CZ,National,20170608,20170610,"Prague, Bohemia, Czech Republic",20170417,20170417,https://cz.pycon.org/2017/sponsors/,https://cz.pycon.org/2017
+PyCon TW,National,20170609,20170611,"Taipei, Taipei, Taiwan",,,,https://tw.pycon.org/2017
+PyCon Israel,National,20170611,20170614,,,,,http://il.pycon.org/2017
+EuroPython,International,20170709,20170716,"Rimini, Rimini, Italy",20170416,20170416,https://ep2017.europython.eu/en/sponsor/packages,https://ep2017.europython.eu
+PyCon Russia,National,20170716,20170717,"Moscow, Central Federal District, Moscow",,,,http://pycon.ru/2017
+PyOhio,Local,20170729,20170730,"Columbus, Ohio, USA",20170525,20170525,https://pyohio.org/sponsors/prospectus,https://pyohio.org
+PyCon Australia,National,20170803,20170808,"Melbourne, Victoria, Australia",20170507,20170507,https://2017.pycon-au.org/sponsorship.pdf,https://pycon-au.org
+PyBay,Local,20170810,20170813,"San Francisco, California, USA",20170610,20170610,http://pybay.com/sponsors,http://pybay.com
+PyCon Korea,National,20170812,20170815,"Seoul, Seoul Capital Area, South Korea",20170527,20170527,https://www.pycon.kr/2017/en/about/sponsorship,https://www.pycon.kr/2017
+DjangoCon US,National,20170813,20170818,"Spokane, Washington, USA",20170411,20170411,https://2017.djangocon.us/sponsors/information,https://2017.djangocon.us
+PyCon PL,National,20170817,20170820,"Ossa, Rawa County, Poland",,,,https://pl.pycon.org/2017
+PyCon Asia Pacific,International,20170826,20170827,"Kuala Lumpur, Selangor, Malaysia",20170707,20170707,https://pycon.my/2017/02/28/sponsor-pycon-apac-2017,https://pycon.my
+EuroSciPy,International,20170828,20170901,"Erlangen, Bavaria, Germany",20170624,20170624,,https://www.euroscipy.org/2017
+PyCon Sweden,National,20170906,20170906,"Stockholm, Stockholm County, Sweden",,,http://www.pycon.se/sponsorship.html,http://www.pycon.se
+PyCon JP,National,20170907,20170909,"Tokyo, Kantō, Japan",,,,https://pycon.jp/2017
+PyCon Nigeria,National,20170915,20170916,"Lagos, Lagos, Nigeria",,,https://pycon.ng/sponsors/information/,https://pycon.ng
+PyCon FR,National,20170921,20170924,"Toulouse, Occitanie, France",,,,https://www.pycon.fr/2017
+PyCon ES,National,20170922,20170924,"Cáceres, Cáceres, Spain",,,,https://2017.es.pycon.org
+PyCon ZA,National,20171005,20171006,"Cape Town, Western Cape, South Africa",,,https://za.pycon.org/sponsors/packages,https://za.pycon.org
+PyGotham,Local,20171006,20171008,"New York, New York, USA",,,,https://2017.pygotham.org
+PythonBrasil,National,20171006,20171011,"Belo Horizonte, Minas Gerais, Brazil",,,,http://2017.pythonbrasil.org.br
+Florida PyCon,Local,20171007,20171007,"Orlando, Florida, USA",,,,http://flpy.org
+SciPy Latin America,International,20171013,20171016,"Havana, Havana, Cuba",20170815,20170815,http://conf.scipyla.org/sponsors/prospectus,http://conf.scipyla.org
+PyCon Ireland,National,20171021,20171022,"Dublin, Leinster, Ireland",,,,https://pyconie17.python.ie
+PyCon DE,National,20171025,20171027,"Karlsruhe. Karlsruhe, Germany",,,,http://de.pycon.org
+PyCon UK,National,20171026,20171030,"Cardiff, Wales, United Kingdom",,,,http://2017.pyconuk.org
+PyCon Canada,National,20171118,20171119,"Montréal, Québec, Canada",,,,https://2017.pycon.ca
+PyMiami,Local,,,"Miami, Florida, USA",,,,
