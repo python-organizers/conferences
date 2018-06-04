@@ -30,6 +30,8 @@ DjangoCon AU,2018-08-24,2018-08-24,"Sydney, New South Wales, Australia",,2018-05
 Flask Conf Brasil,2018-08-24,2018-08-25,"São Paulo, São Paulo, Brazil",2018-08-24,2018-06-30,http://flask.python.org.br,http://flask.python.org.br,http://flask.python.org.br
 PyCon AU,2018-08-24,2018-08-28,"Sydney, New South Wales, Australia",,2018-05-28,http://2018.pycon-au.org,https://www.papercall.io/pyconau2018,https://2018.pycon-au.org/news/call-for-sponsorship
 EuroSciPy,2018-08-28,2018-09-01,"Trento, Trentino-Alto Adige, Italy",2018-05-13,2018-05-13,https://www.euroscipy.org/2018,https://pretalx.com/euroscipy18,
+Subject,Start Date,End Date,Location,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
+SciPyLA,2018-08-29,2018-09-01,"Curitiba, Paraná, Brazil",,,https://conf.scipyla.org,,mailto:sponsor@scipyla.org
 PyCon Canada,,,"Toronto, Ontario, Canada",,,,,
 PyCon UK,2018-09-15,2018-09-19,"Cardiff, Wales, United Kingdom",,,,,
 PyCon FR,2018-10-04,2018-10-07,"Lille, Hauts-de-France, France",,https://www.pycon.fr/2018,,,https://www.pycon.fr/2018/fr/sponsor-pyconfr
