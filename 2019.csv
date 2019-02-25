@@ -1,19 +1,27 @@
-﻿Subject,Start Date,End Date,Location,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
+Subject,Start Date,End Date,Location,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
 PyCon Colombia,2019-02-08,2019-02-10,"Medellin, Antioquia, Colombia",COL,,2018-09-01,2018-09-01,https://www.pycon.co,https://www.papercall.io/pycon-colombia-2019-talks,
 PyTennessee,2019-02-09,2019-02-10,"Nashville, Tennessee, United States of America",USA,Nashville School of Law,2018-11-01,2018-11-01,https://www.pytennessee.org/,https://www.papercall.io/pytn2019,https://www.pytennessee.org/prospectus
 PyCon Belarus,2019-02-15,2019-02-16,"Minsk, Minsk, Belarus",BLR,,,2018-12-24,https://by.pycon.org,https://www.papercall.io/pyconby,https://drive.google.com/file/d/1DEY7aYs7byXUwZLozHhoHs8uuLHq_la1/view
 PyCaribbean,2019-02-16,2019-02-17,"Santo Domingo, National District, Dominican Republic",DOM,,,2018-11-15,http://pycaribbean.com,https://www.papercall.io/pycaribbean-2019,
 PyCascades,2019-02-23,2019-02-24,"Seattle, Washington, United States of America",USA,University of Washington,,2018-10-21,https://2019.pycascades.com/,https://www.papercall.io/pycascades-2019,https://2019.pycascades.com/become-a-sponsor/
 PyCon APAC,2019-02-23,2019-02-24,"Manila, Philippines",PHL,,,,https://pycon-tickets.python.ph/,,https://docs.google.com/forms/d/e/1FAIpQLSfZ7g2QxEpA13QvvHUXvLHcQ0KAiJBEidDMY5UpRRPs_bb4gA/viewform
+PyCon SK,2019-03-22,2019-03-24,"Bratislava, Slovakia",SVK,,,,https://2019.pycon.sk,,
 DjangoCon Europe,2019-04-10,2019-04-12,"Copenhagen, Denmark",DNK,,,,https://2019.djangocon.eu/,,
 Pycon Italia,2019-05-02,2019-05-05,"Florence, Tuscany, Italy",ITA,Grand Hotel Mediterraneo,,2019-01-06,https://www.pycon.it/en,https://www.pycon.it/en/call-for-proposals/,https://www.pycon.it/en/sponsor/
 PyCon North America,2019-05-01,2019-05-09,"Cleveland, Ohio, United States of America",USA,Huntington Convention Center,2018-11-26,2019-01-03,https://us.pycon.org/2019,https://us.pycon.org/2019/speaking/,https://us.pycon.org/2019/sponsors/prospectus/
-PyCon CZ,2019-06-14,2019-06-16,"Ostrava, Czech Republic",CZE,"Dolní oblast Vítkovice",,,https://cz.pycon.org/2019/,,https://cz.pycon.org/2019/static/pyconcz-2019-sponsorship-prospectus.pdf
+PyCon Israel,2019-06-02,2019-06-05,"Ramat Gan, Israel",ISR,,,,https://il.pycon.org/2019/,,
+PyCon CZ,2019-06-14,2019-06-16,"Ostrava, Czech Republic",CZE,Dolní oblast Vítkovice,,,https://cz.pycon.org/2019/,,https://cz.pycon.org/2019/static/pyconcz-2019-sponsorship-prospectus.pdf
 GeoPython,2019-06-24,2019-06-26,"Basel, Switzerland",CHE,,,,http://2019.geopython.net,,http://2019.geopython.net/GeoPython_Sponsoring_2019_lowres.pdf
-EuroPython,2019-07-08,2019-07-14,"Basel, Switzerland",CHE,"FHNW & Convention Center Basel",,,https://ep2019.europython.eu/,,,
-PyOhio,2019-07-27,2019-07-28,"Columbus, OH",USA,"The Ohio Union",,,https://www.pyohio.org/2019,,https://www.pyohio.org/2019/sponsorship
+PyCon Russia,2019-06-24,2019-06-25,"Tarusa, Russia",RUS,Hotel Cronwell Yahonty Tarusa,,,https://pycon.ru,,
+EuroPython,2019-07-08,2019-07-14,"Basel, Switzerland",CHE,FHNW & Convention Center Basel,,,https://ep2019.europython.eu/,,
+SciPy,2019-07-08,2019-07-14,"Austin, Texas, United States of America",USA,,,,https://www.scipy2019.scipy.org/,,
+PyOhio,2019-07-27,2019-07-28,"Columbus, OH",USA,The Ohio Union,,,https://www.pyohio.org/2019,,https://www.pyohio.org/2019/sponsorship
 PyCon AU,2019-08-02,2019-08-06,"Sydney, New South Wales, Australia",AUS,International Convention Centre,,,https://2019.pycon-au.org/,,https://2019.pycon-au.org/sponsor/
+PyBay,2019-08-15,2019-08-18,"San Francisco, California, United States of America",USA,,,,https://pybay.com/,,
+Kiwi PyCon,2019-08-23,2019-08-25,"Willington, New Zealand",NZL,,,,https://python.nz/,,
 PyColorado,2019-09-07,2019-09-08,"Denver, Colorado, United States of America",USA,The Studio Loft at Ellie Caulkins Opera House,,,https://pycolorado.org,,
-DjangoCon US,2019-09-15,2019-09-19,"TBD (San Diego, CA), United States of America",USA,,,,https://djangocon.us,,
+PyCon UK,2019-09-13,2019-09-17,"Cardiff, United Kingdom",GBR,Cardiff City Hall,,,https://2019.pyconuk.org/,,
+DjangoCon US,2019-09-15,2019-09-19,"San Diego, California, United States of America",USA,Mission Valley Marriott,,,https://djangocon.us,,
+PyCon Taiwan,2019-09-20,2019-09-22,"Taipei, Taiwan",TWN,,,,https://tw.pycon.org/2019,,
 PyCon China 2019,2019-09-21,2019-09-21,"Shangahai, People's Republic of China",China,,,,http://cn.pycon.org,,
 PyCon DE 2019,2019-10-09,2019-10-13,"Berlin, Germany",DEU,,,,https://de.pycon.org/,,
