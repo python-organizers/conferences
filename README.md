@@ -25,3 +25,11 @@ Each CSV file is [compatible with Google Calendar](https://support.google.com/ca
 | Website URL       | Event website                              | URL                                                                    |
 | Proposal URL      | Proposal information                       | URL                                                                    |
 | Sponsorship URL   | Sponsorship information                    | URL                                                                    |
+
+
+## Tests & Linting
+
+There are tests to ensure that the files are written in the correct format
+
+    pip install -r linting/requirements.txt
+    python linting/lint-csv.py
