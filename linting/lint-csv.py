@@ -1,28 +1,22 @@
-import os
 import subprocess
 import sys
+from pathlib import Path
 
+CSV_PATH = Path(__file__).resolve().parent.parent
 
-CSV_PATH = os.path.join(os.path.dirname(__file__), '..')
-
-# This is the default csvclean message
-# when there are no errors
+# This is the default csvclean message when there are no errors
 NO_ERRORS_MSG = 'No errors.\n'
 
 
 def main():
     is_error = False
-    for filename in os.listdir(CSV_PATH):
-        if not filename.endswith('.csv'):
-            continue
-
-        filepath = os.path.join(CSV_PATH, filename)
+    for path in CSV_PATH.glob('*.csv'):
 
         # In the future, csvclean will probably set the status code
         # when there are CSV validation errors
         # See: https://github.com/wireservice/csvkit/pull/781
         output = subprocess.check_output(
-            ['csvclean', '-n', filepath],
+            ['csvclean', '-n', str(path)],
             stderr=subprocess.STDOUT,
             text=True,
         )
@@ -30,8 +24,7 @@ def main():
             print(output)
             is_error = True
 
-    if is_error:
-        sys.exit(1)
+    sys.exit(is_error)
 
 
 if __name__ == '__main__':
