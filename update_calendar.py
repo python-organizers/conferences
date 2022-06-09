@@ -1,9 +1,6 @@
-from __future__ import print_function
-
 import csv
 import datetime
 from pathlib import Path
-from pprint import pprint
 
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
