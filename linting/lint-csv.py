@@ -1,5 +1,6 @@
 import subprocess
 import sys
+import textwrap
 from pathlib import Path
 
 CSV_PATH = Path(__file__).resolve().parent.parent
@@ -21,7 +22,8 @@ def main():
             text=True,
         )
         if output != NO_ERRORS_MSG:
-            print(output)
+            print(f"Errors in {path}:")
+            print(textwrap.indent(output, prefix="    "))
             is_error = True
 
     sys.exit(is_error)
