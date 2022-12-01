@@ -1,7 +1,8 @@
 # Python Conferences
 
-Here is a list of [Python Conferences](http://www.pycon.org) around
-the World.
+Here is a list of Python Conferences around the world. Note: this repository
+does not power www.pycon.org; to add an event to www.pycon.org, see [its
+official repository](https://github.com/PyCon/pycon.org#adding-your-pycon-to-the-website).
 
 If you would like to add a conference, please [submit a pull
 request](https://github.com/python-organizers/conferences/pulls).
