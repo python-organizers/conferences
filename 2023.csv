@@ -1,4 +1,4 @@
-Subject,Start Date,2023-04-27,Salt,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
+Subject,Start Date,End Date,Location,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
 PyCon France,2023-02-16,2023-02-19,"Bordeaux, France",FRA,Université Bordeaux,,2023-01-07,https://www.pycon.fr/2023/,https://cfp-2023.pycon.fr/cfp/,https://www.pycon.fr/2023/fr/support.html
 PyCon Namibia 2023,2023-02-21,2023-02-23,"Windhoek, Namibia",NAM,,2023-01-22,2023-01-22,https://na.pycon.org,https://pretalx.com/pycon-namibia-2022/cfp,https://na.pycon.org/sponsorship/
 GeoPython 2023,2023-03-06,2023-03-08,"Basel, Switzerland",CHE,FHNW,,,https://2023.geopython.net,https://submit.geopython.net/geopython-2023/cfp,
@@ -8,5 +8,5 @@ PyCon LT,2023-05-17,2023-05-20,"Vilnius, Lithuania",LTU,"Vilnius University of S
 PyCon Italia 2023,2023-05-25,2023-05-28,"Florence, Italy",ITA,Grand Hotel Mediterraneo,2023-01-15,2023-01-15,https://pycon.it/en,https://pycon.it/cfp,
 DjangoCon EU,2023-05-29,2023-06-02,"Edinburgh, Scotland",GB-SCT,The Assembly Rooms,2023-02-27,2023-02-27,https://2023.djangocon.eu/,https://2023.djangocon.eu/call-for-proposals/,
 EuroPython,2023-07-17,2023-07-23,"Prague, Czech Republic",CZE,The Prague Congress Centre,,2023-03-19,https://europython.eu,https://ep2023.europython.eu/cfp,https://ep2023.europython.eu/sponsor/information
-EuroSciPy,2023-08-14,2023-08-18,"Basel, Switzerlan",CHE,"Kollegienhaus, University of Basel",,,https://www.euroscipy.org,https://www.euroscipy.org/2023/program.html,https://www.euroscipy.org/2023/sponsors.html
+EuroSciPy,2023-08-14,2023-08-18,"Basel, Switzerland",CHE,"Kollegienhaus, University of Basel",,,https://www.euroscipy.org,https://www.euroscipy.org/2023/program.html,https://www.euroscipy.org/2023/sponsors.html
 PyCon US,2023-04-19,2023-04-27,"Salt Lake City, Utah",USA,Salt Palace Convention Center,2022-12-11,2022-12-11,https://us.pycon.org/2023/,https://us.pycon.org/2023/speaking/guidelines/,https://us.pycon.org/2023/sponsorship/why-sponsor/
