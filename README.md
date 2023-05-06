@@ -1,13 +1,11 @@
 # Python Conferences
 
-Here is a list of Python Conferences around the world. Note: This repository does not power www.pycon.org; to add an event to www.pycon.org, see [its official repository](https://github.com/PyCon/pycon.org#adding-your-pycon-to-the-website).
-
-The goal is to make it easier for **speakers, instructors, sponsors** to find your event.
+Here is a list of Python Conferences around the world. The goal is to make it easier for **speakers, instructors, sponsors** to find your conference.
 
 - If you would like to add a conference, please [submit a pull request](https://github.com/python-organizers/conferences/pulls).
 - If you are a conference organizer, we can give you direct access to the repository, but it is your responsibility to update your own event! [Open an issue](https://github.com/python-organizers/conferences/issues/new?template=request-for-access-as-a-conference-organizer.md) to add yourself to the repository.
 
-See also https://github.com/python-organizers/resources.
+This repository does not power www.pycon.org; to add an event to www.pycon.org, see [its official repository](https://github.com/PyCon/pycon.org#adding-your-pycon-to-the-website). See also https://github.com/python-organizers/resources.
 
 ## File Format
 
