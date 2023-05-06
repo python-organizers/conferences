@@ -1,26 +1,17 @@
 # Python Conferences
 
-Here is a list of Python Conferences around the world. Note: this repository
-does not power www.pycon.org; to add an event to www.pycon.org, see [its
-official repository](https://github.com/PyCon/pycon.org#adding-your-pycon-to-the-website).
+Here is a list of Python Conferences around the world. Note: This repository does not power www.pycon.org; to add an event to www.pycon.org, see [its official repository](https://github.com/PyCon/pycon.org#adding-your-pycon-to-the-website).
 
-If you would like to add a conference, please [submit a pull
-request](https://github.com/python-organizers/conferences/pulls).
+The goal is to make it easier for **speakers, instructors, sponsors** to find your event.
 
-If you are a conference organizer, we can give you direct access to
-the repository, but it is your responsibility to update your own
-event! The goal is to make it easier for **speakers, instructors,
-sponsors** to find your conference. [Open an issue](
-https://github.com/python-organizers/conferences/issues/new?template=request-for-access-as-a-conference-organizer-.md
-) to get yourself added to the repo.
+- If you would like to add a conference, please [submit a pull request](https://github.com/python-organizers/conferences/pulls).
+- If you are a conference organizer, we can give you direct access to the repository, but it is your responsibility to update your own event! [Open an issue](https://github.com/python-organizers/conferences/issues/new?template=request-for-access-as-a-conference-organizer.md) to add yourself to the repository.
 
 See also https://github.com/python-organizers/resources.
 
 ## File Format
 
-Each CSV file is [compatible with Google
-Calendar](https://support.google.com/calendar/answer/37118?hl=en) with
-additional optional fields.
+Each CSV file is [compatible with Google Calendar](https://support.google.com/calendar/answer/37118?hl=en) and has additional optional fields.
 
 | Field             | Description                                | Format                        | Notes
 |-------------------|--------------------------------------------|-------------------------------|---------------
@@ -35,7 +26,6 @@ additional optional fields.
 | Website URL       | Event website                              | URL                           |
 | Proposal URL      | Proposal information                       | URL                           |
 | Sponsorship URL   | Sponsorship information                    | URL                           |
-
 
 ## Tests & Linting
 
