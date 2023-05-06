@@ -1,7 +1,10 @@
 ---
-name: Request for access as a conference organizer.
+name: Request for access as a conference organizer
 about: Mention that you're a conference organizer here, so we can give you access
-  to this project.
+  to this project
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
