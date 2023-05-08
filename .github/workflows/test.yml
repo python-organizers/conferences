@@ -16,7 +16,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r linting/requirements.txt
+        run: pip install -r linters/requirements.txt
 
       - name: Validate CSV
-        run: python linting/lint-csv.py
+        run: python linters/lint-csv.py
