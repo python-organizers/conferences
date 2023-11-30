@@ -1,8 +1,11 @@
 Subject,Start Date,End Date,Location,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
-PyCon Slovakia,2024-03-15,2024-03-17,"Bratislava, Slovakia",SVK,,,,https://2024.pycon.sk/,,
-PyTexas,2024-04-20,2024-04-21,"Austin, Texas, United States of America",USA,Austin Central Public Library,,2024-01-14,https://www.pytexas.org,https://pretalx.com/pytexas-2024/,https://www.pytexas.org/2024/sponsors/sponsor-us/
+Python Pizza Prague,2024-02-24,2024-02-24,"Prague, Czechia",CZE,,,2023-12-31,https://prague.python.pizza/,https://docs.google.com/forms/d/e/1FAIpQLSfaDox_HZ2il0KOoohtYQJxVbhuTlwMFpmbz8bp-WOoLVQlNQ/viewform?usp=sf_link,
+PyCon Namibia,2024-03-04,2024-03-08,"Windhoek, Namibia",NAM,,,,https://na.pycon.org,,
+PyCon Slovakia,2024-03-15,2024-03-17,"Bratislava, Slovakia",SVK,,,2023-12-31,https://2024.pycon.sk/,https://2024.pycon.sk/en/cfp,
+PyCon Lithuania,2024-04-02,2024-04-06,"Vilnius, Lithuania",LTU,,,2024-01-10,https://pycon.lt/2024,https://pycon.lt/2024/call-for-proposals,https://pycon.lt/2024/partnership
+PyTexas,2024-04-20,2024-04-21,"Austin, Texas, United States of America",USA,Austin Central Public Library,,2024-01-14,https://www.pytexas.org,https://pretalx.com/pytexas-2024/,https://pytexas.org/2024/sponsors/sponsor-us/
 PyCon DE & PyData Berlin,2024-04-22,2024-04-25,"Berlin, Brandenburg, Germany",DEU,bcc Berlin Congress Center,,,https://pycon.de,,
-PyCon US,2024-05-15,2024-05-23,"Pittsburgh, Pennsylvania, United States of America",USA,,,,https://us.pycon.org,,
-PyCon Italia,2024-05-22,2024-05-25,"Florence, Italy",ITA,,,,https://pycon.it/en,,
-DjangoCon Europe,2024-06-12,2024-06-16,"Vigo, Spain",,,,,https://2024.djangocon.eu/,https://2024.djangocon.eu/call-for-proposals,
-PyData London,2024-06-14,2024-06-16,"London, UK",,,,,https://pydata.org/london2024/,,
+PyCon US,2024-05-15,2024-05-23,"Pittsburgh, Pennsylvania, United States of America",USA,,,2023-12-18,https://us.pycon.org,,https://us.pycon.org/2024/sponsorship/why-sponsor/
+PyCon Italia,2024-05-22,2024-05-25,"Florence, Italy",ITA,,,,https://pycon.it/en,https://2024.pycon.it/cfp,https://2024.pycon.it/en/sponsor
+DjangoCon Europe,2024-06-12,2024-06-16,"Vigo, Spain",ESP,,,,https://2024.djangocon.eu/,https://2024.djangocon.eu/call-for-proposals,
+PyData London,2024-06-14,2024-06-16,"London, UK",GBR,,,,https://pydata.org/london2024/,https://pydata.org/london2024/cfp#submit,https://pydata.org/london2024/sponsor
