@@ -34,6 +34,7 @@ There are tests to ensure that the files are written in the correct format
 
 ## Tools Using this Dataset
 
-[See upcoming proposal deadlines and conference dates](https://crosscompute.net/a/conference-planner/b/python/o)
+- [See upcoming proposal deadlines and conference dates](https://crosscompute.net/a/conference-planner/b/python/o)
+- [Add conference dates to your calendar](https://pythondeadlin.es)
 
 [ISO3166]: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
