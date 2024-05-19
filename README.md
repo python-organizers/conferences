@@ -32,4 +32,8 @@ There are tests to ensure that the files are written in the correct format
     pip install -r linters/requirements.txt
     python linters/lint-csv.py
 
+## Tools Using this Dataset
+
+- [See upcoming proposal deadlines and conference dates](https://crosscompute.net/a/conference-planner/b/python/o).
+
 [ISO3166]: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
