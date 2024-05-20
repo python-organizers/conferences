@@ -11,14 +11,16 @@ from vladiate.validators import (
     Ignore,
     SetValidator,
     Validator,
-    ValidationException,
-)
+    ValidationException)
 
-CSV_PATH = Path(__file__).resolve().parent.parent
+
+FOLDER = Path(__file__).resolve().parent.parent
+
 
 # NOTE: This validator doesn't actually use the field argument, but it
 # needs to be registered on a field in order to be used.
 class RowLengthValidator(Validator):
+
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.invalid_rows = []
@@ -39,18 +41,17 @@ class RowLengthValidator(Validator):
             expected_length = len(row) - 1
             length = len(row) + len(row[None]) - 1
             raise ValidationException(
-                f"Expected {expected_length} fields, got {length}"
-            )
+                f'Expected {expected_length} fields, got {length}')
 
         # Similarly, there is a `csv.DictReader.restval` attribute that
         # handles the case where there are fewer than expected rows.
         if None in row.values():
             self.invalid_rows.append(row)
             expected_length = len(row)
-            length = len([value for value in row.values() if value is not None])
+            length = len([
+                value for value in row.values() if value is not None])
             raise ValidationException(
-                f"Expected {expected_length} fields, got {length}"
-            )
+                f'Expected {expected_length} fields, got {length}')
 
     @property
     def bad(self):
@@ -58,45 +59,43 @@ class RowLengthValidator(Validator):
 
 
 class ISOFormatDateValidator(CastValidator):
+
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.cast = date.fromisoformat
 
 
 class ConferencesValidator(Vlad):
+
     def __init__(self, *args, **kwargs):
         # See https://github.com/di/vladiate/issues/35 for the reason
         # this needs to be defined in __init__ instead of at the class
         # level.
         self.validators = {
-            "Subject": [NotEmptyValidator(), RowLengthValidator()],
-            "Start Date": [ISOFormatDateValidator()],
-            "End Date": [ISOFormatDateValidator()],
-            "Location": [Ignore()],
-            "Country": [
+            'Subject': [NotEmptyValidator(), RowLengthValidator()],
+            'Start Date': [ISOFormatDateValidator()],
+            'End Date': [ISOFormatDateValidator()],
+            'Location': [Ignore()],
+            'Country': [
                 SetValidator(
                     valid_set={country.alpha3 for country in countries},
-                    empty_ok=True,
-                ),
-            ],
-            "Venue": [Ignore()],
-            "Tutorial Deadline": [ISOFormatDateValidator(empty_ok=True)],
-            "Talk Deadline": [ISOFormatDateValidator(empty_ok=True)],
-            "Website URL": [Ignore()],
-            "Proposal URL": [Ignore()],
-            "Sponsorship URL": [Ignore()],
-        }
+                    empty_ok=True)],
+            'Venue': [Ignore()],
+            'Tutorial Deadline': [ISOFormatDateValidator(empty_ok=True)],
+            'Talk Deadline': [ISOFormatDateValidator(empty_ok=True)],
+            'Website URL': [Ignore()],
+            'Proposal URL': [Ignore()],
+            'Sponsorship URL': [Ignore()]}
         super().__init__(*args, **kwargs)
 
 
 def main():
     any_error = False
-    for path in sorted(CSV_PATH.glob("*.csv")):
+    for path in sorted(FOLDER.glob('*.csv')):
         error = not ConferencesValidator(source=LocalFile(path)).validate()
         any_error = any_error or error
-
     sys.exit(any_error)
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

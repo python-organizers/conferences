@@ -1,33 +1,36 @@
 Subject,Start Date,End Date,Location,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
-PyCascades,2020-02-08,2020-02-09,"Portland, Oregon, United States of America",USA,Revolution Hall,,2019-10-01,https://2020.pycascades.com,https://www.papercall.io/pycascades-2020,https://2020.pycascades.com/become-a-sponsor/
-PyCon Namibia,2020-02-18,2020-02-20,"Windhoek, Namibia",NAM,,,2019-12-27,https://na.pycon.org/,https://na.pycon.org/call-proposals/,
-PyTennessee,2020-03-07,2020-03-08,"Nashville, Tennessee, United States of America",USA,Nashville School of Law,,,https://www.pytennessee.org/,https://www.pytennessee.org/prospectus,
-Moscow Python Conf++ 2020,2020-03-27,2020-03-27,"Moscow, Russia",RUS,Infospace,,2020-01-13,https://conf.python.ru/en/2020,https://onticoconferences.typeform.com/to/OySCUQ,
-Remote Python Pizza,2020-04-25,2020-04-25,Worldwide,,Online,,2020-04-06,https://remote.python.pizza/,https://forms.gle/j5D8EMWPfbvWJbtz7,
-Python Web Conf,2020-06-17,2020-06-19,"Fishers, Indiana, United States of America",USA,Online,,,https://2020.pythonwebconf.com/,,
-FlaskCon,2020-07-04,2020-07-05,Worldwide,,Online,,,https://flaskcon.com/,,
-SciPy,2020-07-06,2020-07-12,"Austin, Texas, United States of America",USA,Online,2020-02-11,2020-02-11,https://www.scipy2020.scipy.org/,https://www.scipy2020.scipy.org/participate,https://www.scipy2020.scipy.org/sponsors-job-fair
-EuroPython,2020-07-23,2020-07-26,"Dublin, Ireland",IRL,Online,,,https://ep2020.europython.eu/,,
-PyOhio,2020-07-25,2020-07-26,"Columbus, Ohio, United States of America",USA,Online,,2020-06-14,https://www.pyohio.org/2020/,https://pyohio.org/cfp,
-PiterPy,2020-08-03,2020-08-06,"Saint Petersburg, Russia",RUS,Online,,,https://piterpy.com/,,
-PyCon Africa,2020-08-04,2020-08-08,"Accra, Ghana",GHA,Online,,,https://africa.pycon.org/,,
-PyCon JP 2020,2020-08-22,2020-08-30,"Tokyo, Japan",JPN,Online,,,https://pycon.jp/2020/,,
-DjangoCon AU,2020-09-04,2020-09-04,"Adelaide, Australia",AUS,Online,,2020-07-12,https://2020.djangocon.com.au/,https://2020.pycon.org.au/speak/,
-PyConline AU,2020-09-04,2020-09-06,"Adelaide, Australia",AUS,Online,,2020-07-12,https://2020.pycon.org.au/,https://2020.pycon.org.au/speak/,
-PyCon SK,2020-09-11,2020-09-13,"Bratislava, Slovakia",SVK,Faculty of Informatics and Information Technologies STU,,2020-01-31,https://2020.pycon.sk/,https://2020.pycon.sk/en/cfp.html,
-DjangoCon Europe,2020-09-16,2020-09-20,"Porto, Portugal",PRT,Online,,2020-03-01,https://2020.djangocon.eu/,https://2020.djangocon.eu/talks/cfp/,
-DragonPy,2020-09-19,2020-09-20,"Ljubljana, Slovenia",SVN,Faculty of Social Sciences,,,https://dragonpy.com/,https://www.papercall.io/dragonpy,https://dragonpy.com/sponsors
-Python Machine Learning & GeoPython 2020,2020-09-21,2020-09-22,Worldwide,,Online,,,https://2020.pythonml.org/,,
-PyCon Korea,2020-09-26,2020-09-27,"Seoul, South Korea",KOR,Online,,2020-07-14,https://pycon.kr/2020/,https://www.pycon.kr/2020/contribution/cfp/,
-PyCon Turkey,2020-09-26,2020-09-27,"Istanbul, Turkey",TUR,"Albert Long Hall, Bogazici University",,2020-01-15,https://tr.pycon.org/,https://www.papercall.io/pycon-turkey-2020,
-PyGotham TV,2020-10-02,2020-10-03,"New York, New York, United States of America",USA,Online,,2020-07-05,https://2020.pygotham.tv,https://cfp.pygotham.tv,https://2020.pygotham.tv/sponsors/prospectus/
-PyCon India,2020-10-02,2020-10-05,"Bengaluru, India",IND,Online,,2020-08-14,https://in.pycon.org/2020/,https://in.pycon.org/cfp/2020/proposals/,
-PyCon ES,2020-10-03,2020-10-03,"Granada, Spain",ESP,Online,,2020-07-26,https://2020.es.pycon.org/,https://forms.gle/zXzaZ9VHbwfzwWabA,
-JupyterCon,2020-10-05,2020-10-17,"Berlin, Germany",DEU,Online,,2020-07-20,https://jupytercon.com,https://jupytercon.com/talk-poster-cfp/,
-PyTexas,2020-10-24,2020-10-25,"Austin, Texas, United States of America",USA,,,,https://www.pytexas.org/2020/,,
-PyCon Italy,2020-11-05,2020-11-08,"Florence, Italy",ITA,Grand Hotel Mediterraneo,,,https://www.pycon.it/en/,,https://www.pycon.it/en/sponsor/
-DjangoCon Africa,2020-11-09,2020-11-13,"Addis Ababa, Ethiopia",ETH,,,,https://2020.djangocon.africa/,,
-PyCon Sweden,2020-11-12,2020-11-13,"Stockholm, Sweden",SWE,Online,,2020-09-30,http://www.pycon.se,https://forms.gle/kzydUY5miiLjXwmH6,
-PyCon Indonesia,2020-11-14,2020-11-15,Indonesia,IDN,Online,,2020-10-24,https://pycon.id/,https://pycon.id/call-for-proposal,https://pycon.id/sponsor
-Pyjamas Conf,2020-12-05,2020-12-05,Worldwide,,Online,,2020-09-05,https://pyjamas.live/,https://pyjamas.live/cfp/,
-Python Pizza New Years Party,2020-12-31,2021-12-01,Worldwide,,Online,,2020-12-20,https://hamburg.python.pizza/,https://pysv10.fe.rzob.gocept.net/en_GB/cfp,
+PyCascades,2020-02-08,2020-02-09,"Portland, Oregon, United States of America",USA,Revolution Hall,,2019-10-01,https://2020.pycascades.com,https://www.papercall.io/pycascades-2020,https://2020.pycascades.com/become-a-sponsor
+PyCon Namibia,2020-02-18,2020-02-20,"Windhoek, Khomas Highland, Namibia",NAM,,,2019-12-27,https://na.pycon.org,https://na.pycon.org/call-proposals,
+PyBeach,2020-02-29,2020-02-29,"Los Angeles, California, United States of America",USA,Toolbox LA,,2019-12-16,https://2020.pybeach.org,https://www.papercall.io/pybeach2020,https://2020.pybeach.org/sponsors
+PyTennessee,2020-03-07,2020-03-08,"Nashville, Tennessee, United States of America",USA,Nashville School of Law,,,https://www.pytennessee.org,https://www.pytennessee.org/prospectus,
+Moscow Python Conf++,2020-03-27,2020-03-27,"Moscow, Central Federal District, Russia",RUS,Infospace,,2020-01-13,https://conf.python.ru/en/2020,https://onticoconferences.typeform.com/to/OySCUQ,
+Remote Python Pizza,2020-04-25,2020-04-25,Worldwide,,Online,,2020-04-06,https://remote.python.pizza,https://forms.gle/j5D8EMWPfbvWJbtz7,
+Python fwdays,2020-05-16,2020-05-23,"Kyiv, Kyiv Oblast, Ukraine",UKR,Online,,,https://fwdays.com/en/event/python-fwdays-conference,,
+Python Web Conf,2020-06-17,2020-06-19,"Fishers, Indiana, United States of America",USA,Online,,,https://2020.pythonwebconf.com,,
+FlaskCon,2020-07-04,2020-07-05,Worldwide,,Online,,,https://flaskcon.com,,
+SciPy,2020-07-06,2020-07-12,"Austin, Texas, United States of America",USA,Online,2020-02-11,2020-02-11,https://www.scipy2020.scipy.org,https://www.scipy2020.scipy.org/participate,https://www.scipy2020.scipy.org/sponsors-job-fair
+EuroPython,2020-07-23,2020-07-26,"Dublin, Leinster, Ireland",IRL,Online,,,https://ep2020.europython.eu,,
+PyOhio,2020-07-25,2020-07-26,"Columbus, Ohio, United States of America",USA,Online,,2020-06-14,https://www.pyohio.org/2020,https://www.pyohio.org/cfp,
+PiterPy,2020-08-03,2020-08-06,"Saint Petersburg, Leningrad Oblast, Russia",RUS,Online,,,https://piterpy.com,,
+PyCon Africa,2020-08-04,2020-08-08,"Accra, Greater Accra, Ghana",GHA,Online,,,https://africa.pycon.org,,
+PyCon Japan,2020-08-22,2020-08-30,"Tokyo, Kantō, Japan",JPN,Online,,,https://pycon.jp/2020,,
+DjangoCon Australia,2020-09-04,2020-09-04,"Tarndanya (Adelaide), Australia",AUS,Online,,2020-07-12,https://2020.djangocon.com.au,https://2020.pycon.org.au/speak,
+PyCon Australia,2020-09-04,2020-09-06,"Tarndanya (Adelaide), Australia",AUS,Online,,2020-07-12,https://2020.pycon.org.au,https://2020.pycon.org.au/speak,
+PyCon Slovakia,2020-09-11,2020-09-13,"Bratislava, Bratislava, Slovakia",SVK,Faculty of Informatics and Information Technologies STU,,2020-01-31,https://2020.pycon.sk,https://2020.pycon.sk/en/cfp.html,
+DjangoCon Europe,2020-09-16,2020-09-20,"Porto, Oporto, Portugal",PRT,Online,,2020-03-01,https://2020.djangocon.eu,https://2020.djangocon.eu/talks/cfp,
+DragonPy,2020-09-19,2020-09-20,"Ljubljana, Central Slovenia, Slovenia",SVN,Faculty of Social Sciences,,,https://dragonpy.com,https://www.papercall.io/dragonpy,https://dragonpy.com/sponsors
+GeoPython & Python Machine Learning,2020-09-21,2020-09-22,Worldwide,,Online,,,https://2020.pythonml.org,,
+PyCon Korea,2020-09-26,2020-09-27,"Seoul, Seoul Capital Area, South Korea",KOR,Online,,2020-07-14,https://pycon.kr/2020,https://www.pycon.kr/2020/contribution/cfp,
+PyCon Turkey,2020-09-26,2020-09-27,"Istanbul, Marmara, Turkey",TUR,"Albert Long Hall, Bogazici University",,2020-01-15,https://tr.pycon.org,https://www.papercall.io/pycon-turkey-2020,
+PyGotham TV,2020-10-02,2020-10-03,"New York, New York, United States of America",USA,Online,,2020-07-05,https://2020.pygotham.tv,https://cfp.pygotham.tv,https://2020.pygotham.tv/sponsors/prospectus
+PyCon India,2020-10-02,2020-10-05,"Bengaluru, Karnataka, India",IND,Online,,2020-08-14,https://in.pycon.org/2020,https://in.pycon.org/cfp/2020/proposals,
+PyCon España,2020-10-03,2020-10-03,"Granada, Andalusia, Spain",ESP,Online,,2020-07-26,https://2020.es.pycon.org,https://forms.gle/zXzaZ9VHbwfzwWabA,
+JupyterCon,2020-10-05,2020-10-17,"Berlin, Brandenburg, Germany",DEU,Online,,2020-07-20,https://jupytercon.com,https://jupytercon.com/talk-poster-cfp,
+PyCon mini Hiroshima,2020-10-10,2020-10-10,"Hiroshima, Chugoku, Japan",JPN,,,,https://hiroshima.pycon.jp/2020,,
+PyTexas,2020-10-24,2020-10-25,"Austin, Texas, United States of America",USA,,,,https://www.pytexas.org/2020,,
+PyCon Italia,2020-11-05,2020-11-08,"Florence, Tuscany, Italy",ITA,Grand Hotel Mediterraneo,,,https://www.pycon.it/en,,https://www.pycon.it/en/sponsor
+DjangoCon Africa,2020-11-09,2020-11-13,"Addis Ababa, Oromia, Ethiopia",ETH,,,,https://2020.djangocon.africa,,
+PyCon Sweden,2020-11-12,2020-11-13,"Stockholm, Stockholm County, Sweden",SWE,Online,,2020-09-30,http://www.pycon.se,https://forms.gle/kzydUY5miiLjXwmH6,
+PyCon Indonesia,2020-11-14,2020-11-15,Indonesia,IDN,Online,,2020-10-24,https://pycon.id,https://pycon.id/call-for-proposal,https://pycon.id/sponsor
+Pyjamas Conf,2020-12-05,2020-12-05,Worldwide,,Online,,2020-09-05,https://pyjamas.live,https://pyjamas.live/cfp,
+Python Pizza New Years Party,2020-12-31,2021-12-01,Worldwide,,Online,,2020-12-20,https://hamburg.python.pizza,https://pysv10.fe.rzob.gocept.net/en_GB/cfp,

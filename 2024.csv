@@ -1,3 +1,55 @@
 Subject,Start Date,End Date,Location,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
-PyTexas 2024,2024-04-20,2024-04-21,"Austin, TX",USA,Austin Central Library,,,https://www.pytexas.org/,,
-PyCon US 2024,2024-05-15,2024-05-23,"Pittsburgh, PA",USA,,,,https://us.pycon.org/,,
+Python Devroom @ FOSDEM,2024-02-04,2024-02-04,"Brussels, Belgium",BEL,,,2023-12-01,https://fosdem.org/2024/schedule/track/python-devroom/,,
+Python Pizza Prague,2024-02-24,2024-02-24,"Prague, Czechia",CZE,,,2023-12-31,https://prague.python.pizza/,https://docs.google.com/forms/d/e/1FAIpQLSfaDox_HZ2il0KOoohtYQJxVbhuTlwMFpmbz8bp-WOoLVQlNQ/viewform?usp=sf_link,
+PyCon Philippines,2024-02-25,2024-02-26,"Makati City, Philippines",PHL,Makati Sports Club,,2023-12-31,https://pycon-2024.python.ph/,,https://docs.google.com/forms/d/e/1FAIpQLSfFUgrENuMWS-Ef4DQdDucTYAwVcV-_kPjnTxpiIXVl7fx-_g/closedform
+PyCon Namibia,2024-03-04,2024-03-08,"Windhoek, Namibia",NAM,,,2024-01-21,https://na.pycon.org,https://na.pycon.org/call-proposals/,https://na.pycon.org/sponsorship/
+PyCon Pakistan,2024-03-09,2024-03-10,"Lahore, Pakistan",PAK,,,2024-01-15,https://pycon.pk/,,
+PyCon Slovakia,2024-03-15,2024-03-17,"Bratislava, Slovakia",SVK,,,2023-12-31,https://2024.pycon.sk/,https://2024.pycon.sk/en/cfp,
+PyCamp España,2024-03-29,2024-04-01,"Lleida, Spain",ESP,,,2024-03-27,https://pycamp.es/,https://docs.google.com/forms/d/1PpI3MstjIBH2e9J21UQaTHQLKTTEuR13od3iQkfJ8Zo/viewform?edit_requested=true,
+PyCon Lithuania,2024-04-02,2024-04-06,"Vilnius, Lithuania",LTU,,,2024-01-10,https://pycon.lt/2024,https://pycon.lt/2024/call-for-proposals,https://pycon.lt/2024/partnership
+PyCascades,2024-04-05,2024-04-08,"Seattle, Washington, United States of America",USA,,,2024-01-04,https://2024.pycascades.com/,https://pretalx.com/pycascades-2024/cfp,https://2024.pycascades.com/sponsors/become-a-sponsor/
+Python fwdays,2024-04-20,2024-04-20,"Kyiv, Ukraine",UKR,,,2024-03-20,https://fwdays.com/en/event/python-ds-fwdays-2024,https://docs.google.com/forms/d/e/1FAIpQLScnUVAZxseEr8a3p7jUj7D6q-U3LoiFA3Z1I4mAqR0ovUW1-g/closedform,
+PyTexas,2024-04-20,2024-04-21,"Austin, Texas, United States of America",USA,Austin Central Public Library,,2024-01-14,https://www.pytexas.org,https://pretalx.com/pytexas-2024/,https://pytexas.org/2024/sponsors/sponsor-us/
+PyCon DE & PyData Berlin,2024-04-22,2024-04-25,"Berlin, Brandenburg, Germany",DEU,Berlin Congress Center,,2024-01-07,https://pycon.de,https://pretalx.com/pyconde-pydata-2024/cfp,https://2024.pycon.de/sponsors/
+Python Niger,2024-04-28,2024-04-28,"Maradi, Niger Republic",NER,,,,https://fb.me/e/8alLCsc39,,
+PyCon US,2024-05-15,2024-05-23,"Pittsburgh, Pennsylvania, United States of America",USA,,,2023-12-18,https://us.pycon.org,https://us.pycon.org/2024/speaking/guidelines/,https://us.pycon.org/2024/sponsorship/why-sponsor/
+Flask Con,2024-05-17,2024-05-17,"Pittsburgh, USA",USA,,,,https://flaskcon.com/2024/coming-soon,,
+PyGrunn,2024-05-17,2024-05-17,"Groningen, Netherlands",NLD,,,,https://pygrunn.org/,https://forms.gle/AXzpAA9KyFaR9VHx8,https://pygrunn.org/#sponsoring
+PyCon Italia,2024-05-22,2024-05-25,"Florence, Italy",ITA,,,2024-01-15,https://pycon.it/en,https://2024.pycon.it/cfp,https://2024.pycon.it/en/sponsor
+GeoPython,2024-05-27,2024-05-29,"Basel, Switzerland",CHE,,,2024-01-23,https://2024.geopython.net/,https://submit.geopython.net/geopython-2024/cfp,
+PyCon Colombia,2024-06-07,2024-06-09,"Medellin, Colombia",COL,,,2024-03-11,https://2024.pycon.co/,https://2024.pycon.co/call-for-proposals,
+Wagtail Space NL,2024-06-12,2024-06-14,"Arnhem, Netherlands",NLD,,,2024-03-08,https://nl.wagtail.space/,https://nl.wagtail.space/call-for-participation,https://nl.wagtail.space/sponsors
+DjangoCon Europe,2024-06-12,2024-06-16,"Vigo, Spain",ESP,,,2024-02-29,https://2024.djangocon.eu/,https://2024.djangocon.eu/call-for-proposals,https://2024.djangocon.eu/sponsors/sponsorship/
+PyData London,2024-06-14,2024-06-16,"London, UK",GBR,,,2024-03-04,https://pydata.org/london2024/,https://pydata.org/london2024/cfp#submit,https://pydata.org/london2024/sponsor
+Wagtail Space US,2024-06-20,2024-06-22,"Philadelphia, USA",USA,,,2024-04-22,https://us.wagtail.space/,https://us.wagtail.space/#speak,https://us.wagtail.space/#sponsors
+North Bay Python,2024-06-29,2024-06-30,"Petaluma, California, USA",USA,,,2024-04-12,https://2024.northbaypython.org/,,
+EuroPython,2024-07-08,2024-07-14,"Prague, Czechia",CZE,,,2024-03-06,https://ep2024.europython.eu/,https://ep2024.europython.eu/cfp/,
+Scipy,2024-07-08,2024-07-14,"Tacoma, Washington, USA",USA,,,2024-02-27,https://scipy2024.scipy.org,https://cfp.scipy.org/2024/cfp,
+PyCon Nigeria,2024-07-10,2024-07-13,"Lagos, Nigeria",NGA,,,2024-03-10,https://ng.pycon.org/,,
+PyCon Russia,2024-07-26,2024-07-27,"Moscow, Russia",RUS,,,2024-05-15,https://www.pycon.ru/,,
+PyOhio,2024-07-27,2024-07-28,"Cleveland, Ohio, United States of America",USA,The Westin Cleveland Downtown,,2024-05-20,https://www.pyohio.org/2024/,https://www.pyohio.org/cfp,https://www.pyohio.org/prospectus
+Python Nordeste,2024-08-09,2024-08-11,"Natal, Brazil",BRA,,,2024-03-04,https://2024.pythonnordeste.org/,https://even3.com.br/python-nordeste-2024/,https://drive.google.com/file/d/1WvfelX-Sfp79YcUbf8Hs6e-MtPabVSmO/view
+Kiwi PyCon XIII,2024-08-23,2024-08-25,"Te Whanganui-a-Tara Wellington, New Zealand",NZL,,,2024-05-23,https://kiwipycon.nz/,https://kiwipycon.nz/present/submitting-a-talk,
+PyHEP,2024-08-26,2024-08-30,"Aachen, Germany",DEU,,,2024-06-25,https://indico.cern.ch/event/1375573/,,
+PyCon Poland,2024-08-29,2024-09-01,"Gliwice, Poland",POL,,,2024-08-13,https://pl.pycon.org/2024/,,https://pl.pycon.org/2024/en/sponsorzy/
+EARL,2024-09-04,2024-09-05,"Brighton, United Kingdom",GBR,,,2024-03-31,https://datacove.co.uk/earl-2024-tech-conference/,https://docs.google.com/forms/d/e/1FAIpQLSf7QY-VFFWB5FtKl3dENcNSDnzhvqS2GL43bv6GjKCyYIrHKw/viewform,
+PyCon Estonia,2024-09-05,2024-09-06,"Tallinn, Estonia",EST,,,2024-04-15,https://pycon.ee/,https://docs.google.com/forms/d/e/1FAIpQLSe-OUSgBSYweCMPCAv-1pYXscGK9T7npoP77Dk17LtvQsynwQ,https://pydata.org/paris2024/sponsorship-opportunites
+Python Sul,2024-09-13,2024-09-15,"Florianópolis, Brazil",BRA,,,,https://sul.python.org.br/,,
+PyData Amsterdam,2024-09-18,2024-09-20,"Amsterdam, Netherlands",NLD,,,,https://amsterdam.pydata.org/,,https://amsterdam.pydata.org/sponsor/
+PyCon India,2024-09-20,2024-09-23,"Bengaluru, India",IND,NIMHANS Convention Centre,2024-05-31,2024-05-31,https://in.pycon.org/2024/,https://in.pycon.org/cfp/2024/proposals/,
+PyCon Taiwan,2024-09-21,2024-09-22,TBD,TWN,TBD,2024-04-08,2024-04-08,https://tw.pycon.org/2024/en-us,https://tw.pycon.org/2024/en-us/speaking/cfp,https://tw.pycon.org/2024/en-us/sponsor
+DjangoCon US,2024-09-22,2024-09-27,"Durham, USA",USA,,,2024-04-24,https://2024.djangocon.us/,https://2024.djangocon.us/speaking/,
+PyCon Africa,2024-09-24,2024-09-28,"Accra, Ghana",GHA,Cedi Conference Center,2024-07-08,2024-07-08,https://africa.pycon.org/2024/,https://africa.pycon.org/2024/talks/speaking/,https://africa.pycon.org/2024/sponsor-us/
+PyData Paris,2024-09-25,2024-09-26,"Paris, France",FRA,,,2024-04-08,https://pydata.org/paris2024/,https://pydata.org/paris2024/cfp/,
+PyCon JP,2024-09-26,2024-09-29,"Tokyo, Japan",JPN,TOC Ariake Convention Hall,,2024-05-31,https://2024.pycon.jp/,https://pretalx.com/pyconjp2024/cfp,
+Piter Py,2024-09-26,2024-09-27,"Saint Petersburg, Russia",RUS,,,2024-06-01,https://piterpy.com/en/,,
+PyConZA (South Africa),2024-10-03,2024-10-04,"Cape Town, South Africa",ZAF,Belmont Square Conference Centre,2024-08-18,2024-08-18,https://za.pycon.org/,https://za.pycon.org/talks/how-to-submit-a-talk/,
+PyCon Spain,2024-10-04,2024-10-06,"Vigo, Spain",ESP,,,,https://2024.es.pycon.org/,,
+PyCon Uganda,2024-10-09,2024-10-13,"Kampala, Uganda",UGA,NWSC International Resource Center,2024-04-30,2024-04-30,https://ug.pycon.org/2024,https://www.papercall.io/pyconug,https://ug.pycon.org/2024/sponsors
+Python Brasil,2024-10-16,2024-10-21,"Rio de Janeiro, Brazil",BRA,,,,https://2024.pythonbrasil.org.br/,,
+Swiss Python Summit,2024-10-17,2024-10-18,"Rapperswil, Switzerland",CHE,,,,https://python-summit.ch,,
+PyCon Asia Pacific,2024-10-25,2024-10-27,"Yogyakarta, Indonesia",IDN,,,,https://pycon.id/,,
+PyCon Korea,2024-10-25,2024-10-27,"Suwon, South Korea",KOR,Suwon Convention Center,,,https://pycon.kr/,,
+PyCon France,2024-10-31,2024-11-03,"Strasbourg, France",FRA,Université de Mathématique et d’Informatique de Strasbourg,,2024-07-21,https://pycon.fr/2024/,https://cfp.pycon.fr/pyconfr-2024/cfp,https://pycon.fr/2024/fr/sponsors.html
+PyCon Hong Kong,2024-11-16,2024-11-16,"Hong Kong, China",HKG,,,2024-07-01,https://pycon.hk/,https://pretalx.com/pyconhk2024/cfp,
+Plone Conference,2024-11-25,2024-12-01,"Brasilia, Brazil",BRA,,,,https://2024.ploneconf.org/en,,
