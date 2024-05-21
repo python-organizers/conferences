@@ -1,26 +1,27 @@
 ---
 name: Validate CSV
-
 on:
+  push:
+    branches:
+    - main
   pull_request:
-
+    branches:
+    - main
+permissions:
+  contents: write
 jobs:
   test-build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Setup Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: pip install -r linters/requirements.txt
-
-      - name: Validate CSV
-        run: python linters/lint-csv.py
-
-      - name: Autoformat CSV
-        run: python linters/autoformat-csv.py
+          python-version: "3.12"
+      - run: pip install -r linters/requirements.txt
+      - run: python linters/lint-csv.py
+      - run: python linters/autoformat-csv.py
+      - run: |
+          git config --global user.name 'Jon Banafato'
+          git config --global user.email 'jonafato@users.noreply.github.com'
+          git commit -am "Autoformat CSV"
+          git push
