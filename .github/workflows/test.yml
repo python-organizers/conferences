@@ -23,5 +23,5 @@ jobs:
       - run: |
           git config --global user.name 'Jon Banafato'
           git config --global user.email 'jonafato@users.noreply.github.com'
-          git commit -am "Autoformat CSV"
+          git diff --quiet || git commit -am "Autoformat CSV"
           git push
