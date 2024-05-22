@@ -17,9 +17,11 @@ jobs:
         if: github.event_name == 'pull_request'
         with:
           fetch-depth: 0
-          ref: ${{ github.event.pull_request.head.ref }}
+          ref: ${{ github.event.pull_request.head.sha }}
       - uses: actions/checkout@v4
         if: github.event_name == 'push'
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
