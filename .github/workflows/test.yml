@@ -15,7 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
           ref: ${{ github.head_ref }}
       - uses: actions/setup-python@v5
         with:
@@ -23,8 +22,9 @@ jobs:
       - run: pip install -r linters/requirements.txt
       - run: python linters/autoformat-csv.py
       - run: python linters/lint-csv.py
-      - run: |
-          git config user.name 'Jon Banafato'
-          git config user.email 'jonafato@users.noreply.github.com'
-          git diff --quiet || git commit -am "Autoformat CSV"
-          git push
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Autoformat CSV
+          commit_user_name: Jon Banafato
+          commit_user_email: jonafato@users.noreply.github.com
+          commit_author: Jon Banafato <jonafato@users.noreply.github.com>
