@@ -3,10 +3,10 @@ name: Validate CSV
 on:
   push:
     branches:
-    - main
+      - main
   pull_request:
     branches:
-    - main
+      - main
 permissions:
   contents: write
 jobs:
@@ -14,14 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        if: github.event_name == 'pull_request'
         with:
           fetch-depth: 0
-          ref: ${{ github.event.pull_request.head.sha }}
-      - uses: actions/checkout@v4
-        if: github.event_name == 'push'
-        with:
-          fetch-depth: 0
+          ref: ${{ github.head_ref }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -29,7 +24,7 @@ jobs:
       - run: python linters/autoformat-csv.py
       - run: python linters/lint-csv.py
       - run: |
-          git config --global user.name 'Jon Banafato'
-          git config --global user.email 'jonafato@users.noreply.github.com'
+          git config user.name 'Jon Banafato'
+          git config user.email 'jonafato@users.noreply.github.com'
           git diff --quiet || git commit -am "Autoformat CSV"
           git push
