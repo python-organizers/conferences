@@ -30,7 +30,8 @@ Each CSV file is [compatible with Google Calendar](https://support.google.com/ca
 There are tests to ensure that the files are written in the correct format
 
     pip install -r linters/requirements.txt
-    python linters/lint-csv.py
+    python linters/format.py
+    python linters/validate.py
 
 ## Tools Using this Dataset
 
