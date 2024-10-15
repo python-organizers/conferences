@@ -1,5 +1,35 @@
 Subject,Start Date,End Date,Location,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
-PyCascades,2025-02-08,2025-02-09,"Portland, Oregon, United States of America",USA,Revolution Hall,,2024-09-15,https://2025.pycascades.com/,https://2025.pycascades.com/program/cfp/,
-PyTexas,2025-04-11,2025-04-13,"Austin, Texas, United States of America",USA,Austin Central Public Library,2025-01-14,2025-01-14,https://www.pytexas.org/2025/,,https://www.pytexas.org/2025/sponsors/sponsor-us/
+PyCascades,2025-02-08,2025-02-09,"Portland, Oregon, United States of America",USA,Revolution Hall,,2024-09-15,https://2025.pycascades.com,https://2025.pycascades.com/program/cfp,
+PyTexas,2025-04-11,2025-04-13,"Austin, Texas, United States of America",USA,Austin Central Public Library,2025-01-14,2025-01-14,https://www.pytexas.org/2025,,https://www.pytexas.org/2025/sponsors/sponsor-us/
 PyCon US,2025-05-14,2025-05-22,"Pittsburgh, Pennsylvania, United States of America",USA,David L. Lawrence Convention Center,,,https://us.pycon.org,,
-PyCon Italia,2025-05-28,2025-05-31,"Bologna, Italy",ITA,Savoia Hotel Regency,,,https://2025.pycon.it/,,
+PyCon Italia,2025-05-28,2025-05-31,"Bologna, Italy",ITA,Savoia Hotel Regency,2025-01-06,2025-01-06,https://2025.pycon.it,https://pycon.it/cfp,https://2025.pycon.it/en/sponsor
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+PyCon Namibia,2025-02-24,2025-02-27,"Windhoek, Namibia",NAM,,,,https://na.pycon.org,,
+PyCamp España,2025-05-01,2025-05-04,"Sevilla, España",ESP,,,,https://pycamp.es,https://docs.google.com/forms/d/1PpI3MstjIBH2e9J21UQaTHQLKTTEuR13od3iQkfJ8Zo,
+PyCon Lithuania,2025-04-23,2025-04-25,"Vilnius, Lithuania",LTU,,,,https://pycon.lt,https://pycon.lt/call-for-proposals,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+PyGrunn,2025-05-16,2025-05-16,"Groningen, Netherlands",NLD,,,,https://pygrunn.org,https://docs.google.com/forms/d/e/1FAIpQLSdjbpV9Ump8dcAKkN0R0hYpxd8-L5eyekvz3NxbtJLK1g-PPA,https://pygrunn.org/#sponsoring
+,,,,,,,,,,
+GeoPython,2025-02-24,2025-02-26,"Basel, Switzerland",CHE,,,2024-11-15,https://2025.geopython.net,https://submit.geopython.net/geopython-2025/cfp,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+PyCon Russia,2025-07-25,2025-07-26,"Moscow, Russia",RUS,,,,https://www.pycon.ru,,https://pycon.ru/partneram
