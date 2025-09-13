@@ -80,7 +80,7 @@ for event in c.events:
         soup = BeautifulSoup(description, 'html.parser')
         a_element = soup.find('a')
         if a_element:
-            website_uri = a_element.get('href', '')
+            website_uri = normalize_uri(a_element.get('href', ''))
     start_date = event.begin.date()
     if start_date.year < minimum_year:
         continue
