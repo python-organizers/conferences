@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup, MarkupResemblesLocatorWarning
 from ics import Calendar
 
 
-warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
+warnings.filterwarnings('ignore', category=MarkupResemblesLocatorWarning)
 
 
 def get_uris(element):
