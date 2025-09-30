@@ -7,6 +7,39 @@ Here is a list of Python Conferences around the world. The goal is to make it ea
 
 :warning: This repository does not power www.pycon.org; to add an event to www.pycon.org, see [its official repository](https://github.com/PyCon/pycon.org#adding-your-pycon-to-the-website). See also https://github.com/python-organizers/resources.
 
+## Event Metadata
+
+Include machine readable metadata on the homepage of your conference website to make it easier for aggregators to add your event to their listings. Here is the most recent example in JSON-LD format. Please see https://github.com/python-organizers/conferences/issues/266 for details.
+
+```
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ConferenceEvent",
+  "name": "EuroPython 2025",
+  "url": "https://ep2025.europython.eu",
+  "startDate": "2025-07-14",
+  "endDate": "2025-07-20",
+  "location": {
+    "@type": "PostalAddress",
+    "name": "The Prague Congress Centre",
+    "addressCountry": "CZ"
+  },
+  "hasParticipationOffer": {
+     "@type": "Offer",
+     "name": "Call for Proposals",
+     "url": "https://ep2025.europython.eu/cfp/",
+     "availabilityEnds": "2025-02-03"
+  },
+  "hasSponsorshipOffer":  {
+    "@type": "Offer",
+    "name": "Sponsor Packages",
+    "url": "https://ep2025.europython.eu/sponsorship/sponsor/"
+   }
+}
+</script>
+```
+
 ## File Format
 
 Each CSV file is [compatible with Google Calendar](https://support.google.com/calendar/answer/37118?hl=en) and has additional optional fields.
