@@ -1,0 +1,336 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Python Conferences Worldwide</title>
+    <script>
+      (function () {
+        const savedTheme = localStorage.getItem("themePreference") || "system";
+
+        function getSystemTheme() {
+          return window.matchMedia("(prefers-color-scheme: dark)").matches
+            ? "dark"
+            : "light";
+        }
+
+        const effectiveTheme =
+          savedTheme === "system" ? getSystemTheme() : savedTheme;
+
+        if (effectiveTheme === "dark") {
+          document.documentElement.classList.add("dark");
+        }
+      })();
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: "class",
+      };
+    </script>
+    <style>
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(10px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      .fade-in {
+        animation: fadeIn 0.3s ease-in;
+      }
+      .theme-slider-button {
+        position: absolute;
+        top: 50%;
+        left: 0.25rem;
+        transform: translateY(-50%);
+        transition:
+          left 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55),
+          transform 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      }
+      .theme-slider[data-theme="light"] .theme-slider-button {
+        left: 0.25rem;
+        transform: translateY(-50%);
+      }
+      .theme-slider[data-theme="system"] .theme-slider-button {
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+      .theme-slider.w-24[data-theme="dark"] .theme-slider-button {
+        left: calc(100% - 2rem);
+        transform: translateY(-50%);
+      }
+      .theme-slider.w-20[data-theme="dark"] .theme-slider-button {
+        left: calc(100% - 1.75rem);
+        transform: translateY(-50%);
+      }
+    </style>
+  </head>
+  <body
+    class="bg-gradient-to-br from-slate-50 to-blue-50 dark:from-slate-900 dark:to-slate-800 min-h-screen transition-colors duration-200"
+  >
+    <div class="container mx-auto px-4 py-8 max-w-7xl">
+      <div
+        id="navbar-theme-toggle"
+        class="flex justify-center md:justify-end items-center mb-4 fade-in"
+      >
+        <div class="inline-flex items-center gap-2">
+          <span
+            class="text-xs font-medium text-slate-600 dark:text-slate-400 select-none"
+            >☀️</span
+          >
+          <div
+            class="theme-slider relative w-24 h-8 bg-slate-300 dark:bg-slate-600 rounded-full cursor-pointer duration-300 shadow-inner hover:shadow-lg"
+            data-theme="system"
+            title="Theme: Light / System / Dark"
+          >
+            <div
+              class="theme-slider-button absolute w-7 h-7 bg-white rounded-full duration-300 ease-[cubic-bezier(0.68,-0.55,0.265,1.55)] shadow-md flex items-center justify-center text-sm"
+            >
+              <span id="navbar-theme-icon">💻</span>
+            </div>
+          </div>
+          <span
+            class="text-xs font-medium text-slate-600 dark:text-slate-400 select-none"
+            >🌙</span
+          >
+        </div>
+      </div>
+
+      <header class="mb-8 text-center fade-in">
+        <h1
+          class="text-6xl font-extrabold text-slate-800 dark:text-slate-100 mb-3 tracking-tight drop-shadow-lg"
+        >
+          🐍 Python Conferences
+        </h1>
+        <p
+          class="text-lg text-slate-600 dark:text-slate-300 max-w-2xl mx-auto backdrop-blur-md bg-white/40 dark:bg-slate-900/40 rounded-xl py-2 px-4 shadow-md"
+        >
+          Discover Python conferences around the world. Find events, submission
+          deadlines, and sponsorship opportunities.
+        </p>
+        <div class="mt-4 flex gap-4 justify-center flex-wrap">
+          <a
+            href="https://github.com/python-organizers/conferences"
+            class="text-sm text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 transition-colors"
+            target="_blank"
+          >
+            📚 GitHub Repository
+          </a>
+          <a
+            href="https://pycon.org"
+            class="text-sm text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 transition-colors"
+            target="_blank"
+          >
+            🌐 PyCon.org
+          </a>
+        </div>
+        <div class="mt-6">
+          <a
+            href="https://github.com/python-organizers/conferences/blob/main/README.md#file-format"
+            target="_blank"
+            class="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 text-white font-semibold rounded-xl shadow-2xl hover:shadow-pink-500/40 hover:from-pink-600 hover:to-blue-700 transition-all transform hover:scale-110 hover:ring-4 hover:ring-pink-300/30 focus:outline-none focus:ring-4 focus:ring-blue-300/40 animate-gradient-x"
+          >
+            <span class="text-2xl animate-bounce">➕</span>
+            <span class="drop-shadow-lg">Add Your Event</span>
+          </a>
+        </div>
+      </header>
+
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8 fade-in">
+        <div
+          class="bg-white/70 dark:bg-slate-800/70 rounded-2xl shadow-xl p-6 border-l-4 border-blue-500 backdrop-blur-md hover:scale-105 hover:shadow-blue-500/30 transition-all duration-300"
+        >
+          <div
+            class="text-3xl font-bold text-slate-800 dark:text-slate-100"
+            id="total-events"
+          >
+            -
+          </div>
+          <div class="text-sm text-slate-600 dark:text-slate-400">
+            Total Events
+          </div>
+        </div>
+        <div
+          class="bg-white/70 dark:bg-slate-800/70 rounded-2xl shadow-xl p-6 border-l-4 border-green-500 backdrop-blur-md hover:scale-105 hover:shadow-green-500/30 transition-all duration-300"
+        >
+          <div
+            class="text-3xl font-bold text-slate-800 dark:text-slate-100"
+            id="total-countries"
+          >
+            -
+          </div>
+          <div class="text-sm text-slate-600 dark:text-slate-400">
+            Countries
+          </div>
+        </div>
+        <div
+          class="bg-white/70 dark:bg-slate-800/70 rounded-2xl shadow-xl p-6 border-l-4 border-purple-500 backdrop-blur-md hover:scale-105 hover:shadow-purple-500/30 transition-all duration-300"
+        >
+          <div
+            class="text-3xl font-bold text-slate-800 dark:text-slate-100"
+            id="upcoming-events"
+          >
+            -
+          </div>
+          <div class="text-sm text-slate-600 dark:text-slate-400">
+            Upcoming Events
+          </div>
+        </div>
+        <div
+          class="bg-white/70 dark:bg-slate-800/70 rounded-2xl shadow- xl p-6 border-l-4 border-amber-500 backdrop-blur-md hover:scale-105 hover:shadow-amber-500/30 transition-all duration-300"
+        >
+          <div
+            class="text-3xl font-bold text-slate-800 dark:text-slate-100"
+            id="years-span"
+          >
+            -
+          </div>
+          <div class="text-sm text-slate-600 dark:text-slate-400">
+            Years of Data
+          </div>
+        </div>
+      </div>
+
+      <div
+        class="bg-white dark:bg-slate-800 rounded-lg shadow-md p-6 mb-6 fade-in"
+      >
+        <div class="grid grid-cols-1 md:grid-cols-5 gap-4">
+          <div>
+            <label
+              class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2"
+              >Search</label
+            >
+            <input
+              type="text"
+              id="search-input"
+              placeholder="Search conferences..."
+              class="w-full px-4 py-2 border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-slate-100 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all"
+            />
+          </div>
+          <div>
+            <label
+              class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2"
+              >Status</label
+            >
+            <select
+              id="status-filter"
+              class="w-full px-4 py-2 border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-slate-100 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all"
+            >
+              <option value="">All Events</option>
+              <option value="upcoming">Upcoming Only</option>
+              <option value="past">Past Only</option>
+            </select>
+          </div>
+          <div>
+            <label
+              class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2"
+              >Year</label
+            >
+            <select
+              id="year-filter"
+              class="w-full px-4 py-2 border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-slate-100 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all"
+            >
+              <option value="">All Years</option>
+            </select>
+          </div>
+          <div>
+            <label
+              class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2"
+              >Country</label
+            >
+            <select
+              id="country-filter"
+              class="w-full px-4 py-2 border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-slate-100 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all"
+            >
+              <option value="">All Countries</option>
+            </select>
+          </div>
+          <div>
+            <label
+              class="block text-sm font-medium text-slate-700 dark:text-slate-300 mb-2"
+              >Sort By</label
+            >
+            <select
+              id="sort-filter"
+              class="w-full px-4 py-2 border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-700 text-slate-900 dark:text-slate-100 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all"
+            >
+              <option value="date-asc">Date (Soonest First)</option>
+              <option value="date-desc">Date (Latest First)</option>
+              <option value="name-asc">Name (A-Z)</option>
+              <option value="name-desc">Name (Z-A)</option>
+            </select>
+          </div>
+        </div>
+        <div class="mt-4 flex gap-2">
+          <button
+            id="reset-filters"
+            class="px-4 py-2 bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-300 rounded-lg hover:bg-slate-300 dark:hover:bg-slate-600 transition-colors text-sm"
+          >
+            Reset Filters
+          </button>
+        </div>
+      </div>
+
+      <div
+        class="mb-4 text-slate-600 dark:text-slate-400 text-sm fade-in flex items-center gap-4"
+      >
+        <span
+          >Showing
+          <span id="results-count" class="font-semibold">0</span>
+          conferences</span
+        >
+        <button
+          id="ical-export-btn"
+          class="px-4 py-2 bg-purple-500 text-white rounded-lg hover:bg-purple-600 transition-colors text-sm font-medium flex items-center gap-2"
+        >
+          <span>📅</span>
+          <span>Export iCal</span>
+        </button>
+      </div>
+
+      <div id="conferences-container" class="space-y-4">
+        <div class="text-center py-12">
+          <div
+            class="inline-block animate-spin rounded-full h-12 w-12 border-4 border-blue-500 border-t-transparent"
+          ></div>
+          <p class="mt-4 text-slate-600">Loading conferences...</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="fixed bottom-6 right-4 flex flex-col items-center gap-3 z-50">
+      <button
+        id="scroll-to-top"
+        class="w-14 h-14 rounded-full flex items-center justify-center cursor-pointer transition-all duration-300 shadow-lg bg-gradient-to-br from-indigo-500 to-purple-600 text-white text-2xl opacity-0 invisible hover:-translate-y-1 hover:shadow-xl active:-translate-y-0.5"
+        title="Scroll to top"
+      >
+        ↑
+      </button>
+      <div
+        id="floating-theme-toggle"
+        class="opacity-0 invisible transition-all duration-300 md:block hidden"
+        title="Theme selector"
+      >
+        <div class="inline-flex items-center">
+          <div
+            class="theme-slider relative w-20 h-7 bg-slate-300 dark:bg-slate-600 rounded-full cursor-pointer duration-300 shadow-inner"
+            data-theme="system"
+            title="Theme: Light / System / Dark"
+          >
+            <div
+              class="theme-slider-button absolute w-6 h-6 bg-white rounded-full duration-300 ease-[cubic-bezier(0.68,-0.55,0.265,1.55)] shadow-md flex items-center justify-center text-xs"
+            >
+              <span id="floating-theme-icon">💻</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
