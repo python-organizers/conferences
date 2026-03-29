@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Python Conferences</title>
+    <meta
+      name="description"
+      content="Browse Python conference events by year with sortable and filterable data table."
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="header">
+        <div>
+          <h1>Python Conferences</h1>
+          <p id="subtitle" class="subtitle">Browse events by year</p>
+        </div>
+      </header>
+
+      <section class="panel" aria-label="Event controls">
+        <div class="control-grid">
+          <label class="field">
+            <span>Year</span>
+            <select id="year-select" aria-label="Select event year"></select>
+          </label>
+
+          <label class="field field-grow">
+            <span>Search</span>
+            <input
+              id="search-input"
+              type="search"
+              placeholder="Search subject, location, venue, country"
+            />
+          </label>
+
+          <label class="field">
+            <span>Status</span>
+            <select id="status-select" aria-label="Filter by status">
+              <option value="all">All</option>
+              <option value="upcoming">Upcoming</option>
+              <option value="ongoing">Ongoing</option>
+              <option value="past">Past</option>
+            </select>
+          </label>
+
+          <label class="field">
+            <span>Country</span>
+            <select id="country-select" aria-label="Filter by country">
+              <option value="all">All</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <section id="notice" class="notice hidden" role="status" aria-live="polite"></section>
+      <section id="error" class="error hidden" role="alert"></section>
+
+      <section class="panel table-panel" aria-label="Conference events">
+        <div id="loading" class="state">Loading events…</div>
+        <div class="table-wrap hidden" id="table-wrap">
+          <table id="events-table">
+            <thead>
+              <tr>
+                <th scope="col"><button class="sort" data-sort-key="subject">Event</button></th>
+                <th scope="col"><button class="sort" data-sort-key="startDate">Start</button></th>
+                <th scope="col"><button class="sort" data-sort-key="endDate">End</button></th>
+                <th scope="col"><button class="sort" data-sort-key="status">Status</button></th>
+                <th scope="col"><button class="sort" data-sort-key="country">Country</button></th>
+                <th scope="col">Location</th>
+                <th scope="col">Venue</th>
+                <th scope="col">Links</th>
+              </tr>
+            </thead>
+            <tbody id="table-body"></tbody>
+          </table>
+        </div>
+        <div id="empty" class="state hidden">No events match the current filters.</div>
+      </section>
+    </main>
+
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>
