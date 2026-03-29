@@ -12,12 +12,14 @@ const state = {
 
 const el = {
   subtitle: document.getElementById("subtitle"),
+  subtitleCount: document.getElementById("subtitle-count"),
   notice: document.getElementById("notice"),
   error: document.getElementById("error"),
   loading: document.getElementById("loading"),
   empty: document.getElementById("empty"),
   tableWrap: document.getElementById("table-wrap"),
   tableBody: document.getElementById("table-body"),
+  mobileList: document.getElementById("mobile-list"),
   yearSelect: document.getElementById("year-select"),
   searchInput: document.getElementById("search-input"),
   statusSelect: document.getElementById("status-select"),
@@ -276,15 +278,19 @@ function render() {
   const sorted = sortRows(filtered, state.sortKey, state.sortDir);
 
   el.tableBody.innerHTML = "";
+  el.mobileList.innerHTML = "";
+
   for (const row of sorted) {
     el.tableBody.append(renderRow(row));
+    el.mobileList.append(renderMobileCard(row));
   }
 
-  el.subtitle.textContent = `${state.year} · ${sorted.length} event${sorted.length === 1 ? "" : "s"}`;
+  el.subtitleCount.textContent = `${state.year} · ${sorted.length} event${sorted.length === 1 ? "" : "s"}`;
 
   const hasRows = sorted.length > 0;
   el.empty.classList.toggle("hidden", hasRows);
   el.tableWrap.classList.toggle("hidden", !hasRows);
+  el.mobileList.classList.toggle("hidden", !hasRows);
 }
 
 function getFilteredRows(rows) {
@@ -369,11 +375,32 @@ function renderStatusBadge(status) {
   return `<span class="${cls}" aria-label="Status: ${label}">${label}</span>`;
 }
 
+function renderMobileCard(row) {
+  const card = document.createElement("article");
+  card.className = "event-card";
+
+  const dateRange = `${escapeHtml(row.startDateLabel)} → ${escapeHtml(row.endDateLabel)}`;
+  const locationLine = [row.country, row.location].filter(Boolean).map(escapeHtml).join(" · ");
+
+  card.innerHTML = `
+    <div class="event-title-row">
+      <h3>${escapeHtml(row.subject)}</h3>
+      ${renderStatusBadge(row.status)}
+    </div>
+    <p class="event-line"><span class="event-label">Dates</span><span class="event-value event-dates">${dateRange}</span></p>
+    <p class="event-line"><span class="event-label">Location</span><span class="event-value">${locationLine || "—"}</span></p>
+    <p class="event-line"><span class="event-label">Venue</span><span class="event-value">${escapeHtml(row.venue) || "—"}</span></p>
+    <div class="event-line"><span class="event-label">Links</span><div class="event-value">${renderLinks(row) || "—"}</div></div>
+  `;
+
+  return card;
+}
+
 function renderLinks(row) {
   const links = [
-    ["Website", row.websiteUrl],
-    ["CFP", row.proposalUrl],
-    ["Sponsor", row.sponsorshipUrl],
+    ["Website", row.websiteUrl, "link-website"],
+    ["CFP", row.proposalUrl, "link-cfp"],
+    ["Sponsor", row.sponsorshipUrl, "link-sponsor"],
   ].filter((item) => item[1]);
 
   if (links.length === 0) {
@@ -381,9 +408,12 @@ function renderLinks(row) {
   }
 
   const items = links
-    .map(([label, href]) => `<a href="${escapeAttr(href)}" target="_blank" rel="noopener noreferrer">${label}</a>`)
+    .map(
+      ([label, href, cls]) =>
+        `<a class="${cls}" href="${escapeAttr(href)}" target="_blank" rel="noopener noreferrer">${label}</a>`,
+    )
     .join("");
-  return `<div class="links">${items}</div>`;
+  return `<div class="links links-vertical">${items}</div>`;
 }
 
 function setSortIndicators() {

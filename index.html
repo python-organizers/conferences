@@ -15,7 +15,16 @@
       <header class="header">
         <div>
           <h1>Python Conferences</h1>
-          <p id="subtitle" class="subtitle">Browse events by year</p>
+          <p id="subtitle" class="subtitle">
+            <span id="subtitle-count">Browse events by year</span>
+            <span aria-hidden="true"> · </span>
+            <span>
+              Want to add a new event?
+              <a href="https://github.com/python-organizers/conferences" target="_blank" rel="noopener noreferrer"
+                >See repository instructions</a
+              >.
+            </span>
+          </p>
         </div>
       </header>
 
@@ -76,6 +85,7 @@
             <tbody id="table-body"></tbody>
           </table>
         </div>
+        <div id="mobile-list" class="mobile-list hidden" aria-live="polite"></div>
         <div id="empty" class="state hidden">No events match the current filters.</div>
       </section>
     </main>
