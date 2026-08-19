@@ -1,0 +1,49 @@
+name: Publish ICS
+
+on:
+  push:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions: {}
+
+env:
+  FORCE_COLOR: 1
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v9.0.0
+      - run: uv run scripts/generate_ics.py site/conferences.ics
+      - run: |
+          cat > site/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <meta charset="utf-8">
+          <title>Python conferences calendar</title>
+          <h1>Python conferences calendar</h1>
+          <p>Subscribe to <a href="conferences.ics">conferences.ics</a>
+          in your calendar app to get all conferences listed in
+          <a href="https://github.com/python-organizers/conferences">
+          python-organizers/conferences</a>.</p>
+          EOF
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
