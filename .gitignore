@@ -20,3 +20,4 @@ dist/
 .~lock.*
 # data
 conferences.csv
+conferences.ics
