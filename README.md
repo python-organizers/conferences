@@ -58,6 +58,13 @@ Each CSV file is [compatible with Google Calendar](https://support.google.com/ca
 | Proposal URL      | Proposal information                       | URL                           |
 | Sponsorship URL   | Sponsorship information                    | URL                           |
 
+## Calendar Feed
+
+Subscribe to <https://python-organizers.github.io/conferences/conferences.ics>
+in your calendar app to get all listed conferences as all-day events, with
+proposal deadlines and links in the event description. The feed is regenerated
+from the CSV files on every push to `main`.
+
 ## Tests & Linting
 
 There are tests to ensure that the files are written in the correct format
