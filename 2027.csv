@@ -1,6 +1,9 @@
 Subject,Start Date,End Date,Location,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
-PyCon DE,2027-04-19,2027-04-24,"Heidelberg, Germany",DEU,HCC HEidelberg Congress Center,,,https://pycon.de,https://pycon.de,https://pycon.de/sponsoring/
-PyCon Lithuania,2027-04-28,2027-04-30,"Vilnius, Lithuania",LTU,Hotel Panorama Vilnius,,2027-01-13,https://pycon.lt/2027/,https://pycon.lt/2027/cfp,
-PyCon US,2027-05-12,2027-05-18,"Long Beach, California,  United States of America",USA,Long Beach Convention and Entertainment Center,,,,,https://www.python.org/sponsors/application/
-PyOhio,2027-07-24,2027-07-25,"Cleveland, Ohio, United States of United States of America",USA,Cleveland State University Student Center,,,,,
-PyCon PL,2027-08-26,2027-08-29,"Gliwice, Poland",POL,"Education and Congress Centre, Silesian University of Technology",,,https://pl.pycon.org/2027,https://pyconpl.confreg.pl/,
+PyCon Namibia,2027-02-19,2027-02-26,"Windhoek, Namibia",NAM,,,,https://na.pycon.org,,
+PyCon DE,2027-04-19,2027-04-24,"Heidelberg, Germany",DEU,HCC HEidelberg Congress Center,,,https://pycon.de,https://pycon.de,https://pycon.de/sponsoring
+PyCon Austria,2027-04-25,2027-04-27,"Eisenstadt, Austria",AUT,,,,https://pycon.at,,
+PyCon Lithuania,2027-04-28,2027-04-30,"Vilnius, Lithuania",LTU,Hotel Panorama Vilnius,,2027-01-13,https://pycon.lt/2027,https://pycon.lt/2027/cfp,
+PyCon US,2027-05-12,2027-05-18,"Long Beach, California, USA",USA,Long Beach Convention and Entertainment Center,,,https://us.pycon.org,,https://www.python.org/sponsors/application
+PyCon Angola,2027-05-20,2027-05-26,"Luanda, Angola",AGO,,,,https://ao.pycon.org,,
+PyOhio,2027-07-24,2027-07-25,"Cleveland, Ohio, USA",USA,Cleveland State University Student Center,,,https://www.pyohio.org,,
+PyCon PL,2027-08-26,2027-08-29,"Gliwice, Poland",POL,"Education and Congress Centre, Silesian University of Technology",,,https://pl.pycon.org/2027,https://pyconpl.confreg.pl,

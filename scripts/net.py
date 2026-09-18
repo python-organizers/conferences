@@ -56,14 +56,13 @@ for conference_element in conference_elements:
         'Updates URL': uris[1] if len(uris) > 1 else ''})
 
 
-iframe_elements = soup.find_all('iframe')
-if len(iframe_elements) != 1:
-    L.warning('more than one iframe found')
-    sys.exit(1)
-ics_uris = get_uris(iframe_elements[0])
+calendar_element = soup.find(id='calendar')
+ics_uris = get_uris(calendar_element)
 
 
 for uri in ics_uris:
+    if not uri.startswith('https://www.google.com/calendar/ical/'):
+        continue
     text = httpx.get(uri, follow_redirects=True).text
     L.info(f'uri = {uri}')
     L.info(f'text_length = {len(text)}')
@@ -104,7 +103,7 @@ column_names = [
     'Website URL',
     'Proposal URL',
     'Sponsorship URL']
-with Path('conferences.csv').open('wt') as f:
+with Path('conferences.csv').open('at') as f:
     writer = csv.DictWriter(
         f,
         fieldnames=column_names,

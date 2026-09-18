@@ -1,25 +1,54 @@
 Subject,Start Date,End Date,Location,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
 PyCon Kyushu Kumamoto,2022-01-22,2022-01-22,"Kumamoto, Central Kyushu, Japan",JPN,KUMAMOTO-JO Hall,,,https://kyushu.pycon.jp/2022,,
 PyCamp Leipzig,2022-01-29,2022-01-30,"Leipzig, Saxony, Germany",DEU,Online,,,https://barcamps.eu/pycamp-leipzig-2022,,
-PyCon Germany & PyData Berlin,2022-04-11,2022-04-13,"Berlin, Brandenburg, Germany",DEU,bcc Berlin Congress Center,2022-01-16,2022-01-16,https://2022.pycon.de,https://2022.pycon.de/call-for-proposals,https://2022.pycon.de/blog/pyconde-pydata-berlin-call-for-sponsors
-PyCon Italia,2022-06-02,2022-06-05,"Florence, Tuscany, Italy",ITA,FH55 Grand Hotel Mediterraneo,,,https://pycon.it/en,https://pycon.it/en,
+PyCascades,2022-02-05,2022-02-07,"Pacific Northwest, USA and Canada",USA,Online,,,https://2022.pycascades.com,,
+FOSDEM: Python Dev Room,2022-02-06,2022-02-07,Online,,,,,https://fosdem.org/2022/schedule/track/python,,
+PyCon Sri Lanka,2022-02-22,2022-02-23,Sri Lanka,LKA,,,,https://pycon.lk,,
+Python Web Conference,2022-03-21,2022-03-26,"Fishers, Indiana, USA",USA,Online,,,https://pythonwebconference.com,,
+PyTexas,2022-03-26,2022-03-28,"Austin, Texas, USA",USA,,,,https://pytexas.org,,
+Django Day Copenhagen,2022-04-08,2022-04-09,"Copenhagen, Denmark",DNK,,,,https://2022.djangoday.dk,,
+PyCon DE & PyData Berlin,2022-04-11,2022-04-13,"Berlin, Brandenburg, Germany",DEU,bcc Berlin Congress Center,2022-01-16,2022-01-16,https://2022.pycon.de,https://2022.pycon.de/call-for-proposals,https://2022.pycon.de/blog/pyconde-pydata-berlin-call-for-sponsors
+PyCamp Spain,2022-04-15,2022-04-19,"Girona, España",ESP,,,,https://pycamp.es,,
+PyCon US,2022-04-27,2022-05-06,"Salt Lake City, Utah, USA",USA,,,,https://us.pycon.org/2022,,
+PyCon Kenya,2022-05-06,2022-05-08,"Nairobi, Kenya",KEN,,,,https://www.pyconke.org,,
+PyCon Lithuania,2022-05-26,2022-05-28,"Vilnius, Lithuania",LTU,,,,https://pycon.lt,,
+PyCon Italia,2022-06-02,2022-06-05,"Firenze, Italia",ITA,FH55 Grand Hotel Mediterraneo,,,https://pycon.it/en,https://pycon.it/en,
 PyData London,2022-06-17,2022-06-19,"London, Greater London, United Kingdom",GBR,The Tower Hotel,,,https://pydata.org/london2022,,https://pydata.org/london2022/sponsors
 GeoPython,2022-06-20,2022-06-22,"Basel, Basel-Stadt, Switzerland",CHE,FHNW Campus Muttenz,2022-02-15,2021-02-15,https://2022.geopython.net,https://2022.geopython.net,
-EuroPython,2022-07-11,2022-07-17,"Dublin, Leinster, Ireland",IRL,The Convention Centre Dublin,,,,,
-PyOhio,2022-07-30,2022-07-30,"Columbus, Ohio, United States of America",USA,Online,,2022-05-15,https://www.pyohio.org/2022,https://www.pyohio.org/2022/speaking/call-for-proposals,
+PyCon Israel,2022-06-28,2022-06-30,"Ramat Gan, Tel Aviv, Israel",ISR,,,,https://pycon.org.il/2022,,
+PyCon Colombia,2022-07-09,2022-07-11,Online,,,,,https://2022.pycon.co,,
+EuroPython,2022-07-11,2022-07-18,"Dublin, Ireland",IRL,,,,https://www.europython.eu,,
+PyOhio,2022-07-30,2022-07-30,"Columbus, Ohio, USA",USA,Online,,2022-05-15,https://www.pyohio.org/2022,https://www.pyohio.org/2022/speaking/call-for-proposals,
 PyCon Russia,2022-07-30,2022-07-31,"Moscow, Central Federal District, Russia",RUS,Digital Business Space,,,https://pycon.ru,https://pycon.ru/cfp,https://pycon.ru/partneram
+Kiwi PyCon,2022-08-19,2022-08-22,"Ōtautahi/Christchurch, Aotearoa, New Zealand",NZL,,,,https://python.nz/kiwipycon,,
+PyCon Estonia,2022-08-25,2022-08-26,"Tallinn, Estonia",EST,Tallinn University,,,https://pycon.ee,,
+Python Nordeste,2022-08-26,2022-08-29,"Aracaju, Brasil",BRA,,,,https://2022.pythonnordeste.org,,
 EuroSciPy,2022-08-29,2022-09-02,"Basel, Basel-Stadt, Switzerland",CHE,University of Basel,2022-05-30,2022-05-30,https://www.euroscipy.org/2022,https://pretalx.com/euroscipy-2022/cfp,
-PyCon Slovakia,2022-09-09,2022-09-11,"Bratislava, Bratislava, Slovakia",SVK,Faculty of Informatics and Information Technologies STU,,,https://2022.pycon.sk,,
-PyBay,2022-09-10,2022-09-10,"San Francisco, California, United States of America",USA,Parklab Gardens,,,https://pybay.com,,https://pybay.com/sponsors-prospectus
+PyCon Asia Pacific,2022-09-03,2022-09-05,"Online, Taiwan",TWN,,,,https://tw.pycon.org,,
+PyCon SK,2022-09-09,2022-09-11,"Bratislava, Slovakia",SVK,Faculty of Informatics and Information Technologies STU,,,https://2022.pycon.sk,,
+PyBay,2022-09-10,2022-09-10,"San Francisco, California, USA",USA,Parklab Gardens,,,https://pybay.com,,https://pybay.com/sponsors-prospectus
+PyHEP,2022-09-12,2022-09-17,Online,,,,,https://indico.cern.ch/e/PyHEP2022,,
+PyCon UK,2022-09-16,2022-09-19,"Cardiff City Hall, United Kingdom",GBR,,,,https://2022.pyconuk.org,,
+DjangoCon Europe,2022-09-21,2022-09-26,"Porto, Portugal",PRT,,,,https://2022.djangocon.eu,,
 PyCon Portugal,2022-09-24,2022-09-24,"Porto, Oporto, Portugal",PRT,University of Porto,2022-06-30,2022-06-03,https://2022.pycon.pt,https://2022.pycon.pt/talks/cfp,https://2022.pycon.pt/sponsors/sponsorship
 SciPy Latin America,2022-09-26,2022-09-28,"Salta, Salta, Argentina",ARG,Universidad Nacional de Salta,,,https://pythoncientifico.ar,https://pythoncientifico.ar/pages/llamado-a-propuestas,https://pythoncientifico.ar/sponsors
+PyConES,2022-09-30,2022-10-03,"Granada, España",,,,,https://2022.es.pycon.org,,
+PyCon MEA @ GlobalDevSlam,2022-10-10,2022-10-14,"Dubai, United Arab Emirates",ARE,,,,https://globaldevslam.com,,
 PyCon Ghana,2022-10-13,2022-10-15,"Accra, Greater Accra, Ghana",GHA,,,,https://gh.pycon.org,https://gh.pycon.org/talks/speaking,https://gh.pycon.org/support-us
-PyCon Japan,2022-10-14,2022-10-16,"Tokyo, Kantō, Japan",JPN,TOC Ariake Convention Hall,,,https://2022.pycon.jp,,
-DjangoCon US,2022-10-16,2022-10-21,"San Diego, California, United States of America",USA,San Diego Marriott Mission Valley,,,https://2022.djangocon.us,,
-PiterPy,2022-10-28,2022-10-28,"Saint Petersburg, Leningrad Oblast, Russia",RUS,,,,https://piterpy.com/en/archive/2022,,
-PyCon Sweden,2022-11-03,2022-11-04,"Stockholm, Stockholm County, Sweden",SWE,Hilton Slussen,,,http://www.pycon.se,,https://www.pycon.se/#sponsorship
-PyData NYC,2022-11-09,2022-11-11,"New York, New York, United States of America",USA,,,,https://pydata.org/nyc2022,,https://pydata.org/nyc2022/sponsors
-PyCon Ireland,2022-11-12,2022-11-13,"Dublin, Leinster, Ireland",IRL,Radisson Blu Royal Hotel,,2022-09-12,http://python.ie/previous-pycons/pycon-2022,https://sessionize.com/pycon-ireland-2022720,
-PyData Global,2022-12-01,2022-12-03,Worldwide,USA,Online,,,https://pydata.org/global2022,,https://pydata.org/global2022/sponsors
+PyConZA,2022-10-13,2022-10-15,"Durban, South Africa",ZAF,,,,https://za.pycon.org,,
+PyCon JP,2022-10-14,2022-10-16,"Tokyo, Kantō, Japan",JPN,TOC Ariake Convention Hall,,,https://2022.pycon.jp,,
+DjangoCon US,2022-10-16,2022-10-21,"San Diego, California, USA",USA,San Diego Marriott Mission Valley,,,https://2022.djangocon.us,,
+enterPy,2022-10-25,2022-10-26,Online,,,,,https://www.enterpy.de,,
+Python at Scale,2022-10-27,2022-10-29,"Texas, USA",USA,,,,https://www.pythonatscale.com,,
+PiterPy,2022-10-28,2022-10-28,"Saint Petersburg, Russia",RUS,,,,https://piterpy.com/en/archive/2022,,
+PyCon Sweden,2022-11-03,2022-11-04,"Stockholm, Sweden",SWE,Hilton Slussen,,,https://www.pycon.se,,https://www.pycon.se/#sponsorship
+PyCon PL,2022-11-03,2022-11-07,"Gliwice, Poland",POL,,,,https://pl.pycon.org/2022/en,,
+PyData NYC,2022-11-09,2022-11-11,"New York, New York, USA",USA,,,,https://pydata.org/nyc2022,,https://pydata.org/nyc2022/sponsors
+PyCon Ireland,2022-11-12,2022-11-13,"Dublin, Leinster, Ireland",IRL,Radisson Blu Royal Hotel,,2022-09-12,https://python.ie/previous-pycons/pycon-2022,https://sessionize.com/pycon-ireland-2022720,
+PyChain,2022-11-15,2022-11-16,Online,,,,,https://www.pychain.org,,
+Pyjamas Conf,2022-11-26,2022-11-28,Online,,,,,https://pyjamas.live,,
+PyData Global,2022-12-01,2022-12-03,Online,USA,Online,,,https://pydata.org/global2022,,https://pydata.org/global2022/sponsors
+PyCon Bolivia,2022-12-09,2022-12-11,"Cochabamba, Bolivia",BOL,,,,https://bo.pycon.org,,
 PyData Tel Aviv,2022-12-13,2022-12-13,"Tel Aviv, Gush Dan, Israel",ISR,Expo Tel Aviv,,,https://pydata.org/telaviv2022,,
 PyCon China,2022-12-17,2022-12-17,"Beijing / Shanghai / Shenzhen / Hangzhou, China",CHN,,,,https://cn.pycon.org/2022,https://cn.pycon.org/2022/cfp,
+XtremePython,2022-12-27,2022-12-28,Online,,,,,https://www.xtremepython.dev,,

@@ -1,224 +1,1386 @@
 Subject,Start Date,End Date,Location,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
+ DjangoCon Europe 2021,2021-06-02,2021-06-07,Online event,,,,,https://2021.djangocon.eu,,
+ DjangoCon Europe 2023,2023-05-29,2023-06-03,"Edinburgh, Scotland",,,,,https://2023.djangocon.eu,,
+ GeoPython 2021,2021-04-22,2021-04-24,,,,,,http://2021.geopython.net,,
+ PyCon JP 2022,2022-10-14,2022-10-17,"Ariake, Koto City, Tokyo 135-0063, Japan",,,,,https://2022.pycon.jp,,
+"Iran Pycon ""IrPycon"" 2018",2018-02-14,2018-02-16,"Elm va San'at University , Tehran, Iran",,,,,http://pycon.ir,,
+"Iran Pycon ""IrPycon""",2017-02-17,2017-02-18,"Elm va San'at University, Tehran, Iran",,,,,https://pycon.ir,,
+"PyHPC 2020: 9th Workshop on Python for,High-Performance and Scientific Computing",2020-11-15,2020-11-16,Online,,,,,https://www.pyhpc.io,,
+"Science Hack Day, India 2018",2018-11-02,2018-11-05,"Belgaum, India",,,,,http://sciencehackday.in,,
+"csv,conf,v8",2024-05-29,2024-05-31,"Puebla, Mexico",,,,,https://csvconf.com,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+9th Conference of Scientific Python Latinamerica,2022-09-26,2022-09-29,"Salta, Argentina",,,,,https://pythoncientifico.ar,,
+A Language Creator Discussion Moderated by Carol Willing,2019-04-02,2019-04-03,"Seattle, WA 98109, USA",,,,,http://bdfl-gift.pspython.com,,
+AfroPython Conf 2025,2025-06-07,2025-06-08,"Salvador, State of Bahia, Brazil",,,,,https://afropythonconf.org,,
 AfroPython Conf 2025,2025-06-07,2025-06-08,"Salvador, State of Bahia, Brazil",BRA,Casa Rosa Salvador,,,https://afropythonconf.org,,https://afropythonconf.org/#patrocinadores
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
+AfroPython Conf,2023-07-22,2023-07-22,"Salvador, Bahia, Brazil",BRA,,,2023-06-19,https://afropython.org/conf2023,https://bit.ly/conf2023-palestrantes,https://afropythonconf.org/#patrocinadores
+AfroPython,2019-09-14,2019-09-15,"Rio de Janeiro, Brazil",,,,,https://afropython.org,,
+BelPy 2021,2021-01-30,2021-02-01,Online,,,,,http://belpy.in,,
+Berlin Python Pizza,2019-02-23,2019-02-24,"Berlin, Germany",,,,,,,
+Better Python Unit Tests,2020-06-23,2020-06-24,Online,,,,,https://www.eventbrite.com/e/better-python-unit-tests-tickets-104843375358,,
+Black Python Devs Leadership Summit,2026-07-24,2026-07-24,"Cleveland, Ohio, United States of America",USA,Cleveland State University Student Center,,2026-04-20,https://blackpythondevs.com/bpd-events/black-python-devs-leadership-summit-2026-ohio.html,https://pretalx.com/pyohio-2026/submit/?track=6985-black-python-devs-leadership-summit,
+Building Python Communities Around Python for Kids,2024-01-10,2024-01-11,"MountainHub, Top floor 1st Trust Building, Great Soppo, Buea, Cameroon",,,,,https://nokidbehind.org/2023/03/20/building-micro-tech-communities-around-python-programming-language/,,
+Building Python Communities Yaounde,2024-06-01,2024-06-03,"Yaounde, Cameroon",,,,,https://nokidbehind.org/event/yaounde-python-community/,,
 Building Python Community in Northern Nigeria,2025-09-27,2025-09-28,"Kano, Nigeria",,,,,https://pythonniger.org/events,,
+Building Python Community in Northern Nigeria,2025-09-27,2025-09-28,"Kano, Nigeria",,,,,https://pythonniger.org/events,,
+Caipyra 2019,2019-07-07,2019-07-11,"São Carlos, SP, Brazil",,,,,http://caipyra.python.org.br,,
+Cloud Builder: Python Conf,2023-09-06,2023-09-07,online,,,,,https://www.cloud-builders.tech/en/python-conf,,
+Conf42 Python 2021,2021-05-27,2021-05-28,Online,,,,,http://www.conf42.com/python2021,,
+DELSU Tech Invasion 2.0 - Python for Academics,2024-12-04,2024-12-06,"Abraka, Nigeria",,,,,https://dti.hamplustech.com,,
 DePy,,,"Chicago, Illinois, United States",,,,,https://web.archive.org/web/20170725125219/https://mdp.cdm.depaul.edu/DePy2016,,
+DePy,,,"Chicago, Illinois, United States",,,,,https://web.archive.org/web/20170725125219/https://mdp.cdm.depaul.edu/DePy2016,,
+Django Day Copenhagen 2022,2022-04-08,2022-04-09,"Copenhagen, Denmark",,,,,https://2022.djangoday.dk,,
+Django Day Copenhagen 2023,2023-10-06,2023-10-07,"Copenhagen, Denmark",,,,,https://2023.djangoday.dk,,
+Django Day Copenhagen,2020-09-25,2020-09-26,"Online & Copenhagen, Denmark",,,,,https://djangoday.dk,,
+DjangoCamp Hyderabad,2017-10-06,2017-10-07,"CBIT College, Hyderabad, India",,,,,https://cbitosc.github.io/djangocamp,,
+DjangoCon AU 2019,2019-08-02,2019-08-03,"Sydney, Australia",,,,,https://djangocon.com.au,,
+DjangoCon Africa 2023,2023-11-06,2023-11-12,"Zanzibar, Tanzania",,,,,https://2023.djangocon.africa,,
 DjangoCon Africa 2025,2025-08-11,2025-08-16,"Arusha, Tanzania",,,,,https://2025.djangocon.africa,,
+DjangoCon Africa 2025,2025-08-11,2025-08-16,"Arusha, Tanzania",,,,,https://2025.djangocon.africa,,
+DjangoCon Africa,,,Africa (rotating),,,,,https://djangocon.africa,,
+DjangoCon Africa,2020-11-09,2020-11-13,"Addis Ababa, Oromia, Ethiopia",ETH,,,,https://2020.djangocon.africa,,
+DjangoCon Africa,2023-11-06,2023-11-11,"Zanzibar, Mjini Magharibi, Tanzania",TZA,,,2023-07-12,https://2023.djangocon.africa,https://2023.djangocon.africa/talks,https://2023.djangocon.africa/sponsor-us
 DjangoCon Africa,2025-08-11,2025-08-15,"Arusha, Tanzania",TZA,"Life Fitness Hall, Njiro",2025-03-31,2025-03-31,https://2025.djangocon.africa/,https://2025.djangocon.africa/speaking,https://2025.djangocon.africa/sponsor_us
+DjangoCon Africa,2025-08-11,2025-08-15,"Arusha, Tanzania",TZA,"Life Fitness Hall, Njiro",2025-03-31,2025-03-31,https://2025.djangocon.africa/,https://2025.djangocon.africa/speaking,https://2025.djangocon.africa/sponsor_us
+DjangoCon Australia,2018-08-24,2018-08-24,"Sydney, New South Wales, Australia",AUS,,,2018-05-28,http://2018.pycon-au.org,https://www.papercall.io/pyconau2018,https://2018.pycon-au.org/news/call-for-sponsorship
+DjangoCon Australia,2020-09-04,2020-09-04,"Tarndanya (Adelaide), Australia",AUS,Online,,2020-07-12,https://2020.djangocon.com.au,https://2020.pycon.org.au/speak,
+DjangoCon Australia,2023-08-18,2023-08-18,"Tarndanya (Adelaide), Australia",AUS,Adelaide Convention Centre,,2023-05-14,https://2023.djangocon.com.au,https://2023.pycon.org.au/program,https://2023.pycon.org.au/sponsor
+DjangoCon Europe 2017,2017-04-03,2017-04-08,"Florence, Italy",,,,,https://2017.djangocon.eu,,
+DjangoCon Europe 2018,2018-05-23,2018-05-28,"Heidelberg, Germany",,,,,https://2018.djangocon.eu,,
+DjangoCon Europe 2019,2019-04-10,2019-04-15,"Copenhagen, Denmark",,,,,https://2019.djangocon.eu,,
+DjangoCon Europe 2020,2020-09-18,2020-09-20,Online,,,,,https://2020.djangocon.eu,,
+DjangoCon Europe 2022,2022-09-21,2022-09-26,"Porto, Portugal",,,,,https://2022.djangocon.eu,,
+DjangoCon Europe 2024,2024-06-05,2024-06-10,"Vigo, Spain",,,,,https://2024.djangocon.eu,,
+DjangoCon Europe 2025,2025-04-23,2025-04-28,"Dublin, Ireland",,,,,https://2025.djangocon.eu,,
 DjangoCon Europe 2025,2025-04-23,2025-04-28,"Dublin, Ireland",,,,,https://2025.djangocon.eu/,,
+DjangoCon Europe 2026,2026-04-15,2026-04-20,"Athens, Greece",,,,,https://2026.djangocon.eu,,
+DjangoCon Europe,2018-05-23,2018-05-27,"Heidelberg, Baden-Württemberg, Germany",DEU,,2018-03-01,2018-03-01,https://2018.djangocon.eu,,https://2018.djangocon.eu/sponsoring
+DjangoCon Europe,2019-04-10,2019-04-12,"Copenhagen, Hovedstaden, Denmark",DNK,,,,https://2019.djangocon.eu,,
+DjangoCon Europe,2020-09-16,2020-09-20,"Porto, Oporto, Portugal",PRT,Online,,2020-03-01,https://2020.djangocon.eu,https://2020.djangocon.eu/talks/cfp,
+DjangoCon Europe,2021-06-02,2021-06-06,"Porto, Oporto, Portugal",PRT,Online,2021-04-01,2021-04-01,https://2021.djangocon.eu,https://2021.djangocon.eu/talks/cfp,https://2021.djangocon.eu/sponsors/sponsorships
+DjangoCon Europe,2023-05-29,2023-06-02,"Edinburgh, Scotland, United Kingdom",GBR,The Assembly Rooms,2023-02-27,2023-02-27,https://2023.djangocon.eu,https://2023.djangocon.eu/call-for-proposals,https://2023.djangocon.eu/sponsors/information
+DjangoCon Europe,2024-06-05,2024-06-09,"Vigo, Spain",ESP,,,2024-02-29,https://2024.djangocon.eu/,https://2024.djangocon.eu/call-for-proposals,https://2024.djangocon.eu/sponsors/sponsorship/
 DjangoCon Europe,2025-04-23,2025-04-27,"Dublin, Ireland",IRL,Talbot Hotel Stillorgan,,,https://2025.djangocon.eu/,,https://2025.djangocon.eu/sponsors/sponsorship/
+DjangoCon Europe,2025-04-23,2025-04-27,"Dublin, Ireland",IRL,Talbot Hotel Stillorgan,,,https://2025.djangocon.eu/,,https://2025.djangocon.eu/sponsors/sponsorship/
+DjangoCon US 2017,2017-08-13,2017-08-19,"Spokane, WA, USA",,,,,,,
+DjangoCon US 2018,2018-10-14,2018-10-20,"San Diego, CA, USA",,,,,https://2018.djangocon.us,,
+DjangoCon US 2023,2023-10-16,2023-10-21,"Durham, North Carolina, USA",,,,,https://2023.djangocon.us,,
+DjangoCon US 2024,2024-09-22,2024-09-27,"Durham, USA",,,,,https://2024.djangocon.us,,
+DjangoCon US 2026,2026-08-24,2026-08-29,"Chicago, USA",,,,,https://2026.djangocon.us,,
 DjangoCon US,,,United States (rotating),,,,,https://djangocon.us,,
+DjangoCon US,,,United States (rotating),,,,,https://djangocon.us,,
+DjangoCon US,2017-08-13,2017-08-18,"Spokane, Washington, United States of America",USA,,2017-04-11,2017-04-11,https://2017.djangocon.us,https://2017.djangocon.us/speaking,https://2017.djangocon.us/sponsors/information
+DjangoCon US,2018-10-14,2018-10-19,"San Diego, California, United States of America",USA,San Diego Marriott of Mission Valley,,2018-06-03,https://2018.djangocon.us,,
+DjangoCon US,2019-09-22,2019-09-27,"San Diego, California, United States of America",USA,Mission Valley Marriott,,,https://2019.djangocon.us,,
+DjangoCon US,2019-09-22,2019-09-28,"San Diego, California, USA",,,,,“https://2019.djangocon.us”,,
+DjangoCon US,2022-10-16,2022-10-21,"San Diego, California, United States of America",USA,San Diego Marriott Mission Valley,,,https://2022.djangocon.us,,
+DjangoCon US,2023-10-16,2023-10-20,"Durham, North Carolina, United States of America",USA,Durham Convention Center,2023-05-15,2023-05-15,https://2023.djangocon.us,https://2023.djangocon.us/speaking,https://2023.djangocon.us/sponsors/information
+DjangoCon US,2024-09-22,2024-09-27,"Durham, North Carolina, United States of America",USA,,,2024-04-24,https://2024.djangocon.us/,https://2024.djangocon.us/speaking/,
 DjangoCon US,2025-09-08,2025-09-12,"Chicago, Illinois, United States of America",USA,voco Chicago Downtown,,2025-04-27,https://2025.djangocon.us,https://pretalx.com/djangocon-us-2025/cfp,
+DjangoCon US,2025-09-08,2025-09-12,"Chicago, Illinois, United States of America",USA,voco Chicago Downtown,,2025-04-27,https://2025.djangocon.us,https://pretalx.com/djangocon-us-2025/cfp,
+DjangoCon US,2026-08-24,2026-08-28,"Chicago, Illinois, United States of America",USA,voco Chicago Downtown,,2026-03-23,https://2026.djangocon.us,https://2026.djangocon.us/speaking/,https://2026.djangocon.us/sponsors/
+DjangoConAU 2023,2023-08-18,2023-08-19,"Adelaide, Australia",,,,,https://2023.djangocon.com.au,,
+DjangoCongress JP 2023,2023-10-07,2023-10-08,"Tokyo, Japan",,,,,https://djangocongress.jp,,
+DjangoCongress JP 2025,2025-02-22,2025-02-23,Online,,,,,https://djangocongress.jp,,
 DjangoCongress JP 2025,2025-02-22,2025-02-23,Online,,,,,https://djangocongress.jp/,,
 DjangoCongress JP,2025-02-22,2025-02-22,"Online & Tokyo, Japan (Public Viewing)",JPN,,,,https://djangocongress.jp/,,
+DjangoCongress JP,2025-02-22,2025-02-22,"Online & Tokyo, Japan (Public Viewing)",JPN,,,,https://djangocongress.jp/,,
+DjangoDay Copenhagen,2023-10-06,2023-10-06,"Copenhagen, Denmark",,,,2023-08-31,https://2023.djangoday.dk/,https://2023.djangoday.dk/cfp/,
+DragonPy 2020 (postponed),2020-09-19,2020-09-21,"Ljubljana, Slovenia",,,,,https://dragonpy.com,,
 DragonPy,,,Slovenia,,,,,https://dragonpy.com,,
+DragonPy,,,Slovenia,,,,,https://dragonpy.com,,
+DragonPy,2020-09-19,2020-09-20,"Ljubljana, Central Slovenia, Slovenia",SVN,Faculty of Social Sciences,,,https://dragonpy.com,https://www.papercall.io/dragonpy,https://dragonpy.com/sponsors
+EARL 2024,2024-09-04,2024-09-06,"Brighton, UK",,,,,https://datacove.co.uk/earl-2024-tech-conference/,,
+EARL 2025,2025-10-14,2025-10-17,"Brighton, UK",,,,,https://earl-conference.com,,
 EARL 2025,2025-10-14,2025-10-17,"Brighton, UK",,,,,https://earl-conference.com/,,
+EARL,2024-09-04,2024-09-05,"Brighton, United Kingdom",GBR,,,2024-03-31,https://datacove.co.uk/earl-2024-tech-conference/,https://docs.google.com/forms/d/e/1FAIpQLSf7QY-VFFWB5FtKl3dENcNSDnzhvqS2GL43bv6GjKCyYIrHKw/viewform,
+EduPy 2023,2023-10-21,2023-10-22,"Cali, Colombia",,,,,http://www.slec.net/edupy/,,
+EduPy,2023-10-21,2023-10-21,"Cali, Colombia",,,,2023-10-14,https://slec.net/edupy/,https://bit.ly/ConferencistaEdupyOctubre2023,https://slec.net/edupy/posts/callforsponsors/
+EuroPython 2017,2017-07-09,2017-07-17,"Rimini, Italy",,,,,http://ep2017.europython.eu,,
+EuroPython 2018,2018-07-23,2018-07-30,"Edinburgh, UK",,,,,http://www.europython.eu,,
+EuroPython 2019,2019-07-08,2019-07-15,"Basel, Switzerland",,,,,https://www.europython.eu,,
+EuroPython 2020 Online,2020-07-23,2020-07-27,Online Event,,,,,https://ep2020.europython.eu,,
+EuroPython 2021,2021-07-26,2021-08-02,Online,,,,,https://www.europython.eu,,
+EuroPython 2022,2022-07-11,2022-07-18,"Dublin, Ireland",,,,,https://www.europython.eu,,
+EuroPython 2023,2023-07-17,2023-07-24,"Prague, Czech Republic",,,,,https://ep2023.europython.eu,,
+EuroPython 2024,2024-07-08,2024-07-15,"Prague, Czech Republic, and Online",,,,,https://ep2024.europython.eu,,
+EuroPython 2025,2025-07-14,2025-07-21,"Prague, Czech Republic",,,,,https://ep2025.europython.eu,,
 EuroPython 2025,2025-07-14,2025-07-21,"Prague, Czech Republic",,,,,https://ep2025.europython.eu/,,
+EuroPython 2026,2026-07-13,2026-07-20,"Kraków, Poland",,,,,https://ep2026.europython.eu,,
+EuroPython,,,Europe (rotating),,,,,https://www.europython.eu,,
+EuroPython,2017-07-09,2017-07-16,"Rimini, Emilia-Romagna, Italy",ITA,,2017-04-16,2017-04-16,https://ep2017.europython.eu,https://ep2017.europython.eu/en/call-for-proposals,https://ep2017.europython.eu/en/sponsor/packages
+EuroPython,2018-07-23,2018-07-29,"Edinburgh, Scotland, United Kingdom",GBR,Edinburgh International Conference Centre - EICC,,2018-05-20,https://ep2018.europython.eu,,https://ep2018.europython.eu/sponsor
+EuroPython,2019-07-08,2019-07-14,"Basel, Basel-Stadt, Switzerland",CHE,FHNW & Convention Center Basel,,,https://ep2019.europython.eu,,
+EuroPython,2020-07-23,2020-07-26,"Dublin, Leinster, Ireland",IRL,Online,,,https://ep2020.europython.eu,,
+EuroPython,2021-07-26,2021-08-01,,,Online,,,https://ep2021.europython.eu,,https://us.pycon.org/2021/sponsorship/why-sponsor
+EuroPython,2022-07-11,2022-07-17,"Dublin, Leinster, Ireland",IRL,The Convention Centre Dublin,,,,,
+EuroPython,2023-07-17,2023-07-23,"Prague, Bohemia, Czech Republic",CZE,The Prague Congress Centre,,2023-03-26,https://europython.eu,https://ep2023.europython.eu/cfp,https://ep2023.europython.eu/sponsor/information
+EuroPython,2024-07-08,2024-07-14,"Prague, Czechia",CZE,,,2024-03-06,https://ep2024.europython.eu/,https://ep2024.europython.eu/cfp/,https://ep2024.europython.eu/sponsor
 EuroPython,2025-07-14,2025-07-20,"Prague, Czechia",CZE,Prague Congress Centre,,,https://ep2025.europython.eu,,
+EuroPython,2025-07-14,2025-07-20,"Prague, Czechia",CZE,Prague Congress Centre,,,https://ep2025.europython.eu,,
+EuroPython,2026-07-13,2026-07-19,"Kraków, Poland",POL,ICE Kraków Congress Centre,2026-02-15,2026-02-15,https://ep2026.europython.eu,https://ep2026.europython.eu/cfp,https://ep2026.europython.eu/sponsors
+EuroSciPy 2017,2017-08-28,2017-09-02,"Erlangen, Germany",,,,,,,
+EuroSciPy 2018,2018-08-28,2018-09-02,"Trento, Italy",,,,,https://www.euroscipy.org/2018,,
+EuroSciPy 2019,2019-09-02,2019-09-07,"Bilbao, Bizkaia, Spain",,,,,https://www.euroscipy.org/2019/,,
+EuroSciPy 2020 (canceled),2020-07-27,2020-08-01,"Bilbao, Spain",,,,,https://www.euroscipy.org,,
+EuroSciPy 2022,2022-08-29,2022-09-03,"Basel, Switzerland",,,,,https://www.euroscipy.org/2022/,,
+EuroSciPy 2023,2023-08-14,2023-08-19,"Basel, Switzerland",,,,,https://www.euroscipy.org/2023/,,
+EuroSciPy 2024,2024-08-26,2024-08-31,"Szczecin, Poland",,,,,https://www.euroscipy.org/2024/index.html,,
 EuroSciPy 2025,2025-08-18,2025-08-23,"Kraków, Poland",,,,,https://euroscipy.org/2025/,,
+EuroSciPy 2025,2025-08-18,2025-08-23,"Kraków, Poland",,,,,https://euroscipy.org/2025/,,
+EuroSciPy 2026,2026-07-18,2026-07-24,"Krakow, Poland",,,,,https://euroscipy.org,,
+EuroSciPy,,,Europe,,,,,https://www.euroscipy.org,,
+EuroSciPy,2017-08-28,2017-09-01,"Erlangen, Bavaria, Germany",DEU,,2017-06-24,2017-06-24,https://www.euroscipy.org/2017,,
+EuroSciPy,2018-08-28,2018-09-01,"Trento, Trentino-Alto Adige, Italy",ITA,,2018-05-13,2018-05-13,https://www.euroscipy.org/2018,https://pretalx.com/euroscipy18,
+EuroSciPy,2019-09-03,2019-09-06,"Bilbao, Biscay, Spain",ESP,Bizkaia Aretoa,2019-05-12,2019-05-12,https://www.euroscipy.org/2019,https://pretalx.com/euroscipy-2019,https://www.euroscipy.org/2019/sponsors.html
+EuroSciPy,2022-08-29,2022-09-02,"Basel, Basel-Stadt, Switzerland",CHE,University of Basel,2022-05-30,2022-05-30,https://www.euroscipy.org/2022,https://pretalx.com/euroscipy-2022/cfp,
+EuroSciPy,2023-08-14,2023-08-18,"Basel, Basel-Stadt, Switzerland",CHE,"Kollegienhaus, University of Basel",,2023-05-14,https://www.euroscipy.org/2023,https://www.euroscipy.org/2023/program.html,https://www.euroscipy.org/2023/sponsoring.html
+EuroSciPy,2024-08-26,2024-08-30,"Szczecin, Poland",POL,Maritime University,2024-06-02,2024-06-02,https://www.euroscipy.org/2024/,https://www.euroscipy.org/2024/program.html,https://www.euroscipy.org/2024/sponsoring.html
 EuroSciPy,2025-08-18,2024-08-22,"Krakow, Poland",POL,AGH University,2025-04-28,2025-04-28,https://www.euroscipy.org/2025/,https://www.euroscipy.org/2025/program.html,https://www.euroscipy.org/2025/sponsoring.html
+EuroSciPy,2025-08-18,2024-08-22,"Krakow, Poland",POL,AGH University,2025-04-28,2025-04-28,https://www.euroscipy.org/2025/,https://www.euroscipy.org/2025/program.html,https://www.euroscipy.org/2025/sponsoring.html
+EuroSciPy,2026-07-18,2026-07-23,"Kraków, Poland",POL,AGH University of Kraków,2026-02-22,2026-02-22,https://euroscipy.org/,https://euroscipy.org/call-for-proposals/,
+FOSDEM 2017,2017-02-04,2017-02-06,"Université Libre de Bruxelles, Franklin Rooseveltlaan 50, 1050 Brussel, Belgium",,,,,https://fosdem.org/2017/,,
+FOSDEM 2018,2018-02-03,2018-02-05,"Brussels, Belgium",,,,,https://fosdem.org/2018/,,
+FOSDEM 2019,2019-02-02,2019-02-04,"Brussels, Belgium",,,,,https://fosdem.org/2019/,,
+FOSDEM 2020: Python Dev Room,2020-02-01,2020-02-02,"Brussel, Belgium",,,,,https://fosdem.org/2020/schedule/track/python/,,
+FOSDEM 2022: Python Dev Room,2022-02-06,2022-02-07,Online,,,,,https://fosdem.org/2022/schedule/track/python/,,
+FOSDEM 2023 - Python Dev Room,2023-02-05,2023-02-06,"Brussels, Belgium",,,,,https://fosdem.org/2023/schedule/track/python/,,
+FOSDEM,2018-05-03,2018-05-03,"Brussels, Brussels, Belgium",BEL,,,,https://fosdem.org/2018,,https://fosdem.org/2018/about/sponsors
+FOSDEM,2023-02-04,2023-02-05,"Brussels, Brussels, Belgium",BEL,ULB Solbosch,,2022-12-15,https://fosdem.org/2023,https://fosdem.org/submit,https://fosdem.org/2023/about/sponsors
+FastAPI Conf 2026,2026-10-28,2026-10-29,"Amsterdam, The Netherlands",,,,,https://fastapiconf.com,,
+FastAPI Conf,2026-10-28,2026-10-28,"Amsterdam, Netherlands",NLD,"Transformatorhuis, De Wester",,,https://fastapiconf.com/,,https://fastapiconf.com/#sponsors
+Flask Con 2024,2024-05-17,2024-05-18,"Pittsburgh, USA",,,,,https://flaskcon.com/2024/coming-soon,,
 Flask Con 2025,2025-05-16,2025-05-17,"Pittsburgh, USA",,,,,https://flaskcon.com/2025/,,
+Flask Con 2025,2025-05-16,2025-05-17,"Pittsburgh, USA",,,,,https://flaskcon.com/2025/,,
+Flask Con,2024-05-17,2024-05-17,"Pittsburgh, Pennsylvania, United States of America",USA,,,,https://flaskcon.com/2024/,,
+Flask Conf Brasil,2018-08-24,2018-08-25,"São Paulo, São Paulo, Brazil",BRA,,2018-08-24,2018-06-30,http://flask.python.org.br,http://flask.python.org.br,http://flask.python.org.br
+Flask Conf Brasil,2019-09-06,2019-09-08,"Florianópolis, Santa Catarina, Brazil",BRA,,,,https://2019.flask.python.org.br,,
+Flask Conference,2018-08-24,2018-08-26,"São Paulo, Brazil",,,,,http://flask.python.org.br,,
+FlaskCon (online) ,2020-07-04,2020-07-06,Online,,,,,https://flaskcon.com,,
+FlaskCon 2021 Online,2021-12-01,2021-12-05,Online,,,,,https://flaskcon.com/y/2021/,,
+FlaskCon 2023,2023-12-16,2023-12-18,Online,,,,,https://flaskcon.com/2023/,,
+FlaskCon,2020-07-04,2020-07-05,Worldwide,,Online,,,https://flaskcon.com,,
+FlaskCon,2021-12-01,2021-12-04,Worldwide,,Online,,,https://flaskcon.com/y/2021,,
+FlaskCon,2023-12-16,2023-12-17,Online,,,,2023-10-31,https://flaskcon.com/2023/,,https://flaskcon.com/2023/become-sponsor
+Florida PyCon,2017-10-07,2017-10-07,"Orlando, Florida, United States of America",USA,,,,http://flpy.org,,
+Florida PyCon,2017-10-07,2017-10-08,"Orlando, Florida, USA",,,,,http://flpy.org,,
+FrOSCon 2018,2018-08-25,2018-08-27,"University of Applied Sciences Bonn-Rhein-Sieg, Sankt Augustin, Germany",,,,,http://www.froscon.org,,
+GeoPython & Python Machine Learning,2020-09-21,2020-09-22,Worldwide,,Online,,,https://2020.pythonml.org,,
+GeoPython 2017,2017-05-08,2017-05-11,"Basel, Switzerland",,,,,http://2017.geopython.net,,
+GeoPython 2018,2018-05-07,2018-05-10,"Basel, Switzerland",,,,,http://2018.geopython.net,,
+GeoPython 2019,2019-06-24,2019-06-27,"Basel, Switzerland",,,,,http://2019.geopython.net,,
+GeoPython 2020 & PyML 2020,2020-09-21,2020-09-23,Online,,,,,http://2020.geopython.net,,
+GeoPython 2022,2022-06-20,2022-06-23,"Basel, Switzerland & Online",,,,,https://2022.geopython.net,,
+GeoPython 2023,2023-03-06,2023-03-09,"Basel, Switzerland",,,,,https://2023.geopython.net,,
+GeoPython 2024,2024-05-27,2024-05-29,"Basel, Switzerland",,,,,https://2024.geopython.net,,
+GeoPython 2025,2025-02-24,2025-02-27,"Basel, Switzerland",,,,,https://2025.geopython.net,,
 GeoPython 2025,2025-02-24,2025-02-27,"Basel, Switzerland",,,,,https://2025.geopython.net/,,
+GeoPython 2026,2026-06-08,2026-06-11,"Basel, Switzerland",,,,,https://2026.geopython.net,,
+GeoPython,2018-05-07,2018-05-09,"Muttenz, Basel-Landschaft, Switzerland",CHE,,,,http://2018.geopython.net,,
+GeoPython,2019-06-24,2019-06-26,"Basel, Basel-Stadt, Switzerland",CHE,,,,http://2019.geopython.net,,http://2019.geopython.net/GeoPython_Sponsoring_2019_lowres.pdf
+GeoPython,2021-04-22,2021-04-23,"Basel, Basel-Stadt, Switzerland",CHE,Online,2021-01-31,2021-01-25,http://2021.geopython.net,https://submit.geopython.net/gp2021/cfp,
+GeoPython,2022-06-20,2022-06-22,"Basel, Basel-Stadt, Switzerland",CHE,FHNW Campus Muttenz,2022-02-15,2021-02-15,https://2022.geopython.net,https://2022.geopython.net,
+GeoPython,2023-03-06,2023-03-08,"Basel, Basel-Stadt, Switzerland",CHE,FHNW,,2022-12-16,https://2023.geopython.net,https://submit.geopython.net/geopython-2023/cfp,
+GeoPython,2024-05-27,2024-05-29,"Basel, Switzerland",CHE,,,2024-01-23,https://2024.geopython.net/,https://submit.geopython.net/geopython-2024/cfp,
 GeoPython,2025-02-24,2025-02-26,"Basel, Switzerland",CHE,,,2024-11-15,https://2025.geopython.net,https://submit.geopython.net/geopython-2025/cfp,
+GeoPython,2025-02-24,2025-02-26,"Basel, Switzerland",CHE,,,2024-11-15,https://2025.geopython.net,https://submit.geopython.net/geopython-2025/cfp,
+GeoPython,2026-06-08,2026-06-10,"Basel, Switzerland",CHE,,2026-03-31,2026-03-31,https://2026.geopython.net/,https://2026.geopython.net/app/callforspeakers,https://2026.geopython.net/app/sponsors
+HackBVICAM National Student’s Convention 2k20,2020-03-13,2020-03-14,"New Delhi, India",,,,,http://bvicam-events.in/event/hackbvicam,,
+HackWeakEnd Technology Event,2018-04-27,2018-04-29,"Bijilo, The Gambia",,,,,http://www.hacktheweakend.com,,
+Hamburg Python Pizza,2023-11-17,2023-11-18,"Hamburg, Germany and Online",,,,,https://hamburg.python.pizza,,
+IndyPy Automate Conf 2019,2019-03-22,2019-03-23,"Indiana, USA",,,,,https://2019.indypy.org/automate/,,
+IndyPy Web Conf 2019,2019-08-23,2019-08-24,"Indianapolis, IN, USA",,,,,https://2019.indypy.org/webconf/,,
+JupyterCon 2023,2023-05-10,2023-05-13,"Paris, France",,,,,https://www.jupytercon.com,,
 JupyterCon 2025,2025-11-03,2025-11-06,"San Diego, USA",,,,,https://events.linuxfoundation.org/jupytercon/,,
+JupyterCon 2025,2025-11-03,2025-11-06,"San Diego, USA",,,,,https://events.linuxfoundation.org/jupytercon/,,
+JupyterCon,2020-10-05,2020-10-17,"Berlin, Brandenburg, Germany",DEU,Online,,2020-07-20,https://jupytercon.com,https://jupytercon.com/talk-poster-cfp,
+JupyterCon,2023-05-10,2023-05-12,"Paris, Île-de-France, France",FRA,Cité des Sciences,,2022-12-20,https://jupytercon.com,,https://www.jupytercon.com/sponsors
+KX CON [23],2023-05-17,2023-05-21,"Montauk, NY, USA",,,,,https://kx.com/events/kx-con-2023/,,
+Kiwi PyCon 2017,2017-12-02,2017-12-04,"Auckland, New Zealand",,,,,https://python.nz,,
+Kiwi PyCon 2023,2023-09-15,2023-09-18,"Waihopai, Invercargill, New Zealand",,,,,https://kiwipycon.nz,,
+Kiwi PyCon X,2019-08-23,2019-08-26,"Wellington, New Zealand",,,,,https://python.nz,,
+Kiwi PyCon XI,2022-08-19,2022-08-22,"Ōtautahi/Christchurch, Aotearoa/New Zealand",,,,,https://python.nz/kiwipycon,,
 Kiwi PyCon XIII,,,,,,,,,,
 Kiwi PyCon XIII,,,,,,,,,,
+Kiwi PyCon XIII,2024-08-23,2024-08-25,"Te Whanganui-a-Tara Wellington, New Zealand",NZL,,,2024-05-23,https://kiwipycon.nz/,https://kiwipycon.nz/present/submitting-a-talk,https://kiwipycon.nz/sponsors/become-a-sponsor
+Kiwi PyCon XIII,2024-08-23,2024-08-26,"Wellington, Aoetaroa, New Zealand",,,,,https://kiwipycon.nz,,
 Kiwi PyCon,,,Aotearoa New Zealand,,,,,https://kiwipycon.nz,,
+Kiwi PyCon,,,Aotearoa New Zealand,,,,,https://kiwipycon.nz,,
+Kiwi PyCon,2019-08-23,2019-08-25,"Wellington, Wellington, New Zealand",NZL,,,,https://python.nz,,
+Kiwi PyCon,2023-09-15,2023-09-17,"Waihōpai (Invercargill), Aotearoa, New Zealand",NZL,Ascot Park Hotel,,2023-05-19,https://kiwipycon.nz,https://kiwipycon.nz/call-for-proposals,https://kiwipycon.nz/sponsorship
+Kiwi PyCon,2025-11-21,2025-11-23,"Wellington / Te Whanganui-a-Tara, New Zealand",NZL,Shed 6,,,https://kiwipycon.nz/,,https://kiwipycon.nz/sponsors/become-a-sponsor
+Launching Python Niger,2024-04-28,2024-04-29,"Maradi, Niger Republic",,,,,https://fb.me/e/8alLCsc39,,
+MUPy 2017,2017-10-21,2017-10-23,"Manipal Institute of Technology, Manipal, Karnataka, India",,,,,http://pypals.org/mupy,,
+Moscow Python Conf++ 2019,2019-04-05,2019-04-06,"Moscow, Russia",,,,,http://mpc2019.tilda.ws,,
+Moscow Python Conf++,2020-03-27,2020-03-27,"Moscow, Central Federal District, Russia",RUS,Infospace,,2020-01-13,https://conf.python.ru/en/2020,https://onticoconferences.typeform.com/to/OySCUQ,
+Moscow Python Conf++,2023-05-19,2023-05-20,"Moscow, Central Federal District, Russia",RUS,Gorky Park,,2023-04-17,https://conf.python.ru/moscow/2023,https://cfp.conf.python.ru,
+MoscowPythonConf++,2020-03-27,2020-03-28,"Moscow, Russia",,,,,https://conf.python.ru/en/2020,,
+North Bay Python 2017,2017-12-02,2017-12-04,"Petaluma, California, USA",,,,,http://northbaypython.org,,
+North Bay Python 2018,2018-11-02,2018-11-05,"Petaluma, California, USA",,,,,http://northbaypython.org,,
+North Bay Python 2024,2024-06-29,2024-06-30,"Petaluma, USA",,,,,https://2024.northbaypython.org,,
+North Bay Python 2026,2026-04-25,2026-04-27,"Petaluma, California, USA",,,,,http://2026.northbaypython.org,,
 North Bay Python,,,"Petaluma (San Francisco Bay Area), California, United States",,,,,https://www.northbaypython.org,,
+North Bay Python,,,"Petaluma (San Francisco Bay Area), California, United States",,,,,https://www.northbaypython.org,,
+North Bay Python,2018-11-03,2018-11-04,"Petaluma, California, United States of America",USA,The Mystic Theatre,,2018-08-10,https://2018.northbaypython.org/program/call-for-proposals,https://2018.northbaypython.org/program/call-for-proposals,https://2018.northbaypython.org/sponsors/become-a-sponsor
+North Bay Python,2019-11-02,2019-11-03,"Petaluma, California, United States of America",USA,Mystic Theatre,,2019-08-16,https://2019.northbaypython.org,,
+North Bay Python,2023-07-29,2023-07-30,"Petaluma, California, United States of America",USA,Reis River Ranch,,2023-05-19,https://2023.northbaypython.org,https://2023.northbaypython.org/speak,https://2023.northbaypython.org/sponsor
+North Bay Python,2023-07-29,2023-07-31,"Petaluma, California, USA",,,,,https://2023.northbaypython.org,,
+North Bay Python,2024-06-29,2024-06-30,"Petaluma, California, United States of America",USA,,,2024-04-12,https://2024.northbaypython.org/,,
 North Bay Python,2025-04-26,2025-04-27,"Petaluma, California, United States of America",USA,,,,https://2025.northbaypython.org/,,https://2025.northbaypython.org/sponsor
+North Bay Python,2025-04-26,2025-04-27,"Petaluma, California, United States of America",USA,,,,https://2025.northbaypython.org/,,https://2025.northbaypython.org/sponsor
+Online Python Web Global Summit'20,2020-11-19,2020-11-20,Online,,,,,https://python.geekle.us,,
+Open Source Festival,2020-02-20,2020-02-23,"Lagos, Nigeria",,,,,https://festival.oscafrica.org,,
+PackagingCon 2023,2023-10-26,2023-10-29,"Berlin, Germany",,,,,https://packaging-con.org,,
+PackagingCon,2023-10-26,2023-10-28,"Berlin, Germany",DEU,,,2023-08-06,https://packaging-con.org/,https://cfp.packaging-con.org/2023/cfp,https://packaging-con.org/s/sponsorship_prospectus_packagingcon_2023.pdf
+Piter Py 2017,2017-11-03,2017-11-05,"Crowne Plaza St. Petersburg Airport, Startovaya 6 Lit A, St. Petersburg, Russia, 196210",,,,,https://it-events.com/events/8527,,
+Piter Py,2024-09-26,2024-09-27,"Saint Petersburg, Russia",RUS,,,2024-06-01,https://piterpy.com/en/,,
+PiterPy #5,2018-11-02,2018-11-04,"Saint Petersburg, St Petersburg, Russia",,,,,https://piterpy.com/en,,
+PiterPy 2019,2019-11-01,2019-11-02,"Saint Petersburg, St Petersburg, Russia",,,,,https://piterpy.com/en,,
+PiterPy 2024,2024-09-26,2024-09-27,"Saint Petersburg, Russia",,,,,https://piterpy.com/en/,,
 PiterPy 2025,2025-05-16,2025-05-18,"St. Petersburg, Russia and Online",,,,,https://piterpy.com/en/,,
+PiterPy 2025,2025-05-16,2025-05-18,"St. Petersburg, Russia and Online",,,,,https://piterpy.com/en/,,
+PiterPy,2020-08-03,2020-08-06,"Saint Petersburg, Leningrad Oblast, Russia",RUS,Online,,,https://piterpy.com,,
+PiterPy,2022-10-28,2022-10-28,"Saint Petersburg, Leningrad Oblast, Russia",RUS,,,,https://piterpy.com/en/archive/2022,,
+Plone Conference 2018,2018-11-05,2018-11-12,"Tokyo, Japan",,,,,https://2018.ploneconf.org,,
+Plone Conference 2021 Online,2021-10-23,2021-11-01,Online,,,,,https://2021.ploneconf.org,,
+Plone Conference 2024,2024-11-25,2024-12-01,"Brasilia, Brazil",,,,,https://2024.ploneconf.org/en,,
+Plone Conference 2025,2025-10-13,2025-10-20,"Jyväskylä, Finland",,,,,https://2025.ploneconf.org,,
 Plone Conference 2025,2025-10-13,2025-10-20,"Jyväskylä, Finland",,,,,https://2025.ploneconf.org/,,
+Plone Conference,2024-11-25,2024-12-01,"Brasilia, Brazil",BRA,,,,https://2024.ploneconf.org/en,,
 Plone Conference,2025-10-13,2025-10-19,"Jyväskylä, Finland",FIN,University of Jyväskylä,,2025-07-31,https://2025.ploneconf.org,https://2025.ploneconf.org/call-for-papers,https://2025.ploneconf.org/sponsors
+Plone Conference,2025-10-13,2025-10-19,"Jyväskylä, Finland",FIN,University of Jyväskylä,,2025-07-31,https://2025.ploneconf.org,https://2025.ploneconf.org/call-for-papers,https://2025.ploneconf.org/sponsors
+Prague Python Pizza 2024,2024-02-24,2024-02-25,"Prague, Czech Republic",,,,,https://prague.python.pizza,,
+PyBITS 2017,2017-10-27,2017-10-30,"BITS Pilani Hyderabad Campus, Shameerpet Mandal, Jawahar Nagar, Hyderabad, Telangana 500078, India",,,,,http://bits-atmos.org/pybits/,,
+PyBay 2018,2018-08-16,2018-08-20,"San Francisco, CA, USA",,,,,http://pybay.com,,
+PyBay 2022,2022-09-10,2022-09-11,"San Francsisco, USA and Online",,,,,https://www.pybay.com,,
+PyBay 2024,2024-09-21,2024-09-22,"San Francisco, CA, United States",,,,,https://pybay.org,,
+PyBay 2025,2025-10-18,2025-10-19,"San Francisco, CA, USA",,,,,https://pybay.org,,
 PyBay 2025,2025-10-18,2025-10-19,"San Francisco, CA, USA",,,,,https://pybay.org/,,
+PyBay 2026,2026-10-03,2026-10-04,"San Francisco, CA, USA",,,,,https://pybay.org,,
 PyBay,,,"San Francisco, CA",,,,,https://pybay.com,,
+PyBay,,,"San Francisco, CA",,,,,https://pybay.com,,
+PyBay,2017-08-10,2017-08-13,"San Francisco, California, United States of America",USA,,2017-06-10,2017-06-10,http://pybay.com,https://pybay.com/cfp,http://pybay.com/sponsors
+PyBay,2018-08-16,2018-08-19,"San Francisco, California, United States of America",USA,,,2018-04-21,https://pybay.com,,https://pybay.com/sponsors-prospectus
+PyBay,2019-08-15,2019-08-18,"San Francisco, California, United States of America",USA,Mission Bay Conference Center,2019-05-12,2019-05-12,https://pybay.com,https://pybay2019cfp.hubb.me,
+PyBay,2019-08-15,2019-08-19,"Mission Bay, San Francisco, CA, USA",,,,,https://pybay.com,,
+PyBay,2020-08-15,2020-08-16,"San Francisco, CA",USA,Online,,,,,
+PyBay,2021-10-09,2021-10-09,"San Francisco, California, USA",USA,Parklab Gardens,,,,,
+PyBay,2022-09-10,2022-09-10,"San Francisco, California, United States of America",USA,Parklab Gardens,,,https://pybay.com,,https://pybay.com/sponsors-prospectus
+PyBay,2023-10-08,2023-10-08,"San Francisco, California, USA",USA,Parklab Gardens,,,,,
+PyBay,2024-09-21,2024-09-21,"San Francisco, California, United States of America",USA,Mission Bay Conference Center,,2024-07-31,https://pybay.org/,https://pybay.org/speaking/,https://pybay.org/sponsors/sponsor-us/
+PyBay,2025-10-18,2025-10-18,"San Francisco, California, United States of America",USA,Mission Bay Conference Center,,2025-07-31,https://pybay.org/,https://pybay.org/speaking/,https://pybay.org/sponsors/sponsor-us/
+PyBay,2026-10-03,2026-10-03,"San Francisco, California, United States of America",USA,Mission Bay Conference Center,,2026-07-31,https://pybay.org/,https://pybay.org/speaking/,https://pybay.org/sponsors/sponsor-us/
+PyBeach 2025,2025-09-27,2025-09-28,"Santa Monica, CA, USA",,,,,https://2025.pybeach.org,,
 PyBeach 2025,2025-09-27,2025-09-28,"Santa Monica, CA, USA",,,,,https://2025.pybeach.org/,,
+PyBeach 2026,2026-10-24,2026-10-25,"Santa Monica, California, USA",,,,,https://2026.pybeach.org,,
+PyBeach,,,"Los Angeles, California, United States",,,,,https://pybeach.org,,
 PyBeach,,,"Los Angeles, California, United States",,,,,https://pybeach.org,,
 PyBeach,,,,,,,,,,
+PyBeach,2020-02-29,2020-02-29,"Los Angeles, California, United States of America",USA,Toolbox LA,,2019-12-16,https://2020.pybeach.org,https://www.papercall.io/pybeach2020,https://2020.pybeach.org/sponsors
 PyBeach,2025-09-27,2025-09-27,"Santa Monica, California, United States of America",USA,Illusion Magic Lounge,,2025-07-07,https://2025.pybeach.org,https://pretalx.com/pybeach2025/,https://2025.pybeach.org/prospectus.html
+PyBeach,2025-09-27,2025-09-27,"Santa Monica, California, United States of America",USA,Illusion Magic Lounge,,2025-07-07,https://2025.pybeach.org,https://pretalx.com/pybeach2025/,https://2025.pybeach.org/prospectus.html
+PyCamp CZ 25 beta,2025-09-12,2025-09-15,"Třeštice, Czechia",,,,,https://pycamp.cz,,
 PyCamp CZ 25 beta,2025-09-12,2025-09-15,"Třeštice, Czechia",,,,,https://pycamp.cz/,,
 PyCamp CZ,,,,,,,,,,
 PyCamp CZ,2025-09-12,2025-09-14,"Třeštice, Czechia",CZE,Mlýn Třeštice,,,https://pycamp.cz/,,
+PyCamp CZ,2025-09-12,2025-09-14,"Třeštice, Czechia",CZE,Mlýn Třeštice,,,https://pycamp.cz/,,
+PyCamp España,2024-03-29,2024-04-01,"Lleida, Spain",ESP,,,2024-03-27,https://pycamp.es/,https://docs.google.com/forms/d/1PpI3MstjIBH2e9J21UQaTHQLKTTEuR13od3iQkfJ8Zo/viewform?edit_requested=true,
 PyCamp España,2025-05-01,2025-05-04,"Sevilla, España",ESP,,,,https://pycamp.es,https://docs.google.com/forms/d/1PpI3MstjIBH2e9J21UQaTHQLKTTEuR13od3iQkfJ8Zo,
+PyCamp España,2025-05-01,2025-05-04,"Sevilla, España",ESP,,,,https://pycamp.es,https://docs.google.com/forms/d/1PpI3MstjIBH2e9J21UQaTHQLKTTEuR13od3iQkfJ8Zo,
+PyCamp Leipzig,2021-01-30,2021-01-30,"Leipzig, Saxony, Germany",DEU,Online,,,https://barcamps.eu/pycamp-leipzig-2021,,https://barcamps.eu/pycamp-leipzig-2021
+PyCamp Leipzig,2022-01-29,2022-01-30,"Leipzig, Saxony, Germany",DEU,Online,,,https://barcamps.eu/pycamp-leipzig-2022,,
+PyCamp Leipzig,2023-07-29,2023-07-30,"Leipzig, Saxony, Germany",DEU,Basislager Coworking,,,https://barcamps.eu/python-barcamp-der-leipzig-python-user-group-2023,,
+PyCamp Spain 2022,2022-04-15,2022-04-19,"Girona, Spain",,,,,https://pycamp.es,,
+PyCaribbean 2018,2018-02-17,2018-02-19,"Santo Domingo, Dominican Republic",,,,,http://pycaribbean.com,,
+PyCaribbean,2018-02-17,2018-02-18,"Santo Domingo, National District, Dominican Republic",DOM,,2017-11-24,2017-11-24,http://pycaribbean.com,https://www.papercall.io/pycaribbean-2018,
+PyCaribbean,2019-02-16,2019-02-17,"Santo Domingo, National District, Dominican Republic",DOM,,,2018-11-15,http://pycaribbean.com,https://www.papercall.io/pycaribbean-2019,
+PyCascades 2018,2018-01-22,2018-01-24,"Granville Island Stage, 1585 Johnston St, Vancouver, BC V6H 3R9, Canada",,,,,https://www.google.com/url?q=http%3A%2F%2Fwww.pycascades.com%2F&sa=D&usd=2&usg=AFQjCNFYLcuMm4ijRXakBPSZWhUcHNAGxw,,
+PyCascades 2019,2019-02-23,2019-02-25,"Seattle, Washington, USA",,,,,https://2019.pycascades.com,,
+PyCascades 2020,2020-02-08,2020-02-10,"Portland, Oregon, USA",,,,,,,
+PyCascades 2021,2021-02-19,2021-02-22,Online,,,,,https://2021.pycascades.com,,
+PyCascades 2024,2024-04-05,2024-04-09,,,,,,https://2024.pycascades.com,,
+PyCascades 2025,2025-02-08,2025-02-10,"Portland, USA",,,,,https://2025.pycascades.com,,
 PyCascades 2025,2025-02-08,2025-02-10,"Portland, USA",,,,,https://2025.pycascades.com/,,
 PyCascades 2026,2026-03-20,2026-03-22,"Vancouver, British Columbia, Canada",,,,,https://2026.pycascades.com/,,
+PyCascades 2026,2026-03-21,2026-03-23,"Vancouver, British Columbia, Canada",,,,,https://2026.pycascades.com,,
+PyCascades Remote 2020,2022-02-05,2022-02-07,Online,,,,,https://2022.pycascades.com,,
+PyCascades,,,Pacific Northwest North America,,,,,https://www.pycascades.com,,
+PyCascades,2018-01-22,2018-01-23,"Vancouver, British Columbia, Canada",CAN,Granville Island Stage,,,https://www.pycascades.com,https://www.papercall.io/pycascades-2018,https://www.pycascades.com/sponsors
+PyCascades,2019-02-23,2019-02-24,"Seattle, Washington, United States of America",USA,University of Washington,,2018-10-21,https://2019.pycascades.com,https://www.papercall.io/pycascades-2019,https://2019.pycascades.com/become-a-sponsor
+PyCascades,2020-02-08,2020-02-09,"Portland, Oregon, United States of America",USA,Revolution Hall,,2019-10-01,https://2020.pycascades.com,https://www.papercall.io/pycascades-2020,https://2020.pycascades.com/become-a-sponsor
+PyCascades,2021-02-19,2021-02-21,"Pacific Northwest, USA / Canada",USA,Online,,,https://2021.pycascades.com,,https://2021.pycascades.com/sponsors/become-a-sponsor
+PyCascades,2023-03-18,2023-03-19,"Vancouver, British Columbia, Canada",CAN,SFU Harbour Centre (Vancouver Campus),,2022-11-16,https://2023.pycascades.com,,https://2023.pycascades.com/sponsors/become-a-sponsor
+PyCascades,2024-04-05,2024-04-08,"Seattle, Washington, United States of America",USA,,,2024-01-04,https://2024.pycascades.com/,https://pretalx.com/pycascades-2024/cfp,https://2024.pycascades.com/sponsors/become-a-sponsor/
 PyCascades,2025-02-08,2025-02-09,"Portland, Oregon, United States of America",USA,Revolution Hall,,2024-09-15,https://2025.pycascades.com,https://2025.pycascades.com/program/cfp,
+PyCascades,2025-02-08,2025-02-09,"Portland, Oregon, United States of America",USA,Revolution Hall,,2024-09-15,https://2025.pycascades.com,https://2025.pycascades.com/program/cfp,
+PyCascades,2026-03-21,2026-03-22,"Vancouver, British Columbia, Canada",CAN,SFU Harbour Centre,,2025-10-27,https://2026.pycascades.com/,https://pretalx.com/pycascades-2026/cfp,https://2026.pycascades.com/sponsors/become-a-sponsor/
+PyCaxias 2025,2025-05-17,2025-05-18,"Caxias do Sul, RS, Brazil",,,,,https://pycaxias.com.br,,
 PyCaxias 2025,2025-05-17,2025-05-18,"Caxias do Sul, RS, Brazil",,,,,https://pycaxias.com.br/,,
+PyChain 2022,2022-11-15,2022-11-16,online,,,,,https://www.pychain.org,,
+PyCode Conference 2018,2018-10-01,2018-10-03,"Warsaw, Poland",,,,,https://pycode-conference.org,,
+PyCode Conference 2019,2019-10-14,2019-10-17,"Gdansk, Poland",,,,,https://pycode-conference.org,,
+PyCode Conference 2020,2020-12-11,2020-12-13,Online,,,,,https://pycode-conference.org,,
+PyCode Conference,2021-12-02,2021-12-04,Online,,,,,https://pycode-conference.org,,
+PyColorado,2019-09-07,2019-09-08,"Denver, Colorado, United States of America",USA,The Studio Loft at Ellie Caulkins Opera House,,,https://pycolorado.org,,
+PyCon APAC 2017,2017-08-26,2017-08-28,"Kuala Lumpur, Malaysia",,,,,https://pycon.my,,
+PyCon APAC 2018,2018-05-31,2018-06-03,"NUS School of Computing / COM1, 13 Computing Drive, Singapore 117417, Singapore",,,,,http://pycon.sg,,
+PyCon APAC 2019,2019-02-23,2019-02-25,"iACADEMY, Nexus Campus, Makati City, Philippines",,,,,https://pycon.python.ph,,
+PyCon APAC 2020,2020-09-19,2020-09-21,Online,,,,,https://pycon.my,,
+PyCon APAC 2021,2021-11-19,2021-11-24,"Bangkok, Thailand and online",,,,,https://th.pycon.org,,
+PyCon APAC 2022,2022-09-03,2022-09-05,"Online, Taiwan",,,,,https://tw.pycon.org,,
+PyCon APAC 2023,2023-10-27,2023-10-29,"Tokyo, Japan",,,,,https://2023-apac.pycon.jp,,
+PyCon APAC 2024,2024-10-25,2024-10-27,"Yogyakarta, Indonesia",,,,,https://pycon.id,,
+PyCon APAC 2025,2025-03-01,2025-03-03,"Quezon City, Philippines",,,,,https://pycon-apac.python.ph,,
 PyCon APAC 2025,2025-03-01,2025-03-03,"Quezon City, Philippines",,,,,https://pycon-apac.python.ph/,,
+PyCon APAC,,,Asia Pacific (rotating),,,,,https://pycon.asia,,
+PyCon APAC,2025-03-01,2025-03-02,"Metro Manila, Philippines",PHL,Ateneo de Manila University,,2024-12-15,https://pycon-apac.python.ph,https://pretalx.com/pycon-apac-2025/cfp,https://docs.google.com/forms/d/e/1FAIpQLScay8a44Fvgc0IDJ0IuKlNZgxQKs1kA7ginxto60gW3cIK2Eg/viewform
 PyCon APAC,2025-03-01,2025-03-02,"Metro Manila, Philippines",PHL,Ateneo de Manila University,,2024-12-15,https://pycon-apac.python.ph,https://pretalx.com/pycon-apac-2025/cfp,https://docs.google.com/forms/d/e/1FAIpQLScay8a44Fvgc0IDJ0IuKlNZgxQKs1kA7ginxto60gW3cIK2Eg/viewform
 PyCon AR,,,Argentina,,,,,https://ar.pycon.org,,
+PyCon AR,,,Argentina,,,,,https://ar.pycon.org,,
+PyCon AU 2017,2017-08-03,2017-08-09,"Melbourne Convention and Exhibition Centre, 1 Convention Centre Pl, South Wharf VIC 3006, Australia",,,,,,,
+PyCon AU 2018,2018-08-24,2018-08-29,"ICC, Sydney, Australia",,,,,http://2018.pycon-au.org,,
+PyCon AU 2019,2019-08-02,2019-08-07,"Sydney, Australia",,,,,https://2019.pycon-au.org,,
+PyCon AU 2023,2023-08-18,2023-08-23,"Adelaide, Australia",,,,,https://2023.pycon.org.au,,
 PyCon AU 2025,2025-09-12,2025-09-17,"Melbourne, Australia",,,,,https://2025.pycon.org.au,,
+PyCon AU 2025,2025-09-12,2025-09-17,"Melbourne, Australia",,,,,https://2025.pycon.org.au,,
+PyCon AU 2026,2026-08-26,2026-08-31,"Brisbane, Australia",,,,,https://2026.pycon.org.au,,
+PyCon AU,,,Australia,,,,,https://pycon.org.au,,
+PyCon AU,2024-11-22,2024-11-26,"Melbourne, Australia",AUS,,,,https://2024.pycon.org.au/,,
 PyCon AU,2025-09-12,2025-09-16,"Narrm / Melbourne, Australia",AUS,Pullman Melbourne On The Park,,,https://2025.pycon.org.au/,,https://2025.pycon.org.au/sponsor/
+PyCon AU,2025-09-12,2025-09-16,"Narrm / Melbourne, Australia",AUS,Pullman Melbourne On The Park,,,https://2025.pycon.org.au/,,https://2025.pycon.org.au/sponsor/
+PyCon AU,2026-08-26,2026-08-30,"Brisbane, Australia",AUS,Sofitel Brisbane Central,,,https://2026.pycon.org.au,,
+PyCon Africa 2024,2024-09-24,2024-09-29,"Accra, Ghana",,,,,https://africa.pycon.org/2024/,,
+PyCon Africa 2025,2025-10-08,2025-10-13,"Johannesburg, South Africa",,,,,https://africa.pycon.org,,
 PyCon Africa 2025,2025-10-08,2025-10-13,"Johannesburg, South Africa",,,,,https://africa.pycon.org/,,
+PyCon Africa 2026,2026-10-07,2026-10-12,"Kampala, Uganda",,,,,https://africa.pycon.org,,
+PyCon Africa,,,Africa (rotating),,,,,https://africa.pycon.org,,
+PyCon Africa,2019-08-06,2019-08-10,"Accra, Greater Accra, Ghana",GHA,"University of Ghana, Legon Campus",2019-06-01,2019-06-01,https://africa.pycon.org,https://africa.pycon.org/speaking,https://africa.pycon.org/sponsor
+PyCon Africa,2020-08-04,2020-08-08,"Accra, Greater Accra, Ghana",GHA,Online,,,https://africa.pycon.org,,
+PyCon Africa,2024-09-24,2024-09-28,"Accra, Ghana",GHA,Cedi Conference Center,2024-07-08,2024-07-08,https://africa.pycon.org/2024/,https://africa.pycon.org/2024/talks/speaking/,https://africa.pycon.org/2024/sponsor-us/
 PyCon Africa,2025-10-08,2025-10-12,"Johannesburg, South Africa",ZAF,The Wanderers Club,2025-06-27,2025-06-27,https://africa.pycon.org,https://za.pycon.org/pages/speaking/how_to_apply/,https://za.pycon.org/sponsors/packages/
+PyCon Africa,2025-10-08,2025-10-12,"Johannesburg, South Africa",ZAF,The Wanderers Club,2025-06-27,2025-06-27,https://africa.pycon.org,https://za.pycon.org/pages/speaking/how_to_apply/,https://za.pycon.org/sponsors/packages/
+PyCon Africa,2026-10-07,2026-10-11,"Kampala, Uganda",UGA,Speke Resort Munyonyo,,,https://africa.pycon.org/,https://africa.pycon.org/2026/talks/proposals/,https://africa.pycon.org/2026/sponsor-us/
+PyCon Amazônia 2017,2017-08-12,2017-08-14,"Manaus, Amazonas, Brazil",,,,,http://amazonia.python.org.br,,
+PyCon Angola 2027,2027-05-20,2027-05-26,"Luanda, Angola ",,,,,https://ao.pycon.org,,
 PyCon Arewa,,,"Northern, Nigeria",,,,,https://pythonhausa.org/pyconarewa,,
+PyCon Arewa,,,"Northern, Nigeria",,,,,https://pythonhausa.org/pyconarewa,,
+PyCon Argentina,2018-11-22,2018-11-24,"Buenos Aires, Federal District, Argentina",ARG,,,,https://pycon.python.org.ar,,
+PyCon Argentina,2018-11-22,2018-11-25,"Buenos Aires, Argentina",,,,,https://pycon.python.org.ar,,
+PyCon Asia Pacific,2017-08-26,2017-08-27,"Kuala Lumpur, Selangor, Malaysia",MYS,,2017-07-07,2017-07-07,https://pycon.my,https://pycon.my/2017/02/25/speak-at-pycon-apac-2017,https://pycon.my/2017/02/28/sponsor-pycon-apac-2017
+PyCon Asia Pacific,2018-05-31,2018-06-02,"Singapore, Singapore, Singapore",SGP,,,2018-04-30,https://pycon.sg,https://www.papercall.io/pycon-apac-2018,https://pycon.sg/sponsorship
+PyCon Asia Pacific,2019-02-23,2019-02-24,"Manila, National Capital Region, Philippines",PHL,,,,https://pycon-tickets.python.ph,,https://docs.google.com/forms/d/e/1FAIpQLSfZ7g2QxEpA13QvvHUXvLHcQ0KAiJBEidDMY5UpRRPs_bb4gA/viewform
+PyCon Asia Pacific,2023-10-27,2023-10-29,"Tokyo, Kantō, Japan",JPN,TOC Ariake Convention Hall,,2023-05-31,https://2023-apac.pycon.jp,https://pretalx.com/pyconapac2023/cfp,https://pyconjp.blogspot.com/2023/05/pyconapac2023-call-for-sponsors-en.html
+PyCon Asia Pacific,2024-10-25,2024-10-27,"Yogyakarta, Indonesia",IDN,,,,https://pycon.id/,,https://2024-apac.pycon.id/sponsorship/
+PyCon Australia,2017-08-03,2017-08-08,"Melbourne, Victoria, Australia",AUS,Melbourne Convention and Exhibition Centre,2017-05-07,2017-05-07,https://pycon-au.org,https://pycon-au.org/program/cfp,https://2017.pycon-au.org/sponsorship.pdf
+PyCon Australia,2018-08-24,2018-08-28,"Sydney, New South Wales, Australia",AUS,International Convention Centre,,2018-05-28,http://2018.pycon-au.org,https://www.papercall.io/pyconau2018,https://2018.pycon-au.org/news/call-for-sponsorship
+PyCon Australia,2019-08-02,2019-08-06,"Sydney, New South Wales, Australia",AUS,International Convention Centre,,,https://2019.pycon-au.org,,https://2019.pycon-au.org/sponsor
+PyCon Australia,2020-09-04,2020-09-06,"Tarndanya (Adelaide), Australia",AUS,Online,,2020-07-12,https://2020.pycon.org.au,https://2020.pycon.org.au/speak,
+PyCon Australia,2023-08-18,2023-08-22,"Tarndanya (Adelaide), Australia",AUS,Adelaide Convention Centre,,2023-05-15,https://2023.pycon.org.au,https://2023.pycon.org.au/program,https://2023.pycon.org.au/sponsor
+PyCon Austria 2026,2026-04-19,2026-04-21,"Eisenstadt, Austria",,,,,https://pycon.at,,
+PyCon Austria 2027 ,2027-04-25,2027-04-27,"Eisenstadt, Austria",,,,,https://pycon.at,,
 PyCon Austria,2025-04-06,2025-04-07,"Eisenstadt, Austria",AUT,University of Applied Sciences (UAS) Burgenland,,2025-03-15,https://pycon.pyug.at/en/,https://www.papercall.io/pycon-austria,https://pycon.pyug.at/en/sponsor-information/
+PyCon Austria,2025-04-06,2025-04-07,"Eisenstadt, Austria",AUT,University of Applied Sciences (UAS) Burgenland,,2025-03-15,https://pycon.pyug.at/en/,https://www.papercall.io/pycon-austria,https://pycon.pyug.at/en/sponsor-information/
+PyCon Balkan 2019,2019-10-03,2019-10-06,"Belgrade, Serbia",,,,,https://conference.pyconbalkan.com,,
+PyCon Balkan,2018-11-16,2018-11-19,"Belgrade, Serbia",,,,,http://pyconbalkan.com,,
+PyCon Balkan,2019-10-03,2019-10-05,"Belgrade, Srem, Serbia",SRB,Hilton Belgrade,2019-07-15,2019-07-15,https://www.pyconbalkan.com,https://sessionize.com/pycon-balkan-2019,https://www.pyconbalkan.com/faq
+PyCon Beijing,2018-10-14,2018-10-14,"Beijing, Beijing, China",CHN,,,,http://cn.pycon.org/2018/en/city_beijing.html,,
+PyCon Belarus 2017,2017-02-04,2017-02-05,"Minsk, Belarus",,,,,http://by.pycon.org,,
+PyCon Belarus 2018,2018-02-24,2018-02-25,"Minsk, Belarus",,,,,https://by.pycon.org,,
+PyCon Belarus 2019,2019-02-15,2019-02-17,"SPACE (Kastryčnickaja 16/4), Minsk, Belarus",,,,,https://by.pycon.org,,
+PyCon Belarus 2020,2020-02-21,2020-02-23,"Minsk, Belarus",,,,,https://by.pycon.org,,
+PyCon Belarus 2021,2021-03-13,2021-03-14,Online,,,,,https://by.pycon.org,,
 PyCon Belarus,,,Belarus,,,,,https://web.archive.org/web/20210214080804/https://by.pycon.org/,,
+PyCon Belarus,,,Belarus,,,,,https://web.archive.org/web/20210214080804/https://by.pycon.org/,,
+PyCon Belarus,2017-02-04,2017-02-04,"Minsk, Minsk, Belarus",BLR,,,,http://by.pycon.org,,http://by.pycon.org/assets/files/Call_for_Partners_pycon2017.pdf
+PyCon Belarus,2018-02-24,2018-02-24,"Minsk, Minsk, Belarus",BLR,,,2017-12-26,https://by.pycon.org,https://goo.gl/Y1BXfK,https://by.pycon.org/assets/files/Call_for_Partners_pycon2018.pdf
+PyCon Belarus,2019-02-15,2019-02-16,"Minsk, Minsk, Belarus",BLR,,,2018-12-24,https://by.pycon.org,https://www.papercall.io/pyconby,https://drive.google.com/file/d/1DEY7aYs7byXUwZLozHhoHs8uuLHq_la1/view
+PyCon Bolivia 2022,2022-12-09,2022-12-11,"Cochabamba, Bolivia",,,,,https://bo.pycon.org,,
 PyCon Bolivia,,,Bolivia,,,,,https://web.archive.org/web/20211221001342/http://pycon.bo/,,
+PyCon Bolivia,,,Bolivia,,,,,https://web.archive.org/web/20211221001342/http://pycon.bo/,,
+PyCon CZ 2017,2017-06-09,2017-06-12,"Prague, Czechia",,,,,https://cz.pycon.org,,
+PyCon CZ 2018,2018-06-01,2018-06-04,"Prague, Czech Republic",,,,,http://pycon.cz,,
+PyCon CZ 2019,2019-06-14,2019-06-17,"Ostrava, Czech Republic",,,,,https://cz.pycon.org/2019/,,
+PyCon CZ 2020 (canceled),2020-06-05,2020-06-08,"Ostrava, Czech Republic",,,,,https://cz.pycon.org/2020/,,
+PyCon CZ 2023,2023-09-15,2023-09-18,"Prague, Czech Republic",,,,,https://cz.pycon.org/2023/,,
 PyCon CZ,,,Czech Republic,,,,,https://cz.pycon.org,,
+PyCon CZ,,,Czech Republic,,,,,https://cz.pycon.org,,
+PyCon CZ,2023-09-15,2023-09-17,"Prague, Czech Republic",CZE,Gabriel Loci,2023-06-25,2023-06-25,https://cz.pycon.org/2023,https://cz.pycon.org/2023/cfp,https://cz.pycon.org/2023/sponsorship
+PyCon Cameroon 2018,2018-01-24,2018-01-29,"Limbe, Cameroon",,,,,http://www.pythoncm.org/pycon.html,,
+PyCon Cameroon 2021,2021-03-18,2021-03-21,"Douala, Cameroon",,,,,http://pythoncm.org/pycon.html,,
+PyCon Cameroon 2026,2026-09-17,2026-09-20,"Yaoundé, Cameroon",,,,,https://pycon.pythoncameroon.org,,
+PyCon Cameroon,,,Cameroon,,,,,https://pycon.pythoncameroon.org,,
 PyCon Cameroon,,,Cameroon,,,,,https://web.archive.org/web/20210124013855/https://pythoncm.org/,,
+PyCon Cameroon,2017-01-20,2017-01-23,"Molyko Buea,Cameroon",,,,,http://pythoncm.org,,
+PyCon Cameroon,2026-09-17,2026-09-19,"Yaounde, Cameroon",CMR,Girafe Hotel,,2026-08-26,https://cm.pycon.org/,https://sessionize.com/pycon-camerooon-2026,https://cm.pycon.org/en/sponsor
+PyCon Canada 2017,2017-11-18,2017-11-22,"Montreal, Quebec, Canada",,,,,http://www.pycon.ca,,
+PyCon Canada 2019,2019-11-16,2019-11-20,"Toronto, Canada",,,,,http://pycon.ca,,
 PyCon Canada,,,Canada,,,,,https://www.pycon.ca,,
+PyCon Canada,,,Canada,,,,,https://www.pycon.ca,,
+PyCon Canada,2017-11-18,2017-11-19,"Montréal, Québec, Canada",CAN,Université du Québec à Montréal,,,https://2017.pycon.ca,https://www.papercall.io/pyconca2017,https://2017.pycon.ca/static/pdfs/pyconca2017-sponsorship-prospectus.pdf
+PyCon Canada,2018-11-09,2018-11-13,"Toronto, Ontario, Canada",CAN,Chestnut Residence & Conference Centre,2018-09-10,2018-09-10,https://2018.pycon.ca,https://www.papercall.io/pyconca2018,
+PyCon Canada,2019-11-16,2019-11-19,"Toronto, Ontario, Canada",CAN,,2019-08-31,2019-08-31,https://2019.pycon.ca,https://cfp.pycon.ca,
+PyCon Chengdu,2018-10-27,2018-10-27,"Chengdu, Sichuan, China",CHN,,,,http://cn.pycon.org/2018/en/city_chengdu.html,,
+PyCon Chile 2023,2023-11-24,2023-11-27,"Santiago, Chile",,,,,https://www.pycon.cl,,
+PyCon Chile 2025,2025-11-08,2025-11-10,"Viña del Mar, Chile",,,,,https://pycon.cl,,
 PyCon Chile,,,Chile,,,,,https://www.pycon.cl,,
+PyCon Chile,,,Chile,,,,,https://www.pycon.cl,,
+PyCon Chile,2021-11-05,2021-11-08,On line,,,,,https://pycon.cl,,
+PyCon Chile,2023-11-24,2023-11-26,"Valparaiso, Chile & Online",CHL,,,2023-09-15,https://pycon.cl/,,
+PyCon China 2019 Beijing Branch,2019-10-19,2019-10-20,"Beijing, People's Republic of China",,,,,https://cn.pycon.org,,
+PyCon China 2019 ShangHai Branch,2019-09-21,2019-09-22,"Shanghai, People Republic of China",,,,,https://cn.pycon.org,,
 PyCon China,,,China,,,,,https://cn.pycon.org,,
+PyCon China,,,China,,,,,https://cn.pycon.org,,
+PyCon China,2019-09-21,2019-09-21,"Shanghai, Shanghai, China",CHN,,,,http://cn.pycon.org,,
+PyCon China,2022-12-17,2022-12-17,"Beijing / Shanghai / Shenzhen / Hangzhou, China",CHN,,,,https://cn.pycon.org/2022,https://cn.pycon.org/2022/cfp,
+PyCon Colombia 2017,2017-02-10,2017-02-12,"Bogota, Colombia",,,,,http://http://www.pycon.co//,,
+PyCon Colombia 2018,2018-02-09,2018-02-12,"Medellin, Colombia",,,,,https://www.pycon.co,,
+PyCon Colombia 2022,2022-07-09,2022-07-11,Online,,,,,https://2022.pycon.co,,
+PyCon Colombia 2024,2024-06-07,2024-06-10,"Medellín, Colombia",,,,,https://2024.pycon.co,,
 PyCon Colombia 2025,2025-07-04,2025-07-07,"Medellín, Colombia",,,,,https://2025.pycon.co/#/en,,
+PyCon Colombia 2025,2025-07-04,2025-07-07,"Medellín, Colombia",,,,,https://2025.pycon.co/#/en,,
+PyCon Colombia,,,Colombia,,,,,https://www.pycon.co,,
+PyCon Colombia,2017-02-10,2017-02-11,"Bogotá, Capital District, Colombia",COL,,,,https://www.pycon.co,,
+PyCon Colombia,2018-02-09,2018-02-11,"Medellin, Antioquia, Colombia",COL,,,,https://www.pycon.co,,
+PyCon Colombia,2019-02-08,2019-02-10,"Medellin, Antioquia, Colombia",COL,,2018-09-01,2018-09-01,https://www.pycon.co,https://www.papercall.io/pycon-colombia-2019-talks,
+PyCon Colombia,2023-06-09,2023-06-11,"Bogotá, Capital District, Colombia",COL,,,2023-03-30,https://2023.pycon.co,https://2023.pycon.co/call-for-proposals,
+PyCon Colombia,2024-06-07,2024-06-09,"Medellin, Colombia",COL,,,2024-03-11,https://2024.pycon.co/,https://2024.pycon.co/call-for-proposals,
 PyCon Colombia,2025-07-04,2025-07-06,"Medellín, Colombia",COL,EAFIT,2025-04-06,2025-04-06,https://2025.pycon.co/#/call-for-proposals,https://2025.pycon.co/#/call-for-proposals,https://2025.pycon.co/#/sponsors
+PyCon Colombia,2025-07-04,2025-07-06,"Medellín, Colombia",COL,EAFIT,2025-04-06,2025-04-06,https://2025.pycon.co/#/call-for-proposals,https://2025.pycon.co/#/call-for-proposals,https://2025.pycon.co/#/sponsors
+PyCon Colombia,2026-07-24,2026-07-26,"Medellín, Colombia",COL,Universidad EAFIT,2026-05-12,2026-05-12,https://2026.pycon.co/,https://2026.pycon.co/#/call-for-proposals,https://2026.pycon.co/#/sponsors
+PyCon Czech Republic,2017-06-08,2017-06-10,"Prague, Bohemia, Czech Republic",CZE,,2017-04-17,2017-04-17,https://cz.pycon.org/2017,https://cz.pycon.org/2017/proposals/talks,https://cz.pycon.org/2017/sponsors
+PyCon Czech Republic,2018-06-01,2018-06-03,"Prague, Bohemia, Czech Republic",CZE,,2018-02-28,2018-02-28,https://cz.pycon.org/2018,https://cz.pycon.org/2018/proposals,https://cz.pycon.org/2018/sponsors
+PyCon Czech Republic,2019-06-14,2019-06-16,"Ostrava, Moravian-Silesian, Czech Republic",CZE,Dolní oblast Vítkovice,,,https://cz.pycon.org/2019,,https://cz.pycon.org/2019/static/pyconcz-2019-sponsorship-prospectus.pdf
+PyCon DE & PyData 2025,2025-04-23,2025-04-26,"Darmstadt, Germany",,,,,https://2025.pycon.de,,
 PyCon DE & PyData 2025,2025-04-23,2025-04-26,"Darmstadt, Germany",,,,,https://2025.pycon.de/,,
 PyCon DE & PyData 2026,2026-04-13,2026-04-18,"Darmstadt, Germany",,,,,https://pycon.de/,,
+PyCon DE & PyData 2026,2026-04-14,2026-04-18,"Darmstadt, Germany",,,,,https://pycon.de,,
+PyCon DE & PyData Berlin 2022,2022-04-11,2022-04-14,Berlin,,,,,https://2022.pycon.de,,
+PyCon DE & PyData Berlin 2023,2023-04-17,2023-04-20,"Berlin, Germany",,,,,https://2023.pycon.de,,
+PyCon DE & PyData Berlin 2024,2024-04-22,2024-04-25,"Berlin, Germany",,,,,https://pycon.de,,
 PyCon DE & PyData Berlin,,,,,,,,,,
 PyCon DE & PyData Berlin,,,,,,,,,,
+PyCon DE & PyData Berlin,2023-04-17,2023-04-19,"Berlin, Brandenburg, Germany",DEU,Berlin Congress Center,2023-01-05,2023-01-05,https://2023.pycon.de,https://2023.pycon.de/blog/call-for-proposals,https://2023.pycon.de/blog/pyconde-pydata-berlin-call-for-sponsors
+PyCon DE & PyData Berlin,2024-04-22,2024-04-25,"Berlin, Brandenburg, Germany",DEU,Berlin Congress Center,,2024-01-07,https://pycon.de,https://pretalx.com/pyconde-pydata-2024/cfp,https://2024.pycon.de/sponsors/
 PyCon DE & PyData,,,,,,,,,,
 PyCon DE & PyData,2025-04-23,2025-04-25,"Frankfurt, Germany",DEU,Darmstadtium,,2024-12-22,https://2025.pycon.de,https://2025.pycon.de/call-for-proposals,https://2025.pycon.de/sponsoring/
+PyCon DE & PyData,2025-04-23,2025-04-25,"Frankfurt, Germany",DEU,Darmstadtium,,2024-12-22,https://2025.pycon.de,https://2025.pycon.de/call-for-proposals,https://2025.pycon.de/sponsoring/
+PyCon DE & PyData,2026-04-13,2026-04-17,"Darmstadt, Germany",DEU,darmstadtium,2026-01-11,2026-01-11,https://pycon.de,https://2026.pycon.de/call-for-proposals/,https://2026.pycon.de/sponsoring/
 PyCon DE & PyData,2026-04-13,2026-04-17,"Darmstadt, Germany",DEU,datmstadtium,,,https://pycon.de,,
+PyCon DE 2017,2017-10-25,2017-10-28,"Karlsruhe, ZKM | Zentrum für Kunst und Medien Lorenzstraße 19, 76135 Karlsruhe, Germany",,,,,http://de.pycon.org,,
+PyCon DE 2027,2027-04-20,2027-04-23,"Heidelberg, Germany",,,,,http://pycon.de,,
 PyCon DE,,,Germany,,,,,https://de.pycon.org,,
+PyCon DE,,,Germany,,,,,https://de.pycon.org,,
+PyCon DE,2027-04-19,2027-04-24,"Heidelberg, Germany",DEU,HCC HEidelberg Congress Center,,,https://pycon.de,https://pycon.de,https://pycon.de/sponsoring/
+PyCon DE,2028-04-24,2028-04-29,"Heidelberg, Germany",DEU,HCC HEidelberg Congress Center,,,https://pycon.de,https://pycon.de,https://pycon.de/sponsoring/
+PyCon DK,,,Denmark,,,,,https://web.archive.org/web/20161010045716/https://pycon.dk/,,
 PyCon DK,,,Denmark,,,,,https://web.archive.org/web/20161010045716/https://pycon.dk/,,
 PyCon Davao 2025,2025-10-25,2025-10-27,"Davao City, Philippines",,,,,https://pycon-davao.durianpy.org,,
+PyCon Davao 2025,2025-10-25,2025-10-27,"Davao City, Philippines",,,,,https://pycon-davao.durianpy.org,,
+PyCon ES 2020,2020-10-02,2020-10-04,Online,,,,,https://2020.es.pycon.org,,
+PyCon ES 2024,2024-10-04,2024-10-06,"Vigo, Spain",,,,,https://2024.es.pycon.org,,
+PyCon ES 2026,2026-11-06,2026-11-09,"Barcelona, Spain",,,,,https://2026.es.pycon.org,,
+PyCon ES Canarias 2023,2023-10-06,2023-10-09,"San Cristóbal de La Laguna, Santa Cruz de Tenerife, España",,,,,https://2023.es.pycon.org/en/,,
 PyCon ES,,,Spain,,,,,https://es.pycon.org,,
+PyCon ES,,,Spain,,,,,https://es.pycon.org,,
+PyCon ES,2026-11-06,2026-11-08,"Barcelona, Spain",ESP,University of Barcelona,,,https://2026.es.pycon.org/en/,,https://2026.es.pycon.org/en/sponsors/
+PyCon España,2017-09-22,2017-09-24,"Cáceres, Cáceres, Spain",ESP,,2017-06-08,2017-06-08,https://2017.es.pycon.org,https://2017.es.pycon.org/en/proposals/submit,https://2017.es.pycon.org/static/files/es_brochure.pdf
+PyCon España,2018-10-05,2018-10-07,"Malaga, Andalusia, Spain",ESP,,2018-06-09,2018-06-09,https://2018.es.pycon.org,https://www.papercall.io/pycones2018,https://2018.es.pycon.org/static/web/pdf/pycones2018_dossier_en.pdf
+PyCon España,2019-10-04,2019-10-06,"Alicante, Alicante, Spain",ESP,,,2019-05-10,https://2019.es.pycon.org,https://easychair.org/cfp/pycones2019,
+PyCon España,2020-10-03,2020-10-03,"Granada, Andalusia, Spain",ESP,Online,,2020-07-26,https://2020.es.pycon.org,https://forms.gle/zXzaZ9VHbwfzwWabA,
+PyCon España,2023-10-06,2023-10-08,"Tenerife, Canary Islands, Spain",ESP,Universidad de La Laguna,,2023-06-23,https://2023.es.pycon.org,https://2023.es.pycon.org/c4p,https://2023.es.pycon.org/patrocinios
+PyCon Estonia 20,2020-10-08,2020-10-09,Online,,,,,https://pycon.ee,,
+PyCon Estonia 2023,2023-09-07,2023-09-09,"Tallinn University, Narva mnt 25, 10120 Tallinn, Estonia",,,,,https://pycon.ee,,
+PyCon Estonia 2024,2024-09-05,2024-09-07,"Tallinn, Estonia",,,,,https://pycon.ee,,
+PyCon Estonia 2025,2025-10-02,2025-10-04,"Tallinn, Estonia",,,,,https://pycon.ee,,
 PyCon Estonia 2025,2025-10-02,2025-10-04,"Tallinn, Estonia",,,,,https://pycon.ee/,,
+PyCon Estonia,2018-10-04,2018-10-05,"Tallinn, Estonia",,,,,http://pycon.ee,,
+PyCon Estonia,2019-10-03,2019-10-04,"Tallinn, Estonia",,,,,https://pycon.ee,,
+PyCon Estonia,2022-08-25,2022-08-26,"Tallinn University, Narva mnt 25, 10120 Tallinn, Estonia",,,,,https://pycon.ee,,
+PyCon Estonia,2023-09-07,2023-09-08,"Tallinn, Harju, Estonia",EST,"Astra building, Tallinn University",2023-05-09,2023-05-09,https://pycon.ee,https://pyconestonia.typeform.com/to/hBOEtTQ3,
+PyCon Estonia,2024-09-05,2024-09-06,"Tallinn, Estonia",EST,,,2024-04-15,https://pycon.ee/,https://docs.google.com/forms/d/e/1FAIpQLSe-OUSgBSYweCMPCAv-1pYXscGK9T7npoP77Dk17LtvQsynwQ,https://pydata.org/paris2024/sponsorship-opportunites
 PyCon Estonia,2025-10-02,2025-10-03,"Tallinn, Estonia",EST,,,2025-01-15,https://pycon.ee,https://docs.google.com/forms/d/e/1FAIpQLScn-H2turgLHVbbm6g3t6MeOBmStlgQwEay8J1qfypfERKw0A/viewform,https://pycon.ee/#faq
+PyCon Estonia,2025-10-02,2025-10-03,"Tallinn, Estonia",EST,,,2025-01-15,https://pycon.ee,https://docs.google.com/forms/d/e/1FAIpQLScn-H2turgLHVbbm6g3t6MeOBmStlgQwEay8J1qfypfERKw0A/viewform,https://pycon.ee/#faq
+PyCon FR 2017,2017-09-21,2017-09-25,"Toulouse, France",,,,,https://www.pycon.fr/2017/,,
+PyCon FR 2024,2024-10-31,2024-11-03,"Strasbourg, France",,,,,https://pycon.fr/2024/,,
+PyCon FR 2025,2025-10-30,2025-11-03,"Lyon, France",,,,,https://www.pycon.fr/2025/,,
 PyCon FR 2025,2025-10-30,2025-11-03,"Lyon, France",,,,,https://www.pycon.fr/2025/,,
 PyCon FR,,,France,,,,,https://fr.pycon.org,,
+PyCon FR,,,France,,,,,https://fr.pycon.org,,
+PyCon Finland 2025,2025-10-17,2025-10-18,"Jyväskylä, Finland",,,,,https://2025.ploneconf.org/pyconfi-2025,,
 PyCon Finland 2025,2025-10-17,2025-10-18,"Jyväskylä, Finland",,,,,https://2025.ploneconf.org/pyconfi-2025,,
 PyCon Finland,,,Finland,,,,,https://fi.pycon.org,,
+PyCon Finland,,,Finland,,,,,https://fi.pycon.org,,
 PyCon Finland,2025-10-17,2025-10-17,"Jyväskylä, Finland",FIN,University of Jyväskylä,,2025-07-31,https://fi.pycon.org,https://2025.ploneconf.org/call-for-papers,https://2025.ploneconf.org/sponsors
+PyCon Finland,2025-10-17,2025-10-17,"Jyväskylä, Finland",FIN,University of Jyväskylä,,2025-07-31,https://fi.pycon.org,https://2025.ploneconf.org/call-for-papers,https://2025.ploneconf.org/sponsors
+PyCon Fr,2019-10-31,2019-11-04,"Bordeaux, France",,,,,https://www.pycon.fr,,
+PyCon France,2017-09-21,2017-09-24,"Toulouse, Occitanie, France",FRA,,,,https://www.pycon.fr/2017,https://cfp.pycon.fr/cfp,https://www.pycon.fr/2017/pages/nous-soutenir.html
+PyCon France,2018-10-04,2018-10-07,"Lille, Hauts-de-France, France",FRA,,,,https://www.pycon.fr/2018,,https://www.pycon.fr/2018/fr/sponsor-pyconfr
+PyCon France,2019-10-31,2019-11-03,"Bordeaux, Nouvelle-Aquitaine, France",FRA,Université Bordeaux,,,https://www.pycon.fr/2019,,
+PyCon France,2023-02-16,2023-02-19,"Bordeaux, Nouvelle-Aquitaine, France",FRA,Université Bordeaux,,2023-01-07,https://www.pycon.fr/2023,https://cfp-2023.pycon.fr/cfp,https://www.pycon.fr/2023/fr/support.html
+PyCon France,2024-10-31,2024-11-03,"Strasbourg, France",FRA,Université de Mathématique et d’Informatique de Strasbourg,,2024-07-21,https://pycon.fr/2024/,https://cfp.pycon.fr/pyconfr-2024/cfp,https://pycon.fr/2024/fr/sponsors.html
+PyCon GR,,,Greece,,,,,https://pycon.gr,,
+PyCon Germany & PyData Berlin,2019-10-09,2019-10-13,"Berlin, Brandenburg, Germany",DEU,Kosmos,2019-06-09,2019-06-09,https://de.pycon.org,https://de.pycon.org/call-for-proposals,https://de.pycon.org/sponsors
+PyCon Germany & PyData Berlin,2022-04-11,2022-04-13,"Berlin, Brandenburg, Germany",DEU,bcc Berlin Congress Center,2022-01-16,2022-01-16,https://2022.pycon.de,https://2022.pycon.de/call-for-proposals,https://2022.pycon.de/blog/pyconde-pydata-berlin-call-for-sponsors
+PyCon Germany,2017-10-25,2017-10-27,"Karlsruhe, Karlsruhe, Germany",DEU,,,,http://de.pycon.org,,
+PyCon Germany,2018-10-24,2018-10-26,"Karlsruhe, Baden-Württemberg, Germany",DEU,,,2018-05-27,http://pycon.de,,http://pycon.de/sponsoring
+PyCon Ghana 2018,2018-08-10,2018-08-12,"Accra, Ghana",,,,,https://gh.pycon.org,,
+PyCon Ghana 2022,2022-10-13,2022-10-16,"Accra, Ghana",,,,,http://gh.pycon.org,,
 PyCon Ghana 2025,2025-09-25,2025-09-28,"Accra, Ghana",,,,,https://gh.pycon.org/2025/,,
+PyCon Ghana 2025,2025-09-25,2025-09-28,"Accra, Ghana",,,,,https://gh.pycon.org/2025/,,
+PyCon Ghana 2026,2026-08-20,2026-08-23,"Accra, Ghana",,,,,https://gh.pycon.org/2026/,,
 PyCon Ghana,,,Ghana,,,,,https://gh.pycon.org,,
+PyCon Ghana,,,Ghana,,,,,https://gh.pycon.org,,
+PyCon Ghana,2018-08-10,2018-08-11,"Accra, Greater Accra, Ghana",GHA,,,,https://gh.pycon.org,https://gh.pycon.org/talks/submit,https://gh.pycon.org/support_us
+PyCon Ghana,2022-10-13,2022-10-15,"Accra, Greater Accra, Ghana",GHA,,,,https://gh.pycon.org,https://gh.pycon.org/talks/speaking,https://gh.pycon.org/support-us
 PyCon Greece 2025,2025-08-29,2025-08-31,"Athens, Greece",,,,,https://2025.pycon.gr/en/,,
+PyCon Greece 2025,2025-08-29,2025-08-31,"Athens, Greece",,,,,https://2025.pycon.gr/en/,,
+PyCon Greece 2026,2026-10-12,2026-10-14,"Athens , Greece",,,,,https://pycon.gr,,
 PyCon Greece,,,,,,,,,,
 PyCon Greece,2025-08-29,2025-08-30,"Athens, Greece",GRC,Technopolis City of Athens,2025-04-20,2025-04-20,https://2025.pycon.gr,https://2025.pycon.gr/en/program/proposal-guidelines/,
+PyCon Greece,2025-08-29,2025-08-30,"Athens, Greece",GRC,Technopolis City of Athens,2025-04-20,2025-04-20,https://2025.pycon.gr,https://2025.pycon.gr/en/program/proposal-guidelines/,
+PyCon Greece,2026-10-12,2026-10-13,"Athens, Greece",GRC,Technopolis City of Athens,,,https://2026.pycon.gr,,
 PyCon HK,,,Hong Kong,,,,,https://www.pycon.hk,,
+PyCon HK,,,Hong Kong,,,,,https://www.pycon.hk,,
+PyCon Hangzhou,2018-11-04,2018-11-04,"Hangzhou, Zhejiang, China",CHN,,,,http://cn.pycon.org/2018/en/city_hangzhou.html,,
+PyCon Hong Kong 2024,2024-11-16,2024-11-17,"Hong Kong, China",,,,,https://pycon.hk/2024,,
+PyCon Hong Kong 2025,2025-10-11,2025-10-13,"Kowloon, Hong Kong",,,,,https://pycon.hk,,
 PyCon Hong Kong 2025,2025-10-11,2025-10-13,"Kowloon, Hong Kong",,,,,https://pycon.hk/,,
 PyCon Hong Kong,,,,,,,,,,
 PyCon Hong Kong,,,,,,,,,,
+PyCon Hong Kong,2017-11-04,2017-11-05,"Hong Kong, Hong Kong, Hong Kong",HKG,,,2017-08-24,http://pycon.hk/2017,http://pycon.hk/2017/cfp,http://pycon.hk/2017/sponsor
+PyCon Hong Kong,2023-11-11,2023-11-11,Hong Kong,HKG,The HKFYG Building,,2023-06-18,https://pycon.hk/2023,https://pycon.hk/2023/pycon-hk-2023-cfp,
+PyCon Hong Kong,2024-11-16,2024-11-16,"Hong Kong, China",HKG,,,2024-07-01,https://pycon.hk/,https://pretalx.com/pyconhk2024/cfp,
+PyCon ID 2023,2023-11-18,2023-11-20,"Bandung, Indonesia",,,,,https://pycon.id,,
+PyCon IT 8,2017-04-15,2017-04-18,"Hotel Mediterraneo - Lungarno del Tempio, 44, 50121 Firenze FI, Italy",,,,,https://www.pycon.it/en/,,
+PyCon IT 9,2018-04-19,2018-04-23,"Hotel Mediterraneo - Lungarno del Tempio, 44, 50121 Firenze FI, Italy",,,,,https://www.pycon.it/en/,,
+PyCon India 2017,2017-11-02,2017-11-06,"Delhi, India",,,,,https://in.pycon.org/2017/,,
+PyCon India 2018,2018-10-05,2018-10-10,"Hyderabad, India",,,,,https://in.pycon.org/2018/,,
+PyCon India 2019,2019-10-12,2019-10-16,"Chennai, Tamil Nadu, India",,,,,https://in.pycon.org/2019/,,
+PyCon India 2020,2020-10-02,2020-10-06,Online,,,,,https://in.pycon.org/2020/,,
+PyCon India 2021,2021-09-17,2021-09-21,online,,,,,https://in.pycon.org/2021/,,
+PyCon India 2023,2023-09-29,2023-10-03,"Hyderabad, Telangana, India",,,,,https://in.pycon.org/2023/,,
+PyCon India 2024,2024-09-20,2024-09-24,"Bengaluru, Karnataka, India",,,,,https://in.pycon.org/2024/,,
 PyCon India 2025,2025-09-12,2025-09-16,"Bengaluru, India",,,,,https://in.pycon.org/2025/,,
+PyCon India 2025,2025-09-12,2025-09-16,"Bengaluru, India",,,,,https://in.pycon.org/2025/,,
+PyCon India,,,India,,,,,https://in.pycon.org,,
+PyCon India,2018-10-05,2018-10-09,"Hydrabad, Telangana, India",IND,,,,https://in.pycon.org/2018,,
+PyCon India,2020-10-02,2020-10-05,"Bengaluru, Karnataka, India",IND,Online,,2020-08-14,https://in.pycon.org/2020,https://in.pycon.org/cfp/2020/proposals,
+PyCon India,2023-09-29,2023-10-02,"Hyderabad, Telangana, India",IND,,,2023-08-05,https://in.pycon.org/2023,https://in.pycon.org/cfp/pycon-india-2023/proposals/,https://docs.google.com/forms/d/13MVcj2XEF1DfTmV3fPjq9SN5qzY22k3R7cJVKlfbhZ4/
+PyCon India,2024-09-20,2024-09-23,"Bengaluru, India",IND,NIMHANS Convention Centre,2024-05-31,2024-05-31,https://in.pycon.org/2024/,https://in.pycon.org/cfp/2024/proposals/,https://in.pycon.org/2024/prospectus.pdf
 PyCon India,2025-09-12,2025-09-15,"Bengaluru, India",IND,NIMHANS Convention Centre,2025-05-18,2025-05-18,https://in.pycon.org/2025/,https://in.pycon.org/2025/cfp/,
+PyCon India,2025-09-12,2025-09-15,"Bengaluru, India",IND,NIMHANS Convention Centre,2025-05-18,2025-05-18,https://in.pycon.org/2025/,https://in.pycon.org/2025/cfp/,
+PyCon Indonesia 2017,2017-12-09,2017-12-10,"Surabaya, Indonesia",,,,,,,
+PyCon Indonesia 2019,2019-11-23,2019-11-24,"Surabaya, Jawa Timur 60219, Indonesia",,,,,“https://pycon.id/“,,
+PyCon Indonesia 2020,2020-11-14,2020-11-16,Online,,,,,https://pycon.id,,
+PyCon Indonesia 2021,2021-12-04,2021-12-06,online,,,,,https://pycon.id,,
+PyCon Indonesia 2026,2026-08-08,2026-08-10,"Jakarta, Indonesia",,,,,https://pycon.id,,
 PyCon Indonesia,,,Indonesia,,,,,https://pycon.id,,
+PyCon Indonesia,,,Indonesia,,,,,https://pycon.id,,
+PyCon Indonesia,2017-12-09,2017-12-09,"Surabaya, Java, Indonesia",IDN,,2017-11-06,2017-11-06,https://pycon.id,,
+PyCon Indonesia,2020-11-14,2020-11-15,Indonesia,IDN,Online,,2020-10-24,https://pycon.id,https://pycon.id/call-for-proposal,https://pycon.id/sponsor
+PyCon Indonesia,2021-12-04,2021-12-05,Indonesia,IDN,Online,,,https://pycon.id,,https://pycon.id/sponsorship
+PyCon Indonesia,2023-11-18,2023-11-19,"Badung City, Indonesia",IDN,,,2023-07-15,https://pycon.id,https://papercall.io/pyconid2023,https://pycon.id/sponsor
+PyCon Iran 2022,2022-02-16,2022-02-19,,,,,,https://ir.pycon.org/?lang=en,,
 PyCon Iran,,,Iran,,,,,https://ir.pycon.org,,
+PyCon Iran,,,Iran,,,,,https://ir.pycon.org,,
+PyCon Ireland 2017,2017-10-21,2017-10-23,"Dublin, Ireland",,,,,https://pyconie17.python.ie,,
+PyCon Ireland 2022,2022-11-12,2022-11-14,"Dublin, Ireland",,,,,https://python.ie/pycon-2022/,,
+PyCon Ireland 2023,2023-11-11,2023-11-13,"Dublin, Ireland",,,,,https://python.ie/pycon-2023/,,
+PyCon Ireland 2024,2024-11-16,2024-11-18,"Dublin, Ireland",,,,,https://python.ie/pycon-2024/,,
+PyCon Ireland 2025,2025-11-15,2025-11-17,"Dublin, Ireland",,,,,https://pycon.ie,,
 PyCon Ireland 2025,2025-11-15,2025-11-17,"Dublin, Ireland",,,,,https://pycon.ie/,,
+PyCon Ireland 2026,2026-11-21,2026-11-22,"Dublin, Ireland",,,,,https://2026.pycon.ie,,
 PyCon Ireland,,,Ireland,,,,,https://python.ie,,
+PyCon Ireland,,,Ireland,,,,,https://python.ie,,
+PyCon Ireland,2017-10-21,2017-10-22,"Dublin, Leinster, Ireland",IRL,,,,https://pyconie17.python.ie,,
+PyCon Ireland,2022-11-12,2022-11-13,"Dublin, Leinster, Ireland",IRL,Radisson Blu Royal Hotel,,2022-09-12,http://python.ie/previous-pycons/pycon-2022,https://sessionize.com/pycon-ireland-2022720,
+PyCon Ireland,2023-11-11,2023-11-12,"Dublin, Ireland",IRL,,,2023-07-16,https://python.ie/pycon-2023/,,
+PyCon Ireland,2026-10-17,2026-10-17,"Dublin, Ireland",IRL,Trinity College Dublin,,2026-08-30,https://2026.pycon.ie/,https://sessionize.com/pycon-ireland-2026/,
+PyCon Israel 2017,2017-06-12,2017-06-15,"Wahl Center, Max VeAnna Webb st., Ramat Gan, Israel",,,,,http://il.pycon.org,,
+PyCon Israel 2018,2018-06-04,2018-06-06,"Ramat Gan, Israel",,,,,https://il.pycon.org/2018/,,
+PyCon Israel 2019,2019-06-03,2019-06-06,"Ramat Gan, Israel",,,,,https://il.pycon.org/2019/,,
+PyCon Israel 2020 (canceled),2020-05-04,2020-05-07,"Ramat Gan, Israel",,,,,https://il.pycon.org/2020/,,
+PyCon Israel 2022,2022-06-28,2022-06-30,"Ramat-Gan, Israel",,,,,https://pycon.org.il/2022/,,
+PyCon Israel 2023,2023-07-04,2023-07-06,"Ramat Gan, Israel",,,,,https://2023.pycon.org.il,,
 PyCon Israel 2025,2025-09-09,2025-09-10,"Cinema City, Israel",,,,,https://pycon.org.il/2025/,,
+PyCon Israel 2025,2025-09-09,2025-09-10,"Cinema City, Israel",,,,,https://pycon.org.il/2025/,,
+PyCon Israel,2017-06-11,2017-06-14,"Ramat Gan, Tel Aviv, Israel",ISR,,,,http://il.pycon.org/2017,http://il.pycon.org/wwwpyconIL/cfp,
+PyCon Israel,2019-06-02,2019-06-05,"Ramat Gan, Tel Aviv, Israel",ISR,,,,https://il.pycon.org/2019,,
+PyCon Israel,2023-07-04,2023-07-05,"Ramat Gan, Tel Aviv, Israel",ISR,,,2023-04-02,https://2023.pycon.org.il,https://cfp.pycon.org.il/conference2023/cfp,https://2023.pycon.org.il/#sponsorship
+PyCon Italia 2020 (cancelled),2020-11-05,2020-11-09,"Florence, Italy",,,,,http://pycon.it,,
+PyCon Italia 2023,2023-05-25,2023-05-29,"Florence, Italy",,,,,http://pycon.it,,
+PyCon Italia 2024,2024-05-22,2024-05-26,"Metropolitan City of Florence, Italy",,,,,https://pycon.it,,
+PyCon Italia 2025,2025-05-28,2025-06-01,"Bologna, Italy",,,,,https://2025.pycon.it/en,,
 PyCon Italia 2025,2025-05-28,2025-06-01,"Bologna, Italy",,,,,https://2025.pycon.it/en,,
 PyCon Italia 2026,2026-05-27,2026-05-31,"Bologna, Italy",,,,,https://2026.pycon.it/en,,
+PyCon Italia 2026,2026-05-27,2026-05-31,"Bologna, Italy",,,,,https://2026.pycon.it/en,,
+PyCon Italia X,2019-05-02,2019-05-06,"Florence, Italy",,,,,,,
+PyCon Italia,,,Italy,,,,,https://www.pycon.it,,
+PyCon Italia,2017-04-06,2017-04-09,"Florence, Tuscany, Italy",ITA,Grand Hotel Mediterraneo,,,https://www.pycon.it,https://www.pycon.it/en/call-for-proposals,
+PyCon Italia,2018-04-19,2018-04-22,"Florence, Tuscany, Italy",ITA,Grand Hotel Mediterraneo,,,https://www.pycon.it/en,,https://www.pycon.it/en/sponsor
+PyCon Italia,2019-05-02,2019-05-05,"Florence, Tuscany, Italy",ITA,Grand Hotel Mediterraneo,,2019-01-06,https://www.pycon.it/en,https://www.pycon.it/en/call-for-proposals,https://www.pycon.it/en/sponsor
+PyCon Italia,2020-11-05,2020-11-08,"Florence, Tuscany, Italy",ITA,Grand Hotel Mediterraneo,,,https://www.pycon.it/en,,https://www.pycon.it/en/sponsor
+PyCon Italia,2022-06-02,2022-06-05,"Florence, Tuscany, Italy",ITA,FH55 Grand Hotel Mediterraneo,,,https://pycon.it/en,https://pycon.it/en,
+PyCon Italia,2023-05-25,2023-05-28,"Florence, Tuscany, Italy",ITA,Grand Hotel Mediterraneo,2023-01-15,2023-01-15,https://pycon.it/en,https://pycon.it/cfp,https://pycon.it/en/sponsor
+PyCon Italia,2024-05-22,2024-05-25,"Florence, Italy",ITA,,,2024-01-15,https://pycon.it/en,https://2024.pycon.it/cfp,https://2024.pycon.it/en/sponsor
 PyCon Italia,2025-05-28,2025-05-31,"Bologna, Italy",ITA,Savoia Hotel Regency,2025-01-06,2025-01-06,https://2025.pycon.it,https://pycon.it/cfp,https://2025.pycon.it/en/sponsor
+PyCon Italia,2025-05-28,2025-05-31,"Bologna, Italy",ITA,Savoia Hotel Regency,2025-01-06,2025-01-06,https://2025.pycon.it,https://pycon.it/cfp,https://2025.pycon.it/en/sponsor
+PyCon Italia,2026-05-27,2026-05-30,"Bologna, Italy",ITA,Savoia Hotel Regency,,,https://2026.pycon.it,,https://2026.pycon.it/sponsor/
+PyCon Italy 22,2022-06-02,2022-06-06,"Florence, Italy",,,,,https://pycon.it/en,,
+PyCon JP 2017,2017-09-07,2017-09-11,"Waseda University, Nishi-Waseda Campus, Building 63, Tokyo, Japan",,,,,https://pycon.jp/2017/en/,,
+PyCon JP 2020,2020-08-28,2020-08-30,Online,,,,,https://pycon.jp/2020,,
+PyCon JP 2024,2024-09-27,2024-09-30,"Tokyo , Japan",,,,,https://2024.pycon.jp,,
+PyCon JP 2025,2025-09-26,2025-09-28,"Hiroshima, Japan",,,,,https://2025.pycon.jp,,
 PyCon JP 2025,2025-09-26,2025-09-28,"Hiroshima, Japan",,,,,https://2025.pycon.jp/,,
+PyCon JP 2026,2026-08-21,2026-08-24,"Hiroshima, Japan",,,,,https://2026.pycon.jp,,
+PyCon JP,,,Japan,,,,,https://pycon.jp,,
+PyCon JP,2024-09-27,2024-09-29,"Tokyo, Japan",JPN,TOC Ariake Convention Hall,,2024-05-31,https://2024.pycon.jp/,https://pretalx.com/pyconjp2024/cfp,
 PyCon JP,2025-09-26,2025-09-27,"Hiroshima, Japan",JPN,International Conference Center Hiroshima,,,https://2025.pycon.jp/,,
+PyCon JP,2025-09-26,2025-09-27,"Hiroshima, Japan",JPN,International Conference Center Hiroshima,,,https://2025.pycon.jp/,,
+PyCon JP,2026-08-21,2026-08-23,"Hiroshima, Japan",JPN,International Conference Center Hiroshima,,2026-05-31,https://2026.pycon.jp/,https://pretalx.com/pyconjp2026/cfp,https://2026.pycon.jp/en/sponsors
+PyCon Jamaica 2017,2017-11-16,2017-11-19,"Kingston, Jamaica",,,,,https://www.pycon.org.jm,,
+PyCon Japan 2021,2021-11-15,2021-11-16,Online,,,,,https://2021.pycon.jp,,
+PyCon Japan,2017-09-07,2017-09-09,"Tokyo, Kantō, Japan",JPN,,,2017-07-19,https://pycon.jp/2017,https://pycon.jp/2017/en/talks/cfp,https://pycon.jp/2017/en/sponsors/prospectus
+PyCon Japan,2018-09-15,2018-09-18,"Tokyo, Kantō, Japan",JPN,,,,https://www.pycon.jp,,
+PyCon Japan,2019-09-16,2019-09-17,"Tokyo, Kantō, Japan",JPN,Ota City Industrial Plaza PiO,,2019-06-02,https://pycon.jp/2019,https://www.papercall.io/pyconjp2019,https://docs.google.com/forms/d/e/1FAIpQLScTCSXE3VsdjHZbxt3QOJbRLNEFjXBDKZxjX6Z2uwWqoT3rYg/viewform
+PyCon Japan,2020-08-22,2020-08-30,"Tokyo, Kantō, Japan",JPN,Online,,,https://pycon.jp/2020,,
+PyCon Japan,2021-10-15,2021-10-16,"Tokyo, Kantō, Japan",JPN,Online,,,https://2021.pycon.jp,,
+PyCon Japan,2022-10-14,2022-10-16,"Tokyo, Kantō, Japan",JPN,TOC Ariake Convention Hall,,,https://2022.pycon.jp,,
+PyCon KR 2017,2017-08-12,2017-08-16,"COEX 513, Yeongdong-daero, Gangnam-gu Seoul 06164, Republic of Korea",,,,,,,
+PyCon KR,2023-08-11,2023-08-14,"Seoul, South Korea",,,,,https://2023.pycon.kr,,
+PyCon Kenya 2025,2025-08-28,2025-08-31,"Nairobi, Kenya",,,,,https://www.pycon.ke,,
 PyCon Kenya 2025,2025-08-28,2025-08-31,"Nairobi, Kenya",,,,,https://www.pycon.ke/,,
+PyCon Kenya 2026,2026-08-28,2026-08-30,"Nairobi, Kenya",,,,,https://www.pycon.ke,,
+PyCon Kenya Conference 2022,2022-05-06,2022-05-08,"Nairobi, Kenia",,,,,https://www.pyconke.org,,
+PyCon Kenya,,,Kenya,,,,,https://www.pycon.ke,,
 PyCon Kenya,2025-08-28,2025-08-30,"Nairobi, Kenya",KEN,SARIT CENTER,2025-06-22,2025-06-22,https://www.pycon.ke/,https://sessionize.com/pycon-kenya-2025/,https://www.pycon.ke/sponsors
+PyCon Kenya,2025-08-28,2025-08-30,"Nairobi, Kenya",KEN,SARIT CENTER,2025-06-22,2025-06-22,https://www.pycon.ke/,https://sessionize.com/pycon-kenya-2025/,https://www.pycon.ke/sponsors
+PyCon Korea 2018,2018-08-15,2018-08-20,"Seoul, South Korea",,,,,https://www.pycon.kr/2018/en/,,
+PyCon Korea 2019,2019-08-15,2019-08-19,Seoul,,,,,http://pycon.kr,,
+PyCon Korea 2024,2024-10-25,2024-10-28,"140 Gwanggyojungang-ro, Yeongtong-gu, Suwon, Gyeonggi-do, South Korea",,,,,https://2024.pycon.kr,,
+PyCon Korea 2024,2024-10-26,2024-10-28,"Suwon, Gyeonggi, Republic of Korea",,,,,https://2024.pycon.kr,,
+PyCon Korea 2025,2025-08-15,2025-08-18,"Seoul, South Korea",,,,,https://2025.pycon.kr,,
 PyCon Korea 2025,2025-08-15,2025-08-18,"Seoul, South Korea",,,,,https://2025.pycon.kr/,,
+PyCon Korea 2026,2026-08-15,2026-08-17,"Seoul, South Korea",KOR,Dongguk University,,2026-06-14,https://2026.pycon.kr/,,
+PyCon Korea 2026,2026-08-15,2026-08-18,"Seoul, Republic of Korea",,,,,https://2026.pycon.kr,,
+PyCon Korea,,,South Korea,,,,,https://www.pycon.kr,,
+PyCon Korea,2017-08-12,2017-08-15,"Seoul, Seoul Capital Area, South Korea",KOR,,2017-05-27,2017-05-27,https://www.pycon.kr/2017,https://www.pycon.kr/2017/en/cfp/cfp,https://www.pycon.kr/2017/en/about/sponsorship
+PyCon Korea,2018-08-15,2018-08-19,"Seoul, Seoul Capital Area, South Korea",KOR,,,2018-05-20,https://pycon.kr,,
+PyCon Korea,2019-08-15,2019-08-18,"Seoul, Seoul Capital Area, South Korea",KOR,COEX,,,https://pycon.kr,,
+PyCon Korea,2020-09-26,2020-09-27,"Seoul, Seoul Capital Area, South Korea",KOR,Online,,2020-07-14,https://pycon.kr/2020,https://www.pycon.kr/2020/contribution/cfp,
+PyCon Korea,2023-08-11,2023-08-13,"Seoul, Seoul Capital Area, South Korea",KOR,COEX Grand Ballroom & ASEM Ballroom,,2023-05-14,https://2023.pycon.kr,https://2023.pycon.kr/cfp/apply,https://2023.pycon.kr/sponsor/join
+PyCon Korea,2024-10-25,2024-10-27,"Suwon, South Korea",KOR,Suwon Convention Center,,,https://pycon.kr/,https://bit.ly/PYKR,
 PyCon Korea,2025-08-15,2025-08-17,"Seoul, South Korea",KOR,Dongguk University,,2025-05-11,https://2025.pycon.kr,,https://2025.pycon.kr/sponsor/prospectus
+PyCon Korea,2025-08-15,2025-08-17,"Seoul, South Korea",KOR,Dongguk University,,2025-05-11,https://2025.pycon.kr,,https://2025.pycon.kr/sponsor/prospectus
+PyCon Kyrgyzstan 2018,2018-09-09,2018-09-10,"Bishkek, Kyrgyzstan",,,,,https://pyconkg.com,,
+PyCon KyuShu 2018 Fukuoka,2018-06-30,2018-07-01,"Fukuoka, Fukuoka Prefecture, Japan",,,,,http://kyushu.pycon.jp,,
+PyCon Kyushu Kumamoto,2022-01-22,2022-01-22,"Kumamoto, Central Kyushu, Japan",JPN,KUMAMOTO-JO Hall,,,https://kyushu.pycon.jp/2022,,
+PyCon Kyushu in Okinawa,2019-05-18,2019-05-18,"Okinawa, Okinawa Prefecture, Japan",JPN,University of the Ryukyus,,,https://kyushu.pycon.jp/2019,,
+PyCon LT 2022,2022-05-26,2022-05-28,"Vilnius, Lithuania",,,,,http://pycon.lt,,
+PyCon LT 2023,2023-05-17,2023-05-21,"Vilnius, Lithuania",,,,,https://pycon.lt/2023,,
 PyCon LT,,,Lithuania,,,,,https://pycon.lt,,
+PyCon LT,,,Lithuania,,,,,https://pycon.lt,,
+PyCon Latam 2023,2023-08-24,2023-08-27,"Monterrey, Mexico",,,,,https://www.pylatam.org/en/,,
+PyCon Latam 2026,2026-08-20,2026-08-24,"Turrialba, Costa Rica",,,,,https://www.pylatam.org,,
 PyCon Latam,,,"Puerto Vallarta, México",,,,,https://www.pylatam.org/en/,,
+PyCon Latam,,,"Puerto Vallarta, México",,,,,https://www.pylatam.org/en/,,
+PyCon Latam,2024-09-19,2024-09-21,"Mazatlan, Mexico",MEX,El Cid All Inclusive Resorts,2024-06-10,2024-06-10,https://www.pylatam.org/,https://www.papercall.io/pyconlatam24,https://docs.google.com/presentation/d/12_iPvHdtR5islMlL-76Xja2GK0IMccL8/edit#slide=id.p1
 PyCon Latam,2025-08-21,2025-08-25,"Puntarenas, Costa Rica",CRI,"Pacific Campus, University of Costa Rica",,,https://pylatam.org,https://pylatam.org/cfp,
+PyCon Latam,2025-08-21,2025-08-25,"Puntarenas, Costa Rica",CRI,"Pacific Campus, University of Costa Rica",,,https://pylatam.org,https://pylatam.org/cfp,
+PyCon Latin America,2019-08-29,2019-08-31,"Puerto Vallarta, Jalisco, Mexico",MEX,Hotel Friendly Vallarta,,2019-05-31,https://www.pylatam.org,https://www.papercall.io/pyconlatam,
+PyCon Latin America,2023-08-24,2023-08-26,"Monterrey, Nuevo León, Mexico",MEX,,,2023-05-07,https://www.pylatam.org,https://www.papercall.io/pyconlatam23,https://www.pylatam.org/patrocinios/informacion
+PyCon Lithuania 2024,2024-04-02,2024-04-07,"Vilnius, Lithuania",,,,,https://pycon.lt/2024,,
+PyCon Lithuania 2025,2025-04-23,2025-04-26,"Vilnius, Lithuania",,,,,https://pycon.lt,,
 PyCon Lithuania 2025,2025-04-23,2025-04-26,"Vilnius, Lithuania",,,,,https://pycon.lt/,,
+PyCon Lithuania 2026,2026-04-08,2026-04-11,"Vilnius, Lithuania",,,,,https://pycon.lt/2026,,
+PyCon Lithuania,2017-05-13,2017-05-13,"Kaunas, Kaunas, Lithuania",LTU,,,,http://pycon.lt,,
+PyCon Lithuania,2023-05-17,2023-05-20,"Vilnius, Vilnius, Lithuania",LTU,Vilnius University of Social sciences,,2023-03-18,https://pycon.lt/2023,,https://drive.google.com/file/d/1wznoPlxfrdHd_jI7ZqP3vRKMHSaRJatm/view?usp=sharing
+PyCon Lithuania,2024-04-02,2024-04-06,"Vilnius, Lithuania",LTU,,,2024-01-10,https://pycon.lt/2024,https://pycon.lt/2024/call-for-proposals,https://pycon.lt/2024/partnership
 PyCon Lithuania,2025-04-23,2025-04-25,"Vilnius, Lithuania",LTU,,,2025-02-28,https://pycon.lt,https://pycon.lt/call-for-proposals,
+PyCon Lithuania,2025-04-23,2025-04-25,"Vilnius, Lithuania",LTU,,,2025-02-28,https://pycon.lt,https://pycon.lt/call-for-proposals,
+PyCon Lithuania,2026-04-08,2026-04-10,"Vilnius, Lithuania",LTU,TASKIUS Art & Science School,,2026-01-15,https://pycon.lt/2026,https://pycon.lt/2026/call-for-proposals,https://pycon.lt/2026/partnership
+PyCon Lithuania,2027-04-28,2027-04-30,"Vilnius, Lithuania",LTU,Hotel Panorama Vilnius,,2027-01-13,https://pycon.lt/2027/,https://pycon.lt/2027/cfp,
+PyCon MEA & Data Science 2023,2023-10-16,2023-10-20,"Dubai, UAE",,,,,https://globaldevslam.com,,
+PyCon MEA & Data Science 2024,2024-10-14,2024-10-16,"Dubai, UAE",,,,,https://globaldevslam.com,,
+PyCon MEA @ Global DevSlam 2022,2022-10-10,2022-10-14,"Dubai, UAE",,,,,https://globaldevslam.com,,
 PyCon MEA @ GlobalDevSlam,,,,,,,,,,
 PyCon MEA @ GlobalDevSlam,,,,,,,,,,
+PyCon MEA @ GlobalDevSlam,2023-10-16,2023-10-20,"Dubai, United Arab Emirates",ARE,,,2023-05-31,https://globaldevslam.com/,,
+PyCon MEA @ GlobalDevSlam,2024-10-14,2024-10-18,"Dubai, United Arab Emirates",ARE,,,2023-05-31,https://globaldevslam.com,,
 PyCon MY,,,Malaysia,,,,,https://www.pycon.my,,
+PyCon MY,,,Malaysia,,,,,https://www.pycon.my,,
+PyCon Malaysia,2018-08-25,2018-08-26,"Kuala Lumpur, Selangor, Malaysia",MYS,,,2018-08-04,https://pycon.my,https://www.papercall.io/pycon-my2018,
+PyCon Malaysia,2023-08-26,2023-08-26,"Kuala Lumpur, Malaysia",MYS,,,2023-05-30,https://pycon.my,https://www.papercall.io/pycon-my-2023,
+PyCon NL 2024,2024-10-10,2024-10-11,"Utrecht, The Netherlands",,,,,https://nl.pycon.org,,
+PyCon NL 2025,2025-10-16,2025-10-17,"Utrecht, The Netherlands",,,,,https://pycon-nl.org,,
 PyCon NL 2025,2025-10-16,2025-10-17,"Utrecht, The Netherlands",,,,,https://pycon-nl.org/,,
+PyCon NL 2026,2026-10-15,2026-10-16,"Utrecht, The Netherlands",,,,,https://www.pycon-nl.org,,
 PyCon NL,,,The Netherlands,,,,,https://pycon-nl.org,,
+PyCon NL,,,The Netherlands,,,,,https://pycon-nl.org,,
+PyCon NL,2026-10-15,2026-10-15,"Utrecht, Netherlands",NLD,Jaarbeurs,2026-08-23,2026-08-23,https://www.pycon-nl.org,https://forms.gle/iiFnW8oZ8p9do4TR7,https://www.pycon-nl.org/call-for-sponsors
+PyCon Namibia 2019,2019-02-19,2019-02-22,"Windhoek, Namibia",,,,,https://na.pycon.org,,
+PyCon Namibia 2020,2020-02-18,2020-02-21,"Windhoek, Namibia",,,,, https://na.pycon.org,,
+PyCon Namibia 2021,2021-06-18,2021-06-20,"Windhoek, Namibia",,,,,https://na.pycon.org,,
+PyCon Namibia 2023,2023-02-21,2023-02-24,"Windhoek, Namibia",,,,,https://na.pycon.org,,
+PyCon Namibia 2024 ,2024-03-04,2024-03-08,"Windhoek, Namibia",,,,,https://na.pycon.org,,
+PyCon Namibia 2026,2026-02-20,2026-02-27,"Windhoek, Namibia",,,,,https://na.pycon.org,,
+PyCon Namibia 2027,2027-02-19,2027-02-26,"Windhoek, Namibia",,,,,https://na.pycon.org,,
+PyCon Namibia,,,Namibia,,,,,https://na.pycon.org,,
+PyCon Namibia,2020-02-18,2020-02-20,"Windhoek, Khomas Highland, Namibia",NAM,,,2019-12-27,https://na.pycon.org,https://na.pycon.org/call-proposals,
+PyCon Namibia,2023-02-21,2023-02-23,"Windhoek, Khomas Highland, Namibia",NAM,,2023-01-22,2023-01-22,https://na.pycon.org,https://pretalx.com/pycon-namibia-2022/cfp,https://na.pycon.org/sponsorship
+PyCon Namibia,2024-03-04,2024-03-08,"Windhoek, Namibia",NAM,,,2024-01-21,https://na.pycon.org,https://na.pycon.org/call-proposals/,https://na.pycon.org/sponsorship/
 PyCon Namibia,2025-02-24,2025-02-27,"Windhoek, Namibia",NAM,,,2024-11-17,https://na.pycon.org,https://na.pycon.org/call-proposals/,
+PyCon Namibia,2025-02-24,2025-02-27,"Windhoek, Namibia",NAM,,,2024-11-17,https://na.pycon.org,https://na.pycon.org/call-proposals/,
+PyCon Namibia,2025-02-24,2025-02-28,"Windhoek, Namibia ",,,,,https://na.pycon.org,,
 PyCon Namibia,2025-02-24,2025-02-28,"Windhoek, Namibia ",,,,,https://na.pycon.org/,,
+PyCon Niger 2024,2024-09-28,2024-09-30,"Niamey, Niger",,,,,https://ne.pycon.org,,
+PyCon Niger 2025,2025-09-13,2025-09-16,"Dosso, Niger",,,,,https://ne.pycon.org,,
 PyCon Niger 2025,2025-09-13,2025-09-16,"Dosso, Niger",,,,,https://ne.pycon.org/,,
 PyCon Niger,,,Niger,,,,,https://ne.pycon.org,,
+PyCon Niger,,,Niger,,,,,https://ne.pycon.org,,
+PyCon Nigeria 2017,2017-09-15,2017-09-17,"Lagos, Nigeria",,,,,http://pycon.ng,,
+PyCon Nigeria 2024,2024-07-10,2024-07-14,"Lagos, Nigeria",,,,,https://ng.pycon.org,,
+PyCon Nigeria 2025,2025-10-02,2025-10-05,"Lagos, Nigeria",,,,,https://ng.pycon.org,,
 PyCon Nigeria 2025,2025-10-02,2025-10-05,"Lagos, Nigeria",,,,,https://ng.pycon.org/,,
+PyCon Nigeria,,,Nigeria,,,,,https://web.archive.org/web/20210124204511/https://pythonnigeria.org/pycon/,,
+PyCon Nigeria,2017-09-15,2017-09-16,"Lagos, Lagos, Nigeria",NGA,,,,https://pycon.ng,,https://pycon.ng/sponsors/information
+PyCon Nigeria,2018-09-13,2018-09-15,"Lagos, Lagos, Nigeria",NGA,,2018-07-15,2018-07-15,https://www.pycon.ng,https://www.pycon.ng/speaking/overview/#proposing-a-talk,https://www.pycon.ng/sponsors/information
+PyCon Nigeria,2018-09-13,2018-09-16,"Lagos, Nigeria",,,,,http://pycon.ng,,
+PyCon Nigeria,2024-07-10,2024-07-13,"Lagos, Nigeria",NGA,,,2024-03-10,https://ng.pycon.org/,,
+PyCon Odessa 2020,2020-06-13,2020-06-15,"Odessa, Ukraine",,,,,https://pyconodessa.com/en/,,
+PyCon Odessa 2021,2021-09-11,2021-09-13,"Damani-Hotel, Dachniy kooperatyv, plot 4, Karolino-Buhaz, Odesa region, Ukraine",,,,,https://pyconodessa.com/en/,,
+PyCon Odessa,2019-03-16,2019-03-16,"Odessa, Odesa Oblast, Ukraine",UKR,Shantambala Retreat & Resort,,,https://pyconodessa.com/en/2019,,
+PyCon Odessa,2019-03-16,2019-03-17,"BC «Solnechnyiy», 5, Sonyachna St., Odessa, Ukraine",,,,,https://pyconodessa.com/en/,,
+PyCon Odessa,2021-09-11,2021-09-12,"Odessa, Odesa Oblast, Ukraine",UKR,Shantambala Retreat & Resort,,,https://pyconodessa.com,,
+PyCon PH 2018,2018-02-24,2018-02-26,"Makati City, Metro Manila, Philippines",,,,,https://pycon.python.ph,,
+PyCon PH 2023,2023-02-25,2023-02-27,"Manila, Philippines",,,,,https://pycon.python.ph,,
+PyCon PH 2024,2024-02-25,2024-02-27,"Makati City, Philippines",,,,,https://pycon-2024.python.ph,,
+PyCon PL 2017,2017-08-17,2017-08-21,"Hotel Ossa Congress & SPA, Ossa, Poland",,,,,https://pl.pycon.org/2017/index_en,,
+PyCon PL 2018,2018-08-23,2018-08-27,"Ossa, Poland",,,,,https://pl.pycon.org/2018/,,
+PyCon PL 2022,2022-11-03,2022-11-07,"Gliwice, Poland",,,,,https://pl.pycon.org/2022/en/,,
+PyCon PL 2023,2023-07-29,2023-08-03,"Gliwice, Poland",,,,,https://pl.pycon.org/2023/en/,,
+PyCon PL 2024,2024-08-29,2024-09-01,"Gliwice, Poland",,,,,https://pl.pycon.org/2024/,,
+PyCon PL 2026,2026-08-27,2026-08-31,"Gliwice, Poland",,,,,https://pl.pycon.org/2026/,,
 PyCon PL,,,Poland,,,,,https://pl.pycon.org,,
+PyCon PL,,,Poland,,,,,https://pl.pycon.org,,
+PyCon PL,2026-08-27,2026-08-30,"Gliwice, Poland",POL,"Education and Congress Centre, Silesian University of Technology",2026-02-15,2026-02-15,https://pl.pycon.org/2026,https://pyconpl.confreg.pl/events/67-pycon-pl-2026,
+PyCon PL,2027-08-26,2027-08-29,"Gliwice, Poland",POL,"Education and Congress Centre, Silesian University of Technology",,,https://pl.pycon.org/2027,https://pyconpl.confreg.pl/,
+PyCon Pakistan 2018,2018-11-17,2018-11-19,"Lahore, Punjab, Pakistan",,,,,http://pycon.pk,,
+PyCon Pakistan 2019,2019-10-12,2019-10-13,"Habib University, Karachi, Pakistan",,,,,http://pycon.pk,,
+PyCon Pakistan 2024,2024-03-09,2024-03-11,"Lahore, Pakistan",,,,,https://pycon.pk,,
 PyCon Pakistan,,,,,,,,,,
 PyCon Pakistan,,,,,,,,,,
 PyCon Pakistan,,,Pakistan,,,,,https://pycon.pk,,
+PyCon Pakistan,,,Pakistan,,,,,https://pycon.pk,,
+PyCon Pakistan,2017-12-16,2017-12-17,"Lahore, Pakistan",,,,,http://pycon.pk,,
+PyCon Pakistan,2024-03-09,2024-03-10,"Lahore, Pakistan",PAK,,,2024-01-15,https://pycon.pk/,,
+PyCon Panamá 2024,2024-10-16,2024-10-19,"Panama City, Panamá",,,,,https://pycon.pa,,
+PyCon Panamá,2026-10-22,2026-10-23,"Panama City, Panama",PAN,Universidad del Istmo,2026-09-18,2026-09-18,https://pycon.pa/2026/,https://pycon.pa/2026/ponentes,https://pycon.pa/2026/patrocinadores
+PyCon Philippines 2017,2017-02-25,2017-02-27,"Cagayan de Oro City, Philippines",,,,,https://pycon.python.ph,,
 PyCon Philippines,,,Philippines,,,,,https://ph.pycon.org,,
+PyCon Philippines,,,Philippines,,,,,https://ph.pycon.org,,
+PyCon Philippines,2017-02-25,2017-02-26,"Cagayan de Oro, Misamis Oriental, Philippines",PHL,,,,https://pycon.python.ph,,
+PyCon Philippines,2018-02-24,2018-02-25,"Manila, National Capital Region, Philippines",PHL,,,2017-12-26,https://pycon.python.ph,https://pycon.python.ph/cfp,
+PyCon Philippines,2023-02-25,2023-02-26,"Manila, National Capital Region, Philippines",PHL,Intramuros,,2022-12-23,https://pycon-2023.python.ph,,
+PyCon Philippines,2024-02-25,2024-02-26,"Makati City, Philippines",PHL,Makati Sports Club,,2023-12-31,https://pycon-2024.python.ph/,,https://docs.google.com/forms/d/e/1FAIpQLSfFUgrENuMWS-Ef4DQdDucTYAwVcV-_kPjnTxpiIXVl7fx-_g/closedform
 PyCon Poland 2025,2025-08-28,2025-09-01,"Gliwice, Poland",,,,,https://pl.pycon.org/2025/,,
+PyCon Poland 2025,2025-08-28,2025-09-01,"Gliwice, Poland",,,,,https://pl.pycon.org/2025/,,
+PyCon Poland,2017-08-17,2017-08-20,"Ossa, Rawa County, Poland",POL,,,,https://pl.pycon.org/2017,https://pl.pycon.org/2017/post-cfp_en.html,https://pl.pycon.org/2017/sponsors.pdf
+PyCon Poland,2018-08-23,2018-08-26,"Rawa Mazowiecka, Rawa, Poland",POL,Hotel Ossa Congress & SPA,,,https://pl.pycon.org/2018/en,,https://pl.pycon.org/2018/sponsorzy
+PyCon Poland,2023-06-29,2023-07-02,"Gliwice, Poland",POL,,,2023-03-27,https://pl.pycon.org/2023,,https://pl.pycon.org/2023/sponsorship.pdf
+PyCon Poland,2024-08-29,2024-09-01,"Gliwice, Poland",POL,Centrum Edukacyjno-Kongresowe Politechniki Śląskiej,,2024-08-20,https://pl.pycon.org/2024/,https://pl.pycon.org/2024/call-for-proposals/,https://pl.pycon.org/2024/en/sponsorzy/
+PyCon Portugal 2022,2022-09-24,2022-09-25,"Porto, Portugal",,,,,https://2022.pycon.pt,,
+PyCon Portugal 2023,2023-09-07,2023-09-10,"Coimbra, Portugal",,,,,https://2023.pycon.pt/home/,,
+PyCon Portugal,,,Portugal,,,,,https://pycon.pt,,
+PyCon Portugal,2022-09-24,2022-09-24,"Porto, Oporto, Portugal",PRT,University of Porto,2022-06-30,2022-06-03,https://2022.pycon.pt,https://2022.pycon.pt/talks/cfp,https://2022.pycon.pt/sponsors/sponsorship
+PyCon Portugal,2023-09-07,2023-09-09,"Coimbra, Coimbra, Portugal",PRT,Coimbra Business School,2023-06-30,2023-06-30,https://2023.pycon.pt,https://2023.pycon.pt/talks/cfp,https://2023.pycon.pt/sponsors/sponsorship
 PyCon Portugal,2025-07-24,2025-07-26,"Cascais, Portugal",PRT,Nova SBE Cascais,2025-03-31,2025-03-31,https://2025.pycon.pt/,https://2025.pycon.pt/talks/cfp/,https://2025.pycon.pt/sponsors/sponsorship/
+PyCon Portugal,2025-07-24,2025-07-26,"Cascais, Portugal",PRT,Nova SBE Cascais,2025-03-31,2025-03-31,https://2025.pycon.pt/,https://2025.pycon.pt/talks/cfp/,https://2025.pycon.pt/sponsors/sponsorship/
+PyCon Portugal,2026-09-03,2026-09-05,"Aveiro, Portugal",PRT,,,,https://2026.pycon.pt/,,https://pycon.pt/sponsors/sponsorship/
+PyCon Pune 2017,2017-02-16,2017-02-20,"COEP, Pune, India",,,,,https://pune.pycon.org,,
+PyCon Pune 2018,2018-02-08,2018-02-12,"Pune, India",,,,,https://pune.pycon.org/2018/,,
+PyCon Pune,2017-02-16,2017-02-19,"Pune, Maharashtra, India",IND,,,,https://pune.pycon.org,,
+PyCon Pune,2018-02-08,2018-02-11,"Pune, Maharashtra, India",IND,,,,https://pune.pycon.org/2018,,https://pune.pycon.org/2018/sponsors
+PyCon Russia ,2017-07-16,2017-07-18,"Hotel Cronwell Yahonty Tarusa, Gribovka, Kaluga Oblast, Russia, 249174",,,,,http://pycon.ru/2017/en/,,
+PyCon Russia 2024,2024-07-26,2024-07-28,"Moscow, Russia",,,,,https://www.pycon.ru,,
 PyCon Russia 2025,2025-07-25,2025-07-27,"Moscow, Russia",,,,,https://www.pycon.ru,,
+PyCon Russia 2025,2025-07-25,2025-07-27,"Moscow, Russia",,,,,https://www.pycon.ru,,
+PyCon Russia,,,Russia,,,,,https://pycon.ru,,
+PyCon Russia,2017-07-16,2017-07-17,"Moscow, Central Federal District, Russia",RUS,,2017-06-12,2017-06-12,http://pycon.ru/2017,,http://pycon.ru/2017/en/partners/join
+PyCon Russia,2018-07-22,2018-07-23,"Gribovka, Kaluga Oblast, Russia",RUS,,,,http://pycon.ru/2018,,http://pycon.ru/2018/partners/join
+PyCon Russia,2018-07-22,2018-07-24,"Gribovka, Kaluga Oblast, Russia",,,,,http://pycon.ru/2018/en/,,
+PyCon Russia,2019-06-24,2019-06-25,"Tarusa, Tarussky, Russia",RUS,Hotel Cronwell Yahonty Tarusa,,,https://pycon.ru,,
+PyCon Russia,2022-07-30,2022-07-31,"Moscow, Central Federal District, Russia",RUS,Digital Business Space,,,https://pycon.ru,https://pycon.ru/cfp,https://pycon.ru/partneram
+PyCon Russia,2023-07-28,2023-07-29,"Moscow, Central Federal District, Russia",RUS,Digital Business Space,,2023-03-15,https://pycon.ru,https://pycon.ru/cfp,https://pycon.ru/partneram
+PyCon Russia,2024-07-26,2024-07-27,"Moscow, Russia",RUS,,,2024-05-15,https://www.pycon.ru/,,
 PyCon Russia,2025-07-25,2025-07-26,"Moscow, Russia",RUS,,,,https://www.pycon.ru,,https://pycon.ru/partneram
+PyCon Russia,2025-07-25,2025-07-26,"Moscow, Russia",RUS,,,,https://www.pycon.ru,,https://pycon.ru/partneram
+PyCon SK 2017,2017-03-10,2017-03-13,"Bratislava, Slovakia",,,,,https://www.pycon.sk/2017/,,
+PyCon SK 2018,2018-03-09,2018-03-12,"Bratislava, Slovakia",,,,,https://2018.pycon.sk/en/,,
+PyCon SK 2019,2019-03-22,2019-03-25,"Bratislava, Slovakia",,,,,https://2019.pycon.sk/en/,,
+PyCon SK 2020 (cancelled),2020-09-11,2020-09-14,"Bratislava, Slovakia",,,,,https://2020.pycon.sk/en/,,
+PyCon SK 2022,2022-09-09,2022-09-12,"Bratislava, Slovakia",,,,,https://2022.pycon.sk/en/,,
+PyCon SK 2024,2024-03-15,2024-03-18,"Bratislava, Slovakia",,,,,https://2024.pycon.sk,,
 PyCon SK,,,Slovakia,,,,,https://pycon.sk,,
+PyCon SK,,,Slovakia,,,,,https://pycon.sk,,
+PyCon Shanghai,2018-10-21,2018-10-21,"Shanghai, Shanghai, China",CHN,,,,http://cn.pycon.org/2018/en/city_shanghai.html,,
+PyCon Shenzhen,2018-10-27,2018-10-27,"Shenzhen, Guangdong, China",CHN,,,,http://cn.pycon.org/2018/en/city_shenzhen.html,,
+PyCon Singapore 2026,2026-06-19,2026-06-22,"Singapore, Singapore",,,,,http://pycon.sg,,
 PyCon Singapore,,,Singapore,,,,,https://pycon.sg,,
+PyCon Singapore,,,Singapore,,,,,https://pycon.sg,,
+PyCon Singapore,2026-06-19,2026-06-21,"Singapore, Singapore",SGP,Lifelong Learning Institute,,,https://pycon.sg/,,https://pycon.sg/#sponsors
 PyCon Slovakia,,,,,,,,,,
+PyCon Slovakia,2017-03-10,2017-03-10,"Bratislava, Bratislava, Slovakia",SVK,,2017-02-14,2017-02-14,https://2017.pycon.sk,https://2017.pycon.sk/cfp,
+PyCon Slovakia,2018-03-09,2018-03-11,"Bratislava, Bratislava, Slovakia",SVK,,2018-01-21,2018-01-21,https://2018.pycon.sk,https://2018.pycon.sk/en/cfp.html,https://2018.pycon.sk/en/sponsoring.html
+PyCon Slovakia,2019-03-22,2019-03-24,"Bratislava, Bratislava, Slovakia",SVK,,,,https://2019.pycon.sk,,
+PyCon Slovakia,2020-09-11,2020-09-13,"Bratislava, Bratislava, Slovakia",SVK,Faculty of Informatics and Information Technologies STU,,2020-01-31,https://2020.pycon.sk,https://2020.pycon.sk/en/cfp.html,
+PyCon Slovakia,2022-09-09,2022-09-11,"Bratislava, Bratislava, Slovakia",SVK,Faculty of Informatics and Information Technologies STU,,,https://2022.pycon.sk,,
+PyCon Slovakia,2024-03-15,2024-03-17,"Bratislava, Slovakia",SVK,,,2023-12-31,https://2024.pycon.sk/,https://2024.pycon.sk/en/cfp,
+PyCon Somalia 2023,2023-12-27,2023-12-29,"Mogadishu, Somalia",,,,,https://pycon.org.so,,
+PyCon Somalia 2024,2024-08-21,2024-08-23,"Mogadishu, Somalia",,,,,http://pycon.org.so,,
+PyCon Somalia 2025,2025-08-13,2025-08-15,"Mogadishu, Somalia",,,,,https://pycon.org.so,,
 PyCon Somalia 2025,2025-08-13,2025-08-15,"Mogadishu, Somalia",,,,,https://pycon.org.so/,,
 PyCon Somalia,,,Somalia,,,,,https://pycon.org.so,,
+PyCon Somalia,,,Somalia,,,,,https://pycon.org.so,,
+PyCon Somalia,2023-12-26,2023-12-27,"Mogadishu, Somalia",SOM,,,,https://pycon.org.so/,,
+PyCon South Africa,2017-10-05,2017-10-06,"Cape Town, Western Cape, South Africa",ZAF,,,,https://za.pycon.org,https://za.pycon.org/talks/submit-talk,https://za.pycon.org/sponsors/packages
+PyCon South Africa,2023-10-05,2023-10-06,"Umhlanga, Durban, South Africa",ZAF,Premier Splendid Inn,2023-08-18,2023-08-18,https://za.pycon.org,https://za.pycon.org/talks/how-to-submit-a-talk,
 PyCon Spain,,,,,,,,,,
+PyCon Spain,2024-10-04,2024-10-06,"Vigo, Spain",ESP,,2024-05-31,2024-05-31,https://2024.es.pycon.org/,https://2024.es.pycon.org/c4p/,https://2024.es.pycon.org/patrocinios/
+PyCon Sri Lanka 2022,2022-02-22,2022-02-23,Online from Sri Lanka,,,,,https://pycon.lk,,
+PyCon Sweden 2019,2019-10-31,2019-11-02,"Stockholm, Sweden",,,,,http://www.pycon.se,,
+PyCon Sweden 2020,2020-11-12,2020-11-14,Online,,,,,http://www.pycon.se,,
+PyCon Sweden 2021,2021-10-21,2021-10-23,online,,,,,,,
+PyCon Sweden 2024,2024-11-14,2024-11-16,"Stockholm, Sweden",,,,,https://www.pycon.se,,
+PyCon Sweden 2026,2026-11-19,2026-11-20,"Stockholm, Sweden",SWE,Clarion Skanstull Hotel,,,https://pycon.se/,,
+PyCon Sweden,,,Sweden,,,,,https://www.pycon.se,,
+PyCon Sweden,2017-09-06,2017-09-06,"Stockholm, Stockholm County, Sweden",SWE,,,,http://www.pycon.se,http://www.pycon.se,http://www.pycon.se/sponsorship.html
+PyCon Sweden,2018-12-12,2018-12-13,"Stockholm, Sweden",,,,,http://www.pycon.se,,
+PyCon Sweden,2019-10-31,2019-11-01,"Stockholm, Stockholm County, Sweden",SWE,Münchenbryggeriet,2019-09-13,2019-09-13,http://www.pycon.se,https://forms.gle/hZWhUePsHB34xtUM9,http://www.pycon.se/sponsorship.html
+PyCon Sweden,2020-11-12,2020-11-13,"Stockholm, Stockholm County, Sweden",SWE,Online,,2020-09-30,http://www.pycon.se,https://forms.gle/kzydUY5miiLjXwmH6,
+PyCon Sweden,2022-11-03,2022-11-04,"Stockholm, Stockholm County, Sweden",SWE,Hilton Slussen,,,http://www.pycon.se,,https://www.pycon.se/#sponsorship
+PyCon Sweden,2022-11-03,2022-11-05,"Hilton Stockholm Slussen, Guldgränd 8, 104 65 Stockholm, Sweden",,,,,http://www.pycon.se,,
+PyCon Sweden,2023-11-09,2023-11-10,"Stockholm, Sweden",SWE,,,2023-09-01,https://www.pycon.se,https://docs.google.com/forms/d/e/1FAIpQLSebISd6uvGN6QB9MMdfib6UpHyleNcvXOvyZf9Jfkt0YrTtuA/viewform,https://www.pycon.se/#sponsorship
+PyCon Sweden,2023-11-09,2023-11-11,"Hilton Stockholm Slussen, Guldgränd 8, 104 65 Stockholm, Sweden",,,,,https://www.pycon.se,,
+PyCon Sweden,2024-11-14,2024-11-15,"Stockholm, Sweden",SWE,Clarion Hotel Skanstull,,,https://www.pycon.se/,,https://www.pycon.se/#sponsorship
+PyCon Sweden,2025-10-30,2025-10-31,"Stockholm, Sweden",SWE,Clarion Skanstull Hotel Stockholm,,,https://pycon.se/,,https://pycon.se/#sponsorship
 PyCon Sweden,2025-10-30,2025-10-31,"Stockholm, Sweden",SWE,Clarion Skanstull Hotel Stockholm,,,https://pycon.se/,,https://pycon.se/#sponsorship
 PyCon Sweden,2025-10-30,2025-11-01,"Clarion Hotel Skanstull, Stockholm, Sweden",,,,,https://pycon.se,,
+PyCon Sweden,2025-10-30,2025-11-01,"Clarion Hotel Skanstull, Stockholm, Sweden",,,,,https://pycon.se,,
+PyCon TW 2019,2019-09-20,2019-09-23,"International Conference Hall, H.S.S. Buiding, Academia Sinica, No. 128, Section 2, Academia Rd, Nangang District, Taipei City, Taiwan 11529",,,,,http://pycon.tw,,
+PyCon TW 2020,2020-09-05,2020-09-07,"International Conference Hall ,No.1, University Road, Tainan City 701, Taiwan",,,,,http://pycon.tw,,
+PyCon TW 2024,2024-09-21,2024-09-23,"Kaohsiung, Taiwan",,,,,https://tw.pycon.org/2024/en-us,,
+PyCon Taiwan 2017,2017-06-06,2017-06-12,"Academia Sinica, 128 Academia Road, Section 2, Nankang, Taipei 11529, Taiwan",,,,,https://tw.pycon.org/2017/en-us/,,
+PyCon Taiwan,,,Taiwan,,,,,https://tw.pycon.org,,
+PyCon Taiwan,2017-06-09,2017-06-11,"Taipei, Northern Taiwan, Taiwan",TWN,,,,https://tw.pycon.org/2017,https://tw.pycon.org/2017/en-us/speaking/cfp,
+PyCon Taiwan,2018-06-01,2018-06-02,"Taipei, Northern Taiwan, Taiwan",TWN,,,2018-03-05,https://tw.pycon.org/2018,https://tw.pycon.org/2018/en-us/speaking/cfp,
+PyCon Taiwan,2019-09-20,2019-09-22,"Taipei, Northern Taiwan, Taiwan",TWN,,,,https://tw.pycon.org/2019,https://tw.pycon.org/2019/en-us/events/talks,https://tw.pycon.org/2019/en-us/sponsor/sponsor
+PyCon Taiwan,2023-09-02,2023-09-03,"Taipei, Northern Taiwan, Taiwan",TWN,,,2023-03-31,https://tw.pycon.org/2023,,https://tw.pycon.org/2023/en-us/sponsor
+PyCon Taiwan,2024-09-21,2024-09-22,Kaohsiung,TWN,National Science and Technology Museum,2024-04-08,2024-04-08,https://tw.pycon.org/2024/en-us,https://tw.pycon.org/2024/en-us/speaking/cfp,https://tw.pycon.org/2024/en-us/sponsor
+PyCon Taiwan,2025-09-05,2025-09-07,Taiwan,TWN,,2025-04-05,2025-04-05,https://tw.pycon.org/2025,https://tw.pycon.org/2025/en-us/speaking/cfp,
 PyCon Taiwan,2025-09-05,2025-09-07,Taiwan,TWN,,2025-04-05,2025-04-05,https://tw.pycon.org/2025,https://tw.pycon.org/2025/en-us/speaking/cfp,
 PyCon Taiwan,2025-09-06,2025-09-08,"Taipei City, Taiwan",,,,,https://tw.pycon.org/2025/en-us,,
+PyCon Taiwan,2025-09-06,2025-09-08,"Taipei City, Taiwan",,,,,https://tw.pycon.org/2025/en-us,,
+PyCon Taiwan,2026-10-17,2026-10-19,"Taipei City, Taiwan",,,,,https://tw.pycon.org/2026/en-us,,
+PyCon Tanzania 2020,2020-12-14,2020-12-16,"Dar es Salaam, Tanzania",,,,,http://pycon.or.tz,,
+PyCon Tanzania 2024,2024-12-04,2024-12-06,"Dar es Salaam, Tansania",,,,,https://pycon.or.tz,,
 PyCon Tanzania,,,,,,,,,,
+PyCon Tanzania,2019-12-10,2019-12-12,"Dar Es Salaam, Tanzania",,,,,http://pycon.or.tz,,
+PyCon Tanzania,2021-12-01,2021-12-06,,,,,,http://pycon.or.tz,,
+PyCon Tanzania,2024-12-04,2024-12-05,"Dar es Salaam, Tanzania",TZA,University of Dar es Salaam,,2024-10-06,https://pycon.or.tz/,https://pycon.or.tz/speak/,https://pycon.or.tz/sponsor/
+PyCon Thailand 2018,2018-06-16,2018-06-18,"Thon Buri, Bangkok, Thailand",,,,,https://th.pycon.org/en/,,
+PyCon Thailand 2023,2023-12-15,2023-12-17,"Bangkok, Thailand",,,,,https://th.pycon.org,,
+PyCon Thailand 2025,2025-10-17,2025-10-19,"Bangkok, Thailand",,,,,https://th.pycon.org,,
 PyCon Thailand 2025,2025-10-17,2025-10-19,"Bangkok, Thailand",,,,,https://th.pycon.org/,,
 PyCon Thailand,,,Thailand,,,,,https://th.pycon.org,,
+PyCon Thailand,,,Thailand,,,,,https://th.pycon.org,,
+PyCon Thailand,2018-06-16,2018-06-17,"Bangkok, Central Thailand, Thailand",THA,,,2018-04-27,https://th.pycon.org/en,,
+PyCon Thailand,2019-06-15,2019-06-17,"Bangkok, Thailand",,,,,https://th.pycon.org/en/,,
+PyCon Thailand,2023-12-15,2023-12-16,"Bangkok, Thailand",THA,,2023-08-16,2023-08-16,https://th.pycon.org,https://www.papercall.io/pyconth2023,https://shorturl.at/kqrL4
+PyCon Togo 2025,2025-08-23,2025-08-24,"Lomé, Togo",,,,,https://pycontg.pytogo.org,,
 PyCon Togo 2025,2025-08-23,2025-08-24,"Lomé, Togo",,,,,https://pycontg.pytogo.org/,,
+PyCon Togo 2026,2026-08-28,2026-08-30,"Lomé, Togo",,,,,https://pycontg.pytogo.org,,
+PyCon Togo,,,Togo,,,,,https://pycontg.pytogo.org,,
+PyCon Togo,2025-08-23,2025-08-23,"Lomé, Togo",TGO,,2025-07-15,2025-07-15,https://pycontg.pytogo.org/,https://pycontg.pytogo.org/proposal,https://pycontg.pytogo.org/sponsors
 PyCon Togo,2025-08-23,2025-08-23,"Lomé, Togo",TGO,,2025-07-15,2025-07-15,https://pycontg.pytogo.org/,https://pycontg.pytogo.org/proposal,https://pycontg.pytogo.org/sponsors
 PyCon Turkey,,,Turkey,,,,,https://tr.pycon.org,,
+PyCon Turkey,,,Turkey,,,,,https://tr.pycon.org,,
+PyCon Turkey,2020-09-26,2020-09-27,"Istanbul, Marmara, Turkey",TUR,"Albert Long Hall, Bogazici University",,2020-01-15,https://tr.pycon.org,https://www.papercall.io/pycon-turkey-2020,
+PyCon Turkey,2020-09-26,2020-09-27,Online,,,,,https://tr.pycon.org,,
+PyCon UA 2017,2017-04-08,2017-04-10,"Lviv Arena Stadium, Lviv City, Ukraine",,,,,https://ua.pycon.org,,
+PyCon UK 2017,2017-10-26,2017-10-31,"Cardiff City Hall, Gorsedd Gardens Rd, Cardiff CF10 3ND, UK",,,,,http://2017.pyconuk.org,,
+PyCon UK 2018,2018-09-15,2018-09-20,"Cardiff City Hall, Cathays Park, Cardiff, CF10 3ND, UK",,,,,http://2018.pyconuk.org,,
+PyCon UK 2022,2022-09-16,2022-09-19,"Cardiff City Hall, UK",,,,,https://2022.pyconuk.org,,
+PyCon UK 2023,2023-09-22,2023-09-26,"Cardiff, UK",,,,,https://2023.pyconuk.org,,
+PyCon UK 2025,2025-09-19,2025-09-23,"Manchester, United Kingdom",,,,,https://2025.pyconuk.org,,
 PyCon UK 2025,2025-09-19,2025-09-23,"Manchester, United Kingdom",,,,,https://2025.pyconuk.org/,,
+PyCon UK,,,United Kingdom,,,,,https://pyconuk.org,,
+PyCon UK,2017-10-26,2017-10-30,"Cardiff, Wales, United Kingdom",GBR,,,,http://2017.pyconuk.org,http://2017.pyconuk.org/cfp,http://2017.pyconuk.org/sponsors
+PyCon UK,2018-09-15,2018-09-19,"Cardiff, Wales, United Kingdom",GBR,,,,,,
+PyCon UK,2019-09-13,2019-09-17,"Cardiff, Wales, United Kingdom",GBR,Cardiff City Hall,,,https://2019.pyconuk.org,,
+PyCon UK,2023-09-22,2023-09-25,"Cardiff, Wales, United Kingdom",GBR,Cardiff City Hall,,2023-06-30,https://2023.pyconuk.org,https://2023.pyconuk.org/call-for-proposals/,https://2023.pyconuk.org/sponsorship
 PyCon UK,2025-09-19,2025-09-22,"Manchester, United Kingdom",GBR,CONTACT,2025-05-11,2025-05-11,https://2025.pyconuk.org/,https://2025.pyconuk.org/call-for-proposals/,https://2025.pyconuk.org/sponsorship/
+PyCon UK,2025-09-19,2025-09-22,"Manchester, United Kingdom",GBR,CONTACT,2025-05-11,2025-05-11,https://2025.pyconuk.org/,https://2025.pyconuk.org/call-for-proposals/,https://2025.pyconuk.org/sponsorship/
+PyCon US 2017,2017-05-17,2017-05-26,"Portland, Oregon, USA",,,,,https://us.pycon.org/2017/,,
+PyCon US 2018,2018-05-09,2018-05-18,"Cleveland, Ohio, USA",,,,,https://us.pycon.org/2018/,,
+PyCon US 2019,2019-05-01,2019-05-10,"Cleveland, Ohio, USA",,,,,https://us.pycon.org/2019/,,
+PyCon US 2021,2021-05-12,2021-05-21,Online,,,,,https://us.pycon.org/2021/,,
+PyCon US 2022,2022-04-27,2022-05-06,"Salt Lake City, Utah, USA",,,,,https://us.pycon.org/2022/,,
+PyCon US 2023,2023-04-19,2023-04-28,"Salt Lake City, Utah, USA",,,,,https://us.pycon.org/2023/,,
+PyCon US 2024,2024-05-15,2024-05-24,"Pittsburgh, Pennsylvania, USA",,,,,https://us.pycon.org,,
+PyCon US 2025,2025-05-14,2025-05-23,"Pittsburgh, Pennsylvania, USA",,,,,https://us.pycon.org,,
 PyCon US 2025,2025-05-14,2025-05-23,"Pittsburgh, Pennsylvania, USA",,,,,https://us.pycon.org/,,
+PyCon US 2026,2026-05-13,2026-05-20,"Long Beach, CA, USA",,,,,https://us.pycon.org,,
+PyCon US,,,United States and Canada,,,,,https://us.pycon.org,,
+PyCon US,2017-05-17,2017-05-25,"Portland, Oregon, United States of America",USA,The Oregon Convention Center,2016-11-30,2017-01-03,https://us.pycon.org/2017,https://us.pycon.org/2017/speaking,https://us.pycon.org/2017/sponsors/prospectus
+PyCon US,2018-05-09,2018-05-17,"Cleveland, Ohio, United States of America",USA,Huntington Convention Center,2017-11-24,2018-01-03,https://us.pycon.org/2018,https://us.pycon.org/2018/speaking,https://us.pycon.org/2018/sponsors/prospectus
+PyCon US,2019-05-01,2019-05-09,"Cleveland, Ohio, United States of America",USA,Huntington Convention Center,2018-11-26,2019-01-03,https://us.pycon.org/2019,https://us.pycon.org/2019/speaking,https://us.pycon.org/2019/sponsors/prospectus
+PyCon US,2021-05-12,2021-05-18,,USA,Online,2021-02-12,2021-02-12,https://us.pycon.org/2021,https://us.pycon.org/2021/speaking/talks,https://us.pycon.org/2021/sponsorship/why-sponsor
+PyCon US,2023-04-19,2023-04-27,"Salt Lake City, Utah, United States of America",USA,Salt Palace Convention Center,2022-12-11,2022-12-11,https://us.pycon.org/2023,https://us.pycon.org/2023/speaking/guidelines,https://us.pycon.org/2023/sponsorship/why-sponsor
+PyCon US,2024-05-15,2024-05-23,"Pittsburgh, Pennsylvania, United States of America",USA,David L. Lawrence Convention Center,,2023-12-18,https://us.pycon.org,https://us.pycon.org/2024/speaking/guidelines/,https://us.pycon.org/2024/sponsorship/why-sponsor/
+PyCon US,2025-05-14,2025-05-22,"Pittsburgh, Pennsylvania, United States of America",USA,David L. Lawrence Convention Center,,2024-12-19,https://us.pycon.org,https://us.pycon.org/2025/speaking/guidelines/,https://us.pycon.org/2025/sponsorship/why-sponsor/
 PyCon US,2025-05-14,2025-05-22,"Pittsburgh, Pennsylvania, United States of America",USA,David L. Lawrence Convention Center,,2024-12-19,https://us.pycon.org,https://us.pycon.org/2025/speaking/guidelines/,https://us.pycon.org/2025/sponsorship/why-sponsor/
 PyCon US,2026-05-13,2026-05-19,"Long Beach, California, United States of America",USA,,,,https://us.pycon.org,,
+PyCon US,2026-05-13,2026-05-19,"Long Beach, California, United States of America",USA,Long Beach Convention and Entertainment Center,,2025-12-19,https://us.pycon.org/2026/,https://us.pycon.org/2026/speaking/guidelines/,https://us.pycon.org/2026/sponsorship/why-sponsor/
+PyCon US,2027-05-12,2027-05-18,"Long Beach, California,  United States of America",USA,Long Beach Convention and Entertainment Center,,,,,https://www.python.org/sponsors/application/
+PyCon Uganda 2024,2024-10-09,2024-10-14,"Kampala, Uganda",,,,,https://ug.pycon.org/2024,,
 PyCon Uganda,,,Uganda,,,,,https://ug.pycon.org,,
+PyCon Uganda,,,Uganda,,,,,https://ug.pycon.org,,
+PyCon Uganda,2023-09-21,2023-09-23,"MoTIV, Kampala, Uganda",UGA,,,2023-05-05,https://ug.pycon.org,https://ug.pycon.org/speakers,https://ug.pycon.org/sponsors
+PyCon Uganda,2023-09-21,2023-09-24,"Kampala, Uganda",,,,,https://ug.pycon.org,,
+PyCon Uganda,2024-10-09,2024-10-13,"Kampala, Uganda",UGA,NWSC International Resource Center,2024-04-30,2024-04-30,https://ug.pycon.org/2024,https://www.papercall.io/pyconug,https://ug.pycon.org/2024/sponsors
 PyCon Ukraine,,,Ukraine,,,,,https://ua.pycon.org,,
+PyCon Ukraine,,,Ukraine,,,,,https://ua.pycon.org,,
+PyCon Ukraine,2017-04-08,2017-04-09,"Lviv, Lviv Oblast, Ukraine",UKR,,,,https://ua.pycon.org,https://ua.pycon.org/en/announcements/2017-02-01-become-a-speaker.html,https://ua.pycon.org/en/become_a_sponsor.html
+PyCon Ukraine,2018-04-28,2018-04-29,"Kharkiv, Kharkiv Oblast, Ukraine",UKR,,,2018-03-12,https://2018.uapycon.org,,https://2018.uapycon.org/#become_a_sponsor
+PyCon Uruguay,,,Uruguay,,,,,https://web.archive.org/web/20130521223448/https://uy.pycon.org/,,
 PyCon Uruguay,,,Uruguay,,,,,https://web.archive.org/web/20130521223448/https://uy.pycon.org/,,
 PyCon Venezuela,,,Venezuela,,,,,https://web.archive.org/web/20131019013436/https://ve.pycon.org/,,
+PyCon Venezuela,,,Venezuela,,,,,https://web.archive.org/web/20131019013436/https://ve.pycon.org/,,
+PyCon Wroclaw 2024,2024-11-30,2024-12-01,"Wroclaw, Poland",,,,,http://www.pyconwroclaw.com,,
+PyCon Wroclaw 2025,2025-11-15,2025-11-16,"Concordia Design Wrocław I Wynajem biur I Centrum Konferencyjno - Eventowe, wyspa Słodowa 7, 50-266 Wrocław, Poland",,,,,http://www.pyconwroclaw.com,,
 PyCon Wroclaw 2025,2025-11-15,2025-11-16,"Concordia Design Wrocław I Wynajem biur I Centrum Konferencyjno - Eventowe, wyspa Słodowa 7, 50-266 Wrocław, Poland",,,,,http://www.pyconwroclaw.com/,,
+PyCon Wroclaw 2026,2026-11-20,2026-11-21,"Wroclaw, Poland",,,,,http://www.pyconwroclaw.com,,
+PyCon ZA 2017,2017-10-04,2017-10-09,"The River Club, Liesbeek Pkwy & Observatory Rd, Observatory, Cape Town, 7925, South Africa",,,,,https://za.pycon.org,,
+PyCon ZA 2018,2018-10-10,2018-10-15,"Johannesburg, South Africa",,,,,https://za.pycon.org,,
+PyCon ZA 2019,2019-10-09,2019-10-14,"The Wanderers Club, Illovo, Johannesburg, South Africa",,,,,https://za.pycon.org,,
+PyCon ZA 2021,2021-10-07,2021-10-09,Online,,,,,https://za.pycon.org,,
+PyCon ZA 2022,2022-10-13,2022-10-15,"Durban, South Africa",,,,,https://za.pycon.org,,
 PyCon ZA,,,South Africa,,,,,https://za.pycon.org,,
+PyCon ZA,,,South Africa,,,,,https://za.pycon.org,,
+PyCon Zimbabwe 2017,2017-08-23,2017-08-27,"Harare, Zimbabwe",,,,,http://zw.pycon.org,,
 PyCon Zimbabwe,,,,,,,,,,
 PyCon Zimbabwe,,,,,,,,,,
+PyCon Zimbabwe,2018-10-19,2018-10-20,"Harare, Mashonaland, Zimbabwe",ZWE,,2018-09-19,2018-09-19,http://zw.pycon.org,https://www.papercall.io/pyconzim2018,
+PyCon Zimbabwe,2024-10-31,2024-11-02,"Harare, Zimbabwe",ZWE,,,,https://zw.pycon.org,,
+PyCon Zimbabwe,2024-10-31,2024-11-03,"Harare, Zimbabwe",,,,,https://zw.pycon.org,,
+PyCon mini Hiroshima,2019-10-12,2019-10-12,"Hiroshima, Chugoku, Japan",JPN,"Satellite Campus, Horoshima City Unversity",,,https://hiroshima.pycon.jp/2019,https://docs.google.com/forms/d/e/1FAIpQLSdIebD2ijyIFFKAtlR-iYiYWs8kPbP8ZMXNSaw0iiXeC57szA/viewform,
+PyCon mini Hiroshima,2020-10-10,2020-10-10,"Hiroshima, Chugoku, Japan",JPN,,,,https://hiroshima.pycon.jp/2020,,
+PyCon mini Sapporo,2019-05-11,2019-05-11,"Sapporo, Hokkaido, Japan",JPN,Sapporo Business Innovation Center,,,https://sapporo.pycon.jp/2019,,
+PyCon mini Tokai 2024,2024-11-16,2024-11-17,"Nagoya, Aichi, Japan",,,,,https://tokai.pycon.jp/2024/,,
+PyCon mini Tokai 2025,2025-11-08,2025-11-09,"Nagoya, Aichi, Japan",,,,,https://tokai.pycon.jp/2025/,,
+PyCon+Web 2025,2025-01-24,2025-01-26,"Berlin, Germany",,,,,https://www.pyconweb.com,,
 PyCon+Web 2025,2025-01-24,2025-01-26,"Berlin, Germany",,,,,https://www.pyconweb.com/,,
+PyCon.DE 2018,2018-10-24,2018-10-27,"Karlsruhe, Germany",,,,,http://pycon.de,,
+PyConAU 2024,2024-11-22,2024-11-27,"Melbourne, Australia",,,,,https://2024.pycon.org.au,,
+PyConAr 2017,2017-11-17,2017-11-20,"Haya De La Torre S/N, Córdoba, Cordoba, Argentina",,,,,http://ar.pycon.org,,
+PyConDE & PyData Berlin 2019,2019-10-09,2019-10-12,"Berlin, Germany",,,,,https://de.pycon.org,,
+PyConDE & PyData Berlin 2020 (cancelled),2020-10-14,2020-10-17,"Berlin, Germany",,,,,https://de.pycon.org,,
+PyConES 2025,2025-10-17,2025-10-20,"Sevilla, Spain",,,,,https://2025.es.pycon.org,,
 PyConES 2025,2025-10-17,2025-10-20,"Sevilla, Spain",,,,,https://2025.es.pycon.org/,,
+PyConES17,2017-09-22,2017-09-25,"Caceres, Spain",,,,,https://2017.es.pycon.org,,
+PyConEs - Granada,2022-09-30,2022-10-03,,,,,,https://2022.es.pycon.org,,
+PyConFR 2026,2026-10-29,2026-11-02,"Bidart, France",,,,,http://pycon.fr/2026,,
 PyConFR,,,,,,,,,,
 PyConFR,2025-10-30,2025-11-02,"Lyon, France",FRA,René Cassin Campus,,2025-07-20,https://www.pycon.fr/2025/en/,https://cfp.pycon.fr/pyconfr-2025/cfp,https://www.pycon.fr/2025/en/sponsors.html
+PyConFR,2025-10-30,2025-11-02,"Lyon, France",FRA,René Cassin Campus,,2025-07-20,https://www.pycon.fr/2025/en/,https://cfp.pycon.fr/pyconfr-2025/cfp,https://www.pycon.fr/2025/en/sponsors.html
+PyConFR,2026-10-29,2026-11-01,"Biarritz, France",FRA,ESTIA engineering school,,,https://www.pycon.fr/2026/en/,https://cfp.pycon.fr/pyconfr-2026/cfp,https://www.pycon.fr/2026/en/support.html
+PyConFr 2023,2023-02-16,2023-02-20,"Bordeaux, France",,,,,https://pycon.fr/2023/,,
+PyConJP 2018,2018-09-17,2018-09-19,"Tokyo, Japan",,,,,https://pycon.jp/2018/,,
+PyConKE 2017,2017-09-28,2017-09-30,"United States International University, Nairobi, Kenya",,,,,http://www.pycon.or.ke,,
+PyConTW 2018,2018-06-01,2018-06-03,"Taipei, Taiwan",,,,,https://tw.pycon.org/2018/en-us/,,
+PyConTW 2021,2021-10-02,2021-10-04,Online,,,,,https://tw.pycon.org/2021/en-us/,,
+PyConTW 2023,2023-09-02,2023-09-04,"Nankang, Taipei 115, Taiwan",,,,,https://tw.pycon.org/2023/,,
+PyConWEB 2017,2017-05-27,2017-05-29,"Munich, Germany",,,,,http://pyconweb.com,,
+PyConWeb 2018,2018-06-30,2018-07-02,"Munich, Germany",,,,,https://pyconweb.com,,
+PyConWeb 2019,2019-05-25,2019-05-27,"Microsoft Deutschland GmbH, Walter-Gropius-Straße 5, 80807 München, Germany",,,,,https://pyconweb.com,,
+PyConWeb 2020 (canceled),2020-05-09,2020-05-11,"Munich, Germany",,,,,https://pyconweb.com,,
 PyConWeb,,,,,,,,,,
+PyConWeb,2025-01-24,2025-01-25,"Berlin, Germany",DEU,CIC Berlin,,,https://www.pyconweb.com,,https://www.pyconweb.com/sponsorship
 PyConWeb,2025-01-24,2025-01-25,"Berlin, Germany",DEU,CIC Berlin,,,https://www.pyconweb.com,,https://www.pyconweb.com/sponsorship
 PyConZA (South Africa),,,,,,,,,,
 PyConZA (South Africa),,,,,,,,,,
+PyConZA (South Africa),2024-10-03,2024-10-04,"Cape Town, South Africa",ZAF,Belmont Square Conference Centre,2024-08-18,2024-08-18,https://za.pycon.org/,https://za.pycon.org/talks/how-to-submit-a-talk/,
+PyConZA 2023,2023-10-05,2023-10-07,"Umhlanga, Durban, South Africa and Online",,,,,https://za.pycon.org,,
+PyConZA 2024,2024-10-03,2024-10-05,,,,,,https://za.pycon.org,,
+PyConf Hyderabad 2017,2017-10-07,2017-10-09,"IIIT Hyderabad, Gachibowli, Hyderabad, Telangana 500032, India",,,,,http://pyconf.hydpy.org,,
+PyConf Hyderabad 2025,2025-02-22,2025-02-24,"Hyderabad, Telangana, India",,,,,https://2025.pyconfhyd.org,,
 PyConf Hyderabad 2025,2025-02-22,2025-02-24,"Hyderabad, Telangana, India",,,,,https://2025.pyconfhyd.org/,,
+PyConf Hyderabad 2026,2026-03-14,2026-03-15,"Hyderabad, Telangana, India",IND,Engineering Staff College of India,,2026-01-15,https://2026.pyconfhyd.org/,https://www.papercall.io/pyconfhyd2026,https://2026.pyconfhyd.org/#sponsors
+PyConf Hyderabad 2026,2026-03-14,2026-03-16,"Hyderabad, Telangana, India",,,,,http://2026.pyconfhyd.org,,
+PyConf Mini Davao 2024,2024-09-26,2024-09-27,"Davao City, Philippines",,,,,https://pyconf-mini-2024.durianpy.org,,
+PyConline AU 2021,2021-09-10,2021-09-13,"Online, Australia",,,,,https://2021.pycon.org.au,,
+PyData Amsterdam 2017,2017-04-07,2017-04-10,"Herengracht 597 1017 CE Amsterdam, Netherlands",,,,,https://pydata.org/amsterdam2017/,,
+PyData Amsterdam 2023,2023-09-14,2023-09-17,"Amsterdam, The Netherlands",,,,,https://amsterdam.pydata.org,,
+PyData Amsterdam 2024,2024-09-18,2024-09-21,"Amsterdam, Netherlands",,,,,https://amsterdam.pydata.org,,
 PyData Amsterdam,,,,,,,,,,
+PyData Amsterdam,2019-05-10,2019-05-12,"Amsterdam, North Holland, The Netherlands",NLD,,,,https://pydata.org/amsterdam2019,,
+PyData Amsterdam,2023-09-14,2023-09-16,"Amsterdam, North Holland, The Netherlands",NLD,Kromhout Hal,2023-06-11,2023-06-11,https://amsterdam.pydata.org,https://amsterdam2023.pydata.org/cfp/cfp,https://amsterdam.pydata.org/sponsor
+PyData Amsterdam,2024-09-18,2024-09-20,"Amsterdam, Netherlands",NLD,,,,https://amsterdam.pydata.org/,,https://amsterdam.pydata.org/sponsor/
+PyData Berlin 2017,2017-06-30,2017-07-03,"Treskowallee 8, 10318 Berlin, Germany",,,,,https://pydata.org/berlin2017/,,
 PyData Berlin 2025,2025-09-01,2025-09-04,"Berlin, Germany",,,,,https://pydata.org/berlin2025,,
+PyData Berlin 2025,2025-09-01,2025-09-04,"Berlin, Germany",,,,,https://pydata.org/berlin2025,,
+PyData Delhi 2017,2017-09-02,2017-09-04,"New Delhi, India",,,,,“https://pydata.org/delhi2017“,,
+PyData Delhi 2018,2018-08-11,2018-08-13,"New Delhi, India",,,,,https://pydata.org/delhi2018,,
+PyData Eindhoven 2024,2024-07-11,2024-07-12,"Eindhoven, Netherlands",,,,,https://pydata.org/eindhoven2024/call-for-proposals,,
+PyData Global 2021,2021-10-28,2021-10-31,Online,,,,,https://pydata.org/global2021/,,
+PyData Global 2022,2022-12-01,2022-12-04,Online,,,,,https://pydata.org/global2022/,,
+PyData Global 2023,2023-12-06,2023-12-09,Online,,,,,https://pydata.org/global2023/,,
+PyData Global 2024,2024-12-03,2024-12-06,Online,,,,,https://pydata.org/global2024/,,
+PyData Global 2025,2025-12-09,2025-12-12,Online,,,,,https://pydata.org/global2025,,
+PyData Global,2021-10-28,2021-10-30,Worldwide,USA,Online,2021-08-15,2021-08-15,https://pydata.org/global2021,https://pydata.org/global2021/present,https://pydata.org/global2021/sponsor
+PyData Global,2022-12-01,2022-12-03,Worldwide,USA,Online,,,https://pydata.org/global2022,,https://pydata.org/global2022/sponsors
+PyData London 2017,2017-05-05,2017-05-08," Bloomberg No 39/45 Finsbury Square City Gate House, EC2A 1 PQ London, United Kingdom",,,,,https://pydata.org/london2017/,,
+PyData London 2019,2019-07-12,2019-07-15,"London, UK",,,,,https://pydata.org/london2019/,,
+PyData London 2020 (cancelled),2020-10-30,2020-11-02,"London, UK",,,,,https://pydata.org/london2020,,
+PyData London 2023,2023-06-02,2023-06-05,"London, UK",,,,,https://pydata.org/london2023,,
+PyData London 2024,2024-06-14,2024-06-17,"London, United Kingdom",,,,,https://pydata.org/london2024/,,
 PyData London 2025,2025-06-06,2025-06-09,"London, UK",,,,,https://pydata.org/london2025t,,
+PyData London 2025,2025-06-06,2025-06-09,"London, UK",,,,,https://pydata.org/london2025t,,
+PyData London,2019-07-12,2019-07-14,"London, Greater London, United Kingdom",GBR,The Tower Hotel,,,https://pydata.org/london2019,,
+PyData London,2022-06-17,2022-06-19,"London, Greater London, United Kingdom",GBR,The Tower Hotel,,,https://pydata.org/london2022,,https://pydata.org/london2022/sponsors
+PyData London,2023-06-02,2023-06-04,"London, Greater London, United Kingdom",GBR,Leonardo Royal Hotel London Tower Bridge,,2023-03-13,https://pydata.org/london2023,,https://pydata.org/london2023/sponsorship-opportunites
+PyData London,2024-06-14,2024-06-16,"London, UK",GBR,Leonardo Royal Hotel London Tower Bridge,,2024-03-04,https://pydata.org/london2024/,https://pydata.org/london2024/cfp#submit,https://pydata.org/london2024/sponsor
+PyData NYC,2017-11-27,2017-11-30,"New York, New York, United States of America",USA,,,,https://pydata.org/nyc2017,https://pydata.org/nyc2017/cfp,https://pydata.org/nyc2017/sponsors
+PyData NYC,2022-11-09,2022-11-11,"New York, New York, United States of America",USA,,,,https://pydata.org/nyc2022,,https://pydata.org/nyc2022/sponsors
+PyData Paris 2024,2024-09-25,2024-09-27,"Paris, France",,,,,https://pydata.org/paris2024/,,
+PyData Paris 2025,2025-09-30,2025-10-02,"Paris, France",,,,,https://pydata.org/paris2025,,
 PyData Paris 2025,2025-09-30,2025-10-02,"Paris, France",,,,,https://pydata.org/paris2025,,
 PyData Paris,,,,,,,,,,
+PyData Paris,2024-09-25,2024-09-26,"Paris, France",FRA,,,2024-04-08,https://pydata.org/paris2024/,https://pydata.org/paris2024/cfp/,
+PyData PyCon Armenia 2026,2026-07-24,2026-07-26,"Yerevan, Armenia",,,,,https://pycon.am,,
+PyData Seattle 2017,2017-07-05,2017-07-08,"Microsoft Conference Center Redmond, WA. USA",,,,,https://pydata.org/seattle2017/,,
+PyData Seattle,2023-04-26,2023-04-28,"Seattle, USA",USA,,,2023-02-06,https://pydata.org/seattle2023/,,https://pydata.org/seattle2023/wp-content/uploads/2022/12/PyData-2023-Sponsorship-Prospectus.pdf
+PyData Seattle: Language Creators Charity Fundraiser,2023-09-19,2023-09-20,"Bellevue, WA, USA",,,,,https://pydata.org/language-creator-fundraiser/,,
+PyData Tel Aviv 2023,2023-11-14,2023-11-15,"Tel Aviv, Israel",,,,,https://pydata.org/telaviv2023,,
+PyData Tel Aviv,2022-12-13,2022-12-13,"Tel Aviv, Gush Dan, Israel",ISR,Expo Tel Aviv,,,https://pydata.org/telaviv2022,,
+PyData Tel Aviv,2023-11-14,2023-11-14,"Tel Aviv, Gush Dan, Israel",ISR,InterContinental David Tel Aviv,,2023-07-14,https://pydata.org/telaviv2023,https://pydata.org/telaviv2023/cfp,https://pydata.org/telaviv2023/sponsor
 PyData Vermont,,,,,,,,,,
+PyData Vermont,2024-07-29,2024-07-30,"Burlington, Vermont, United States of America",USA,Main Street Landing Performing Arts Center,,2024-05-03,https://pydata.org/vermont2024,https://pydata.org/vermont2024/call-for-proposals,https://pydata.org/vermont2024/sponsorship-opportunites
+PyData Warsaw Conference 2017,2017-10-19,2017-10-20,"Copernicus Science Center, Address: Wybrzeze Kosciuszkowskie 20, 00-390 Warszawa, Poland",,,,,https://pydata.org/warsaw2017/,,
 PyData conferences,,,Worldwide,,,,,https://pydata.org/events/,,
+PyData conferences,,,Worldwide,,,,,https://pydata.org/events/,,
+PyDataBCN 2017,2017-05-19,2017-05-22,"Barcelona, Spain",,,,,http://pydata.org/barcelona2017/,,
+PyDay Barcelona,2019-10-19,2019-10-20,"Barcelona, Spain",,,,,https://pybcn.org/pyday-bcn-2019/,,
+PyDay Boyacá 2026,2026-09-12,2026-09-13,"Sogamoso, Boyacá, Colombia",,,,,https://www.pyday.co,,
+PyDay Cali 2023,2023-10-21,2023-10-22,"Cali, Colombia",,,,,https://pyday.co,,
+PyDay Cali Colombia,2018-10-27,2018-10-28,"Cali, Valle del Cauca, Colombia",,,,,https://pyday.co,,
+PyDay Chile 2020,2020-12-05,2020-12-06,Online (Chile),,,,,https://pyday.cl,,
 PyDay Copiapó,,,,,,,,,,
+PyDay Copiapó,2024-06-12,2024-06-12,"Copiapó, Chile",CHL,,,2024-05-24,https://www.pyday.cl/copiapo.html,https://sessionize.com/pyday-2024/,
+PyDay La Paz 2023,2023-06-10,2023-06-11,"Higher University of San Andrés (UMSA), J.J.Perez, La Paz, Bolivia",,,,,https://pyday.pylapaz.org,,
+PyDay La Paz,2023-06-03,2023-06-03,"La Paz, Bolivia",BOL,,,2023-03-30,https://pyday.pylapaz.org/,,https://forms.gle/7SoVfzBgwYfv1Qw59
+PyDay Pereira,2019-06-29,2019-06-30,"Pereira, Colombia",,,,,https://pereira.pyday.co,,
+PyDay TF 2018,2018-11-17,2018-11-18,"Tenerife, Santa Cruz de Tenerife, Spain",,,,,https://pyday.pythoncanarias.es,,
+PyDay Togo 2024,2024-11-30,2024-12-01,"Lomé, Togo",,,,,https://lu.ma/runpiv8k,,
 PyDay Valparaiso,,,,,,,,,,
+PyDay Valparaiso,2024-06-14,2024-06-14,"Valparaiso, Chile",CHL,"Fablab, University of Valparaiso",,2024-05-24,https://www.pyday.cl/valparaiso.html,https://sessionize.com/pyday-2024/,
+PyDay 🎃 + Django Birthday 🦄,2025-10-31,2025-11-01,"Bogotá, Colombia",,,,,https://www.pyladies.co/eventos/pyday-cumple-django-2025,,
+PyDayNEA 2019,2019-06-29,2019-06-30,"Resistencia, Chaco Province, Argentina",,,,,https://eventos.python.org.ar/events/pydaynea2019/,,
+PyDays Vienna 2017,2017-05-05,2017-05-07,"FH Technikum Wien, Höchstädtplatz 6, 1200 Vienna, Austria",,,,,https://pydays.at,,
+PyDays Vienna,2018-05-04,2018-05-05,"Vienna, Vienna, Austria",AUT,,2018-03-21,2018-03-21,http://www.pydays.at,http://www.pydays.at/cfp,
+PyDays Vienna,2018-05-04,2018-05-06,"FH Technikum Wien, Hoechstaedtplatz 6, Vienna, Austria",,,,,https://www.pydays.at,,
+PyDays Vienna,2019-05-03,2019-05-04,"Vienna, Vienna, Austria",AUT,,,,https://www.pydays.at,,
+PyDays Vienna,2019-05-03,2019-05-05,"FH Technikum, Vienna, Austria",,,,,https://www.pydays.at,,
+PyFest,2021-06-16,2021-06-19,Online ,,,,,https://pyfest.online,,
+PyGotham 2017,2017-10-06,2017-10-09,"New York, NY, USA",,,,,http://2017.pygotham.org,,
+PyGotham TV,2020-10-02,2020-10-03,"New York, New York, United States of America",USA,Online,,2020-07-05,https://2020.pygotham.tv,https://cfp.pygotham.tv,https://2020.pygotham.tv/sponsors/prospectus
+PyGotham TV,2020-10-02,2020-10-04,Online,,,,,https://2020.pygotham.tv,,
+PyGotham TV,2023-10-06,2023-10-07,"New York, New York, United States of America",USA,Online,,2023-05-15,https://2023.pygotham.tv,https://cfp.pygotham.tv,https://2023.pygotham.tv/sponsors/prospectus
 PyGotham,,,"New York, United States",,,,,https://pygotham.org,,
+PyGotham,,,"New York, United States",,,,,https://pygotham.org,,
+PyGotham,2017-10-06,2017-10-08,"New York, New York, United States of America",USA,,2017-07-18,2017-07-18,https://2017.pygotham.org,https://www.papercall.io/pygotham-2017,https://2017.pygotham.org/sponsors/prospectus
+PyGotham,2018-10-05,2018-10-06,"New York, New York, United States of America",USA,,,2018-05-20,https://2018.pygotham.org,https://www.papercall.io/pygotham-2018,https://2018.pygotham.org/sponsors/prospectus
+PyGotham,2019-10-04,2019-10-05,"New York, New York, United States of America",USA,Hotel Pennsylvania,,2019-05-12,https://2019.pygotham.org,https://cfp.pygotham.org,https://2019.pygotham.org/sponsors/prospectus
+PyGrunn 2024,2024-05-17,2024-05-18,"Groningen, Netherlands",,,,,https://pygrunn.org,,
+PyGrunn 2025,2025-05-16,2025-05-17,"Groningen, Netherlands",,,,,https://pygrunn.org,,
 PyGrunn 2025,2025-05-16,2025-05-17,"Groningen, Netherlands",,,,,https://pygrunn.org/,,
+PyGrunn,,,"Groningen, The Netherlands",,,,,https://pygrunn.org,,
+PyGrunn,2024-05-17,2024-05-17,"Groningen, Netherlands",NLD,,,,https://pygrunn.org/,https://forms.gle/AXzpAA9KyFaR9VHx8,https://pygrunn.org/#sponsoring
 PyGrunn,2025-05-16,2025-05-16,"Groningen, Netherlands",NLD,,,,https://pygrunn.org,https://docs.google.com/forms/d/e/1FAIpQLSdjbpV9Ump8dcAKkN0R0hYpxd8-L5eyekvz3NxbtJLK1g-PPA,https://pygrunn.org/#sponsoring
+PyGrunn,2025-05-16,2025-05-16,"Groningen, Netherlands",NLD,,,,https://pygrunn.org,https://docs.google.com/forms/d/e/1FAIpQLSdjbpV9Ump8dcAKkN0R0hYpxd8-L5eyekvz3NxbtJLK1g-PPA,https://pygrunn.org/#sponsoring
+PyHEP 2018,2018-07-07,2018-07-09,"Sofia, Bulgaria",,,,,https://indico.cern.ch/event/694818,,
+PyHEP 2020,2020-07-13,2020-07-18,online,,,,,https://indico.cern.ch/event/882824,,
+PyHEP 2021,2021-07-05,2021-07-10,Online,,,,,https://indico.cern.ch/e/PyHEP2021,,
+PyHEP 2022,2022-09-12,2022-09-17,Online,,,,,https://indico.cern.ch/e/PyHEP2022,,
+PyHEP 2023,2023-10-09,2023-10-13,Online,,,,,https://indico.cern.ch/e/PyHEP2023,,
+PyHEP 2024,2024-07-01,2024-07-05,Online,,,,,https://indico.cern.ch/e/PyHEP2023,,
+PyHEP,2023-10-09,2023-10-12,Online,,,,2023-09-06,https://indico.cern.ch/e/PyHEP2023,https://indico.cern.ch/event/1252095/abstracts/,
+PyHEP,2024-08-26,2024-08-30,"Aachen, Germany",DEU,,,2024-06-25,https://indico.cern.ch/event/1375573/,,
+PyHEP.dev 2024,2024-08-26,2024-08-31,"Aachen, Germany",,,,,https://indico.cern.ch/event/1375573/,,
 PyHEP.dev 2025,2025-07-14,2025-07-18,"Seattle, USA",,,,,https://indico.cern.ch/event/1515852/,,
+PyHEP.dev 2025,2025-07-14,2025-07-18,"Seattle, USA",,,,,https://indico.cern.ch/event/1515852/,,
+PyHPC 2017: 7th Workshop on Python for High-Performance and Scientific Computing,2017-11-12,2017-11-13,"Denver, CO, USA",,,,,,,
 PyHausa,,,"Northern, Nigeria",,,,,https://pythonhausa.org,,
+PyHausa,,,"Northern, Nigeria",,,,,https://pythonhausa.org,,
+PyHo 2026,2026-10-23,2026-10-25,"Ho, Ghana",,,,,https://2026.pythonho.com,,
+PyHo,,,"Ho, Volta, Ghana",,,,,https://pythonho.com,,
 PyHo,,,,,,,,,,
+PyHo,2024-10-25,2024-10-26,"Ho, Volta, Ghana",GHA,University of Health and Allied Sciences,,2024-09-20,https://2024.pythonho.com,https://www.papercall.io/cfps/6013/submissions/new,https://2024.pythonho.com/sponsors/sponsor-us/
 PyKatsina,,,"Katsina, Nigeria",,,,,https://pythonkatsina.org,,
+PyKatsina,,,"Katsina, Nigeria",,,,,https://pythonkatsina.org,,
+PyLadiesCon 2023,2023-12-02,2023-12-04,Online,,,,,https://conference.pyladies.com,,
 PyLadiesCon,,,,,,,,,,
 PyLadiesCon,,,,,,,,,,
+PyLadiesCon,2023-12-02,2023-12-03,Online,,,,2023-09-04,https://conference.pyladies.com,https://pretalx.com/pyladiescon-2023/cfp,
+PyLadiesCon,2024-12-06,2024-12-08,Online,,,,2024-09-25,https://conference.pyladies.com,https://pretalx.com/pyladiescon-2024/cfp,https://conference.pyladies.com/sponsors/
+PyLadiesCon,2025-12-05,2025-12-07,Online,,,,,https://2025.conference.pyladies.com/,,https://2025.conference.pyladies.com/en/sponsors/
+PyLadiesCon,2026-12-05,2026-12-07,Online,,,,,https://2026.conference.pyladies.com/en/,,https://2026.conference.pyladies.com/en/sponsors/
+PyLondinium 2020 (postponed),2020-06-05,2020-06-08,"London, UK",,,,,https://pylondinium.org,,
+PyLondinium,2018-06-08,2018-06-10,"London, England, United Kingdom",GBR,,,2018-04-15,https://pylondinium.org,https://www.papercall.io/pylondinium,https://pylondinium.org/#sponsors
+PyLondinium,2018-06-08,2018-06-11,"London, UK",,,,,https://pylondinium.org,,
+PyLondinium,2019-06-14,2019-06-16,"London, England, United Kingdom",GBR,Bloomberg's European HQ,,,https://pylondinium.org,,
+PyLondinium,2019-06-14,2019-06-17,"London, UK",,,,,https://pylondinium.org,,
+PyOhio 2017,2017-07-29,2017-07-31,"Columbus, Ohio, USA",,,,,http://www.pyohio.org,,
+PyOhio 2021,2021-07-31,2021-08-01,Online,,,,,http://www.pyohio.org/2021,,
+PyOhio 2024,2024-07-27,2024-07-28,"Columbus, USA",,,,,https://pyohio.org/2024/,,
 PyOhio 2025,2025-07-26,2025-07-28,"Cleveland, USA",,,,,https://pyohio.org/2025/,,
+PyOhio 2025,2025-07-26,2025-07-28,"Cleveland, USA",,,,,https://pyohio.org/2025/,,
+PyOhio 2026,2026-07-25,2026-07-27,"Cleveland, USA",,,,,,,
+PyOhio,,,"Ohio, United States",,,,,https://pyohio.org,,
+PyOhio,2017-07-29,2017-07-30,"Columbus, Ohio, United States of America",USA,The Ohio Union,2017-05-25,2017-05-25,https://www.pyohio.org,https://www.pyohio.org/call-for-proposals,https://www.pyohio.org/sponsors/prospectus
+PyOhio,2018-07-28,2018-07-29,"Columbus, Ohio, United States of America",USA,The Ohio Union,,2018-05-15,https://www.pyohio.org,https://www.pyohio.org/cfp,
+PyOhio,2019-07-27,2019-07-28,"Columbus, Ohio, United States of America",USA,The Ohio Union,2019-05-12,2019-05-12,https://www.pyohio.org/2019,https://www.pyohio.org/cfp,https://www.pyohio.org/2019/sponsorship
+PyOhio,2020-07-25,2020-07-26,"Columbus, Ohio, United States of America",USA,Online,,2020-06-14,https://www.pyohio.org/2020,https://www.pyohio.org/cfp,
+PyOhio,2021-07-31,2021-07-31,"Columbus, Ohio, United States of America",USA,Online,,2021-05-02,https://www.pyohio.org/2021,https://www.pyohio.org/cfp,
+PyOhio,2022-07-30,2022-07-30,"Columbus, Ohio, United States of America",USA,Online,,2022-05-15,https://www.pyohio.org/2022,https://www.pyohio.org/2022/speaking/call-for-proposals,
+PyOhio,2023-12-16,2023-12-16,"Ohio, United States of America",USA,Online,,,https://www.pyohio.org/2023/,,
+PyOhio,2024-07-27,2024-07-28,"Cleveland, Ohio, United States of America",USA,The Westin Cleveland Downtown,,2024-05-27,https://www.pyohio.org/2024/,https://www.pyohio.org/cfp,https://www.pyohio.org/prospectus
 PyOhio,2025-07-26,2025-07-27,"Cleveland, Ohio, United States of America",USA,Cleveland State University Student Center,2025-04-27,,https://www.pyohio.org/2025/,https://pretalx.com/pyohio-2025/cfp,https://www.pyohio.org/2025/PyOhio-2025-Sponsorship-Prospectus.pdf
+PyOhio,2025-07-26,2025-07-27,"Cleveland, Ohio, United States of America",USA,Cleveland State University Student Center,2025-04-27,,https://www.pyohio.org/2025/,https://pretalx.com/pyohio-2025/cfp,https://www.pyohio.org/2025/PyOhio-2025-Sponsorship-Prospectus.pdf
+PyOhio,2026-07-25,2026-07-26,"Cleveland, Ohio, United States of America",USA,Cleveland State University Student Center,,2026-04-20,https://www.pyohio.org/2026/,https://pretalx.com/pyohio-2026/cfp,https://www.pyohio.org/2026/PyOhio-2026-Sponsorship-Prospectus.pdf
+PyOhio,2027-07-24,2027-07-25,"Cleveland, Ohio, United States of United States of America",USA,Cleveland State University Student Center,,,,,
+PyPA sprint at Bloomberg NYC,2018-10-27,2018-10-29,"New York, NY, USA",,,,,https://wiki.python.org/psf/PackagingSprints,,
+PyParis 2017,2017-06-12,2017-06-14,"Paris, France",,,,,http://pyparis.org,,
+PyParis 2018,2018-11-14,2018-11-16,"Paris, France",,,,,http://pyparis.org,,
+PySangamam 2018,2018-09-07,2018-09-09,"Tamil Nadu, India",,,,,https://pysangamam.org,,
+PySangamam Chennai,2018-09-07,2018-09-08,"Chennai, Tamil Nadu, India",IND,,2018-07-20,2018-07-10,https://pysangamam.org,,
+PySer — Python Serbia Conference,2018-06-09,2018-06-10,"Novi Sad, Serbia",,,,,https://pyser.org,,
+PyTennessee 2017,2017-02-04,2017-02-06,"Nashville, Tennessee, USA",,,,,http://www.pytennessee.org,,
+PyTennessee 2018,2018-02-10,2018-02-12,"Nashville, TN, USA",,,,,https://www.pytennessee.org,,
+PyTennessee 2019,2019-02-09,2019-02-11,"Nashville, TN, United States",,,,,https://www.pytennessee.org,,
 PyTennessee,,,"Nashville, Tennessee, United States",,,,,https://pytennessee.org,,
+PyTennessee,,,"Nashville, Tennessee, United States",,,,,https://pytennessee.org,,
+PyTennessee,2018-02-10,2018-02-11,"Nashville, Tennessee, United States of America",USA,Nashville School of Law,2017-11-08,2017-11-08,http://www.pytennessee.org,https://www.pytennessee.org/speaking/cfp,http://www.pytennessee.org/sponsors/prospectus
+PyTennessee,2019-02-09,2019-02-10,"Nashville, Tennessee, United States of America",USA,Nashville School of Law,2018-11-01,2018-11-01,https://www.pytennessee.org,https://www.papercall.io/pytn2019,https://www.pytennessee.org/prospectus
+PyTennessee,2020-03-07,2020-03-08,"Nashville, Tennessee, United States of America",USA,Nashville School of Law,,,https://www.pytennessee.org,https://www.pytennessee.org/prospectus,
+PyTexas 2017,2017-11-18,2017-11-19,"119 Nueces St, Austin, TX 78701, USA",,,,,https://www.pytexas.org,,
+PyTexas 2019,2019-04-13,2019-04-15,"Austin, Texas, USA",,,,,https://www.pytexas.org/2019/,,
+PyTexas 2022,2022-03-26,2022-03-28,"Austin, TX, USA",,,,,http://pytexas.org,,
+PyTexas 2023,2023-04-01,2023-04-03,"Austin, TX, USA",,,,,http://pytexas.org,,
+PyTexas 2024,2024-04-19,2024-04-22,"Austin, Texas, USA",,,,,https://www.pytexas.org/2024/,,
 PyTexas 2025,2025-04-11,2025-04-14,"Austin, TX",,,,,http://pytexas.org/2025,,
+PyTexas 2025,2025-04-11,2025-04-14,"Austin, TX",,,,,http://pytexas.org/2025,,
+PyTexas 2026,2026-04-17,2026-04-20,"Austin, USA",,,,,https://www.pytexas.org/2026/,,
+PyTexas,,,"Texas, United States",,,,,https://pytexas.org,,
+PyTexas,2020-10-24,2020-10-25,"Austin, Texas, United States of America",USA,,,,https://www.pytexas.org/2020,,
+PyTexas,2023-04-01,2023-04-02,"Austin, Texas, United States of America",USA,Austin Central Public Library,,2023-01-15,https://www.pytexas.org,https://pretalx.com/pytexas-2023,https://www.pytexas.org/sponsors/prospectus
+PyTexas,2024-04-20,2024-04-21,"Austin, Texas, United States of America",USA,Austin Central Public Library,,2024-01-14,https://www.pytexas.org,https://pretalx.com/pytexas-2024/,https://pytexas.org/2024/sponsors/sponsor-us/
 PyTexas,2025-04-11,2025-04-13,"Austin, Texas, United States of America",USA,Austin Central Public Library,,2024-12-01,https://www.pytexas.org/2025,,https://www.pytexas.org/2025/sponsors/sponsor-us/
+PyTexas,2025-04-11,2025-04-13,"Austin, Texas, United States of America",USA,Austin Central Public Library,,2024-12-01,https://www.pytexas.org/2025,,https://www.pytexas.org/2025/sponsors/sponsor-us/
+PyTexas,2026-04-17,2026-04-19,"Austin, Texas United States",USA,Austin Central Library,,2025-12-07,https://www.pytexas.org/2026/,https://pretalx.com/pytexas-2026/,https://www.pytexas.org/2026/sponsors/sponsor-us/
 PyTorch Conference 2025,2025-10-22,2025-10-24,"San Francisco, USA",,,,,https://events.linuxfoundation.org/pytorch-conference-2025/,,
+PyTorch Conference 2025,2025-10-22,2025-10-24,"San Francisco, USA",,,,,https://events.linuxfoundation.org/pytorch-conference-2025/,,
+PyWeek 23 - Python community game jam,2017-02-19,2017-02-27,Online Event,,,,,https://pyweek.org/23,,
+PyWeek 32,2021-09-19,2021-09-20,On line,,,,,https://pyweek.org/32/,,
 PyWeek Game Jam 39,2025-03-23,2025-03-31,Online,,,,,https://pyweek.org/39/,,
+PyWeek Game Jam 39,2025-03-23,2025-03-31,Online,,,,,https://pyweek.org/39/,,
+Pycon Austria,,,Austria,,,,,https://pycon.at,,
 Pycon Israel,,,Israel,,,,,https://il.pycon.org,,
+Pycon Israel,,,Israel,,,,,https://il.pycon.org,,
+Pycon Senegambia,,,"Banjul, The Gambia",,,,,https://www.pyconsenegambia.org,,
 Pycon Tanzania,,,Tanzania,,,,,https://pycon.or.tz,,
+Pycon Tanzania,,,Tanzania,,,,,https://pycon.or.tz,,
+Pydata Global,2023-12-06,2023-12-08,Online,,,,2023-10-01,https://pydata.org/global2023/,https://pydata.org/global2023/cfp,https://pydata.org/global2023/sponsor
+Pyjamas Conf 2020,2020-12-05,2020-12-07,Online,,,,,https://pyjamas.live,,
+Pyjamas Conf 2021,2021-12-04,2021-12-06,Online,,,,,https://pyjamas.live,,
+Pyjamas Conf 2022,2022-11-26,2022-11-28,Online,,,,,https://pyjamas.live,,
+Pyjamas Conf,2020-12-05,2020-12-05,Worldwide,,Online,,2020-09-05,https://pyjamas.live,https://pyjamas.live/cfp,
+Pyjamas Conf,2023-12-09,2023-12-11,Online,,,,,https://pyjamas.live,,
+Pythology: Python on the Blockchain,2018-06-22,2018-06-23,"Launch Fishers, 12175 Visionary Way, Fishers, IN 46038, USA",,,,,https://www.eventbrite.com/e/pythology-one-day-conference-blockchain-tickets-42537283159,,
+Python Brasil 2017,2017-10-06,2017-10-12,"Belo Horizonte, State of Minas Gerais, Brazil",,,,,http://2017.pythonbrasil.org.br,,
+Python Brasil 2019,2019-10-23,2019-10-29,"Ribeirão Preto, São Paulo, Brazil",,,,,https://2019.pythonbrasil.org.br,,
+Python Brasil 2020,2020-11-02,2020-11-09,Online,,,,,,,
+Python Brasil 2023,2023-10-30,2023-11-06,"Caxias do Sul, RS, Brazil",,,,,https://2023.pythonbrasil.org.br,,
+Python Brasil 2024,2024-10-16,2024-10-21,"Rio de Janeiro, Brazil",,,,,https://2024.pythonbrasil.org.br,,
+Python Brasil 2025,2025-10-21,2025-10-28,"Sao Paulo, Brazil",,,,,https://2025.pythonbrasil.org.br,,
 Python Brasil 2025,2025-10-21,2025-10-28,"Sao Paulo, Brazil",,,,,https://2025.pythonbrasil.org.br/,,
+Python Brasil,,,Brazil,,,,,https://pythonbrasil.org.br,,
+Python Brasil,2017-10-06,2017-10-11,"Belo Horizonte, Minas Gerais, Brazil",BRA,,,,http://2017.pythonbrasil.org.br,,
+Python Brasil,2018-10-17,2018-10-22,"Natal, Rio Grande Do Norte, Brazil",BRA,,,2018-06-30,http://2018.pythonbrasil.org.br,https://speakerfight.com/events/python-brasil-2018-palestras,http://2018.pythonbrasil.org.br/#sponsors
+Python Brasil,2019-10-23,2019-10-28,"Ribeirão Preto, São Paulo, Brazil",BRA,Centro de Convenções Ribeirão Preto (CCRP),,,https://pythonbrasil.org.br,https://2019.pythonbrasil.org.br/submissao-de-palestras,https://2019.pythonbrasil.org.br/assets/pdfs/sponsorship_plan.pdf
+Python Brasil,2023-10-30,2023-11-05,"Serra Gaúcha, Rio Grande do Sul, Brazil",BRA,,,2023-06-08,https://2023.pythonbrasil.org.br,https://pretalx.com/python-brasil-2023/cfp,https://2023.pythonbrasil.org.br/patrocinio_python_brasil_2023.pdf
+Python Brasil,2024-10-16,2024-10-21,"Rio de Janeiro, Brazil",BRA,,,,https://2024.pythonbrasil.org.br/,,https://2024.pythonbrasil.org.br/#patrocinadores
 Python Brasil,2025-10-21,2025-10-27,"Sao Paulo, Brazil",BRA,São Luís Events Center,2025-04-27,2025-04-27,https://2025.pythonbrasil.org.br/,https://talks.python.org.br/pythonbrasil-2025/cfp,https://www.canva.com/design/DAGe_yZ0SdI/myPIGUAEQAnrwKhJE_7Bag/view?utm_content=DAGe_yZ0SdI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7f3e8c2330
+Python Brasil,2025-10-21,2025-10-27,"Sao Paulo, Brazil",BRA,São Luís Events Center,2025-04-27,2025-04-27,https://2025.pythonbrasil.org.br/,https://talks.python.org.br/pythonbrasil-2025/cfp,https://www.canva.com/design/DAGe_yZ0SdI/myPIGUAEQAnrwKhJE_7Bag/view?utm_content=DAGe_yZ0SdI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7f3e8c2330
+Python Communities - South West Region,2024-08-10,2024-08-11,"Buea, Cameroon",,,,,https://nokidbehind.org/event/play-with-python-tiko-south-west-region/,,
+Python Communities - University of Douala,2024-07-15,2024-07-17,"Douala, Cameroon",,,,,https://nokidbehind.org/event/building-micro-tech-communities-around-python-douala/,,
+Python Conference Austria 2025,2025-04-06,2025-04-08,"Eisenstadt, Austria",,,,,https://at.pycon.org,,
 Python Conference Austria 2025,2025-04-06,2025-04-08,"Eisenstadt, Austria",,,,,https://at.pycon.org/,,
+Python Day Mexico,2017-06-10,2017-06-10,"Mexico City, Federal District, Mexico",MEX,,,,https://www.toptal.com/events/2017-06-10/python-day-mexico,,
+Python Devroom @ FOSDEM 2024,2024-02-04,2024-02-05,"Brussels, Belgium",,,,,https://fosdem.org/2024/schedule/track/python-devroom/,,
+Python Devroom @ FOSDEM 2026,2026-01-31,2026-02-01,"Brussels, Belgium",,,,,https://fosdem.org/2026/schedule/track/python/,,
+Python Devroom @ FOSDEM,2024-02-04,2024-02-04,"Brussels, Belgium",BEL,,,2023-12-01,https://fosdem.org/2024/schedule/track/python-devroom/,,
 Python Devroom @ FOSDEM,2025-02-02,2025-02-02,"Brussels, Belgium",BEL,,,2024-12-01,https://fosdem.org/2025/schedule/track/python/,https://pretalx.fosdem.org/fosdem-2025/cfp,https://fosdem.org/2025/about/sponsors/
+Python Devroom @ FOSDEM,2025-02-02,2025-02-02,"Brussels, Belgium",BEL,,,2024-12-01,https://fosdem.org/2025/schedule/track/python/,https://pretalx.fosdem.org/fosdem-2025/cfp,https://fosdem.org/2025/about/sponsors/
+Python E-Commerce Forum,2026-11-26,2026-11-29,"Edinburgh, United Kingdom",,,,,https://codehut.co.uk/2026/,,
+Python Education Summit Kigali,2023-04-14,2023-04-16,"Kampala, Uganda",,,,,http://afrodjangoinitiatives.org/event/9,,
+Python Leiden User Group,2026-05-28,2026-05-28,"Leiden, The Netherlands",,,,,https://pythonleiden.nl/meeting-2026-05-28.html?py,,
 Python Niger,,,,,,,,,,
+Python Niger,2024-04-28,2024-04-28,"Maradi, Niger Republic",NER,,,,https://fb.me/e/8alLCsc39,,
+Python Nordeste 2020,2020-07-17,2020-07-20,"Fortaleza, Ceará, Brasil",,,,,https://2020.pythonnordeste.org,,
+Python Nordeste 2022,2022-08-26,2022-08-29,"Aracaju, Brazil",,,,,https://2022.pythonnordeste.org,,
+Python Nordeste 2024,2024-08-09,2024-08-11,"Natal, Brazil",,,,,https://2024.pythonnordeste.org,,
+Python Nordeste 2025,2025-06-20,2025-06-23,"Piauí, Brazil",,,,,https://2025.pythonnordeste.org,,
 Python Nordeste 2025,2025-06-20,2025-06-23,"Piauí, Brazil",,,,,https://2025.pythonnordeste.org/,,
+Python Nordeste 2026 (PyNE 2026),2026-08-13,2026-08-16,"Fortaleza, Ceará, Brazil",,,,,https://2026.pythonnordeste.org,,
+Python Nordeste,2024-08-09,2024-08-11,"Natal, Brazil",BRA,,,2024-03-04,https://2024.pythonnordeste.org/,https://even3.com.br/python-nordeste-2024/,https://drive.google.com/file/d/1WvfelX-Sfp79YcUbf8Hs6e-MtPabVSmO/view
+Python Norte 2024,2024-09-27,2024-09-29,"Itacoatiara, Amazonas, Brazil",,,,,https://2024.pythonnorte.org,,
+Python Norte 2025,2025-06-04,2025-06-07,"Belém, Brazil",,,,,https://2025.pythonnorte.org,,
 Python Norte 2025,2025-06-04,2025-06-07,"Belém, Brazil",,,,,https://2025.pythonnorte.org/,,
 Python Norte 2025,2025-07-04,2025-07-07,"Belém, Pará, Brazil",,,,,https://2025.pythonnorte.org/en,,
+Python Norte 2025,2025-07-04,2025-07-07,"Belém, Pará, Brazil",,,,,https://2025.pythonnorte.org/en,,
+Python Norte 2026,2026-07-03,2026-07-06,"Ananindeua, Pará, Brazil",,,,,https://2026.pythonnorte.org,,
+Python Pizza Hamburg,2023-11-17,2023-11-17,"Hamburg, Germany",DEU,,,2023-09-30,https://hamburg.python.pizza/,https://forms.gle/Mssgv25KUgjBv3hN6,https://hamburg.python.pizza/#sponsors
+Python Pizza Istanbul,2026-11-14,2026-11-14,"Istanbul, Turkey",TUR,StartGate Istanbul,,2026-09-07,https://istanbul.python.pizza/,https://istanbul.python.pizza/cfp/,https://istanbul.python.pizza/sponsors/
+Python Pizza Istanbul,2026-11-14,2026-11-15,"Istanbul, Turkey",,,,,https://istanbul.python.pizza,,
+Python Pizza New Year's Party,2020-12-31,2021-01-01,Online,,,,,https://hamburg.python.pizza,,
+Python Pizza New Years Party,2020-12-31,2021-12-01,Worldwide,,Online,,2020-12-20,https://hamburg.python.pizza,https://pysv10.fe.rzob.gocept.net/en_GB/cfp,
 Python Pizza Prague,,,,,,,,,,
+Python Pizza Prague,2024-02-24,2024-02-24,"Prague, Czechia",CZE,,,2023-12-31,https://prague.python.pizza/,https://docs.google.com/forms/d/e/1FAIpQLSfaDox_HZ2il0KOoohtYQJxVbhuTlwMFpmbz8bp-WOoLVQlNQ/viewform?usp=sf_link,
+Python San Sebastian 2017 (PySS17),2017-10-06,2017-10-09,"San Sebastián, Gipuzkoa, Spain",,,,,http://pyss17.pyss.org,,
+Python San Sebastian 2018,2018-10-12,2018-10-15,"Kursaal, Zurríola Hiribidea, 1, 20002 Donostia, Gipuzkoa, Spain",,,,,,,
+Python Sudeste 2019,2019-04-26,2019-04-29,"Vitória - ES, Brasil",,,,,http://2019.pythonsudeste.org,,
+Python Sudeste Brasil,2018-04-28,2018-04-29,"São Paulo, São Paulo, Brazil",BRA,,2018-02-28,2018-02-28,http://pythonsudeste.org,,http://pythonsudeste.org/#sponsors
+Python Sul 2024 (Brazil),2024-09-13,2024-09-16,"Florianópolis - SC, Brazil",,,,,https://sul.python.org.br,,
+Python Sul 2025,2025-11-21,2025-11-24,"Porto Alegre, Brazil",,,,,https://sul.python.org.br,,
+Python Sul Brasil,2018-04-06,2018-04-08,"Florianópolis, Santa Catarina, Brazil",BRA,,,,http://pythonsul.org,,http://pythonsul.org/#sponsors
 Python Sul,,,,,,,,,,
+Python Sul,2017-09-08,2017-09-11,"Universidade de Caxias do Sul (UCS), Caxias do Sul, Rio Grande do Sul, Brazil",,,,,http://pythonsul.org,,
+Python Sul,2024-09-13,2024-09-15,"Florianópolis, Brazil",BRA,,,,https://sul.python.org.br/,,
 Python Unconference,,,"Hamburg, Germany",,,,,https://web.archive.org/web/20170703234229/www.pyunconf.de/en/,,
+Python Unconference,,,"Hamburg, Germany",,,,,https://web.archive.org/web/20170703234229/www.pyunconf.de/en/,,
+Python Unplugged on PyTV,2026-03-04,2026-03-05,Online,,,,,https://lp.jetbrains.com/python-unplugged/,,
+Python Web Conf 2023,2023-03-13,2023-03-18,Online,,,,,https://2023.pythonwebconf.com,,
+Python Web Conf,2020-06-17,2020-06-19,"Fishers, Indiana, United States of America",USA,Online,,,https://2020.pythonwebconf.com,,
+Python Web Conf,2023-03-13,2023-03-17,"Fishers, Indiana, United States of America",USA,Online,,2022-10-01,https://2023.pythonwebconf.com,,
+Python Web Conference 2020 (Online-Worldwide),2020-06-17,2020-06-20,https://2020.pythonwebconf.com,,,,,https://2020.pythonwebconf.com,,
+Python Web Conference 2021,2021-03-22,2021-03-27,"Global, but organizers based in US",,,,,https://pythonwebconference.com,,
+Python Web Conference 2022,2022-03-21,2022-03-26,Online,,,,,https://pythonwebconference.com,,
+Python at Scale,2022-10-27,2022-10-29,"Texas, USA and Online",,,,,https://www.pythonatscale.com,,
 Python devroom @ FOSDEM 2025,2025-02-02,2025-02-03,"Brussels, Belgium",,,,,https://fosdem.org/2025/schedule/track/python/,,
+Python devroom @ FOSDEM 2025,2025-02-02,2025-02-03,"Brussels, Belgium",,,,,https://fosdem.org/2025/schedule/track/python/,,
+Python for ML and AI Global Summit'21,2021-04-08,2021-04-10,,,,,,https://link.geekle.us/python/offsite,,
+Python fwdays 2024,2024-04-20,2024-04-21,"Kyiv, Ukraine",,,,,https://fwdays.com/en/event/python-ds-fwdays-2024,,
+Python fwdays'20,2020-05-16,2020-05-16,Online,,,,,https://fwdays.com/en/event/python-fwdays-conference,,
+Python fwdays'20,2020-05-23,2020-05-23,Online,,,,,https://fwdays.com/en/event/python-fwdays-conference,,
 Python fwdays,,,,,,,,,,
+Python fwdays,2019-12-14,2019-12-14,"Kyiv, Kyiv Oblast, Ukraine",UKR,Online,,2019-11-28,https://fwdays.com/en/event/python-fwdays-online-conference,https://docs.google.com/forms/d/e/1FAIpQLSde6NvTplJa_S8AwDYbXPHqCrUDlEGvaq_78xD2VyPgV6Cz6g/viewform,
+Python fwdays,2020-05-16,2020-05-23,"Kyiv, Kyiv Oblast, Ukraine",UKR,Online,,,https://fwdays.com/en/event/python-fwdays-conference,,
+Python fwdays,2024-04-20,2024-04-20,"Kyiv, Ukraine",UKR,,,2024-03-20,https://fwdays.com/en/event/python-ds-fwdays-2024,https://docs.google.com/forms/d/e/1FAIpQLScnUVAZxseEr8a3p7jUj7D6q-U3LoiFA3Z1I4mAqR0ovUW1-g/closedform,
 Python-Driven E-Commerce Forum 2025,2025-10-06,2025-10-09,Online,,,,,https://www.codeuk.net/python-intelligence-2025,,
+Python-Driven E-Commerce Forum 2025,2025-10-06,2025-10-09,Online,,,,,https://www.codeuk.net/python-intelligence-2025,,
+PythonAsia 2026,2026-03-21,2026-03-24,"Malate, Philippines",,,,,https://2026.pythonasia.org,,
+PythonAsia,2026-03-21,2026-03-23,"Malate, Manila",PHL,De La Salle University Manila,,2025-11-30,https://2026.pythonasia.org,https://pretalx.com/python-asia-2026,https://bit.ly/PythonAsia2026-CallForSponsors
+PythonCamp 2017,2017-04-08,2017-04-10,"GFU Cyrus AG , Am Grauen Stein 27, 51105 Köln, Germany",,,,,http://pythoncamp.de,,
+PythonCamp 2018 - Cologne,2018-04-07,2018-04-09,"GFU Cyrus AG, Am Grauen Stein 27, 51105 Köln, Germany",,,,,http://pythoncamp.de,,
+PythonCamp 2019 - Cologne,2019-04-13,2019-04-15,"GFU Cyrus AG, Am Grauen Stein 27,,51105 Köln, Germany",,,,,http://pythoncamp.de,,
 PythonCamp,,,"Cologne, Germany",,,,,https://pythoncamp.de,,
+PythonCamp,,,"Cologne, Germany",,,,,https://pythoncamp.de,,
+PythonDay Mexico 2018,2018-11-30,2018-12-02,"Guadalajara, Mexico",,,,,https://www.papercall.io/pydaymx2018,,
+PythonDay Mexico,2017-06-10,2017-06-11,"Isabel la Católica 51, Centro, 06010 Mexico City, Mexico",,,,,http://pythonday.mx,,
+PythonDay México,2018-11-30,2018-12-01,"Guadalajara, Bajío, México",MEX,,2018-09-01,2018-09-01,http://pythonday.mx,https://www.papercall.io/pydaymx2018,http://pythonday.mx/#sponsors
+PythonDay México,2019-10-18,2019-10-19,"Mexico City, Federal District, Mexico",MEX,"Auditorio Javier Barros Sierra, Facultad de Ingeniería e IIMAS, UNAM",2019-09-27,2019-09-27,http://pythonday.mx,https://www.papercall.io/pythondaymx2019,
+PythonFOSDEM 2017,2017-02-04,2017-02-06,"Université Libre de Bruxelles, Franklin Rooseveltlaan 50, 1050 Brussel, Belgium",,,,,http://python-fosdem.org,,
+PythonHo Conference 2024,2024-10-26,2024-10-28,"Ho, Volta Region, Ghana",,,,,https://2024.pythonho.com,,
+Pyweek games programming contest,2018-10-21,2018-10-29,,,,,,https://pyweek.org/26/,,
+Remote Python Pizza,2020-04-25,2020-04-25,Worldwide,,Online,,2020-04-06,https://remote.python.pizza,https://forms.gle/j5D8EMWPfbvWJbtz7,
+Remote Python Pizza,2020-04-25,2020-04-26,Online Event,,,,,https://remote.python.pizza,,
+Rencontres Django 2017,2017-04-01,2017-04-03,"Toulon, France",,,,,http://rencontres.django-fr.org/2017/,,
+SciPy 2017,2017-07-10,2017-07-15,"Austin, TX, USA",,,,,http://scipy2017.scipy.org,,
+SciPy 2018,2018-07-09,2018-07-16,"Austin, TX, USA",,,,,https://scipy2018.scipy.org,,
+SciPy 2019,2019-07-08,2019-07-15,"Austin, TX, US",,,,,https://www.scipy2019.scipy.org,,
+SciPy 2020,2020-07-06,2020-07-13,Online,,,,,https://www.scipy2020.scipy.org,,
+SciPy 2021,2021-07-12,2021-07-19,"Austin, TX, US",,,,,https://www.scipy2021.scipy.org,,
+SciPy 2023,2023-07-10,2023-07-17,"Austin, Texas, USA",,,,,https://www.scipy2023.scipy.org,,
 SciPy 2025,2025-07-07,2025-07-14,"Tacoma, WA, USA",,,,,https://www.scipy2025.scipy.org/about,,
+SciPy 2025,2025-07-07,2025-07-14,"Tacoma, WA, USA",,,,,https://www.scipy2025.scipy.org/about,,
+SciPy 2026,2026-07-13,2026-07-20,"Minneapolis, MN, USA",,,,,https://www.scipy2026.scipy.org,,
+SciPy India 2017,2017-11-29,2017-12-01,"LCH, IIT Bombay, Powai, Mumbai, India",,,,,http://www.scipy.in,,
+SciPy India 2026,2026-12-19,2026-12-21,"Chennai, Tamil Nadu, India",,,,,https://scipy.in/2026/,,
+SciPy India,,,India,,,,,https://scipy.in,,
+SciPy India,2026-12-19,2026-12-20,"Chennai, Tamil Nadu, India",IND,Indian Institute of Technology Madras,2026-10-19,2026-10-19,https://scipy.in/2026/,https://cfp.scipy.in/scipy-india-2026,https://scipy.in/2026/sponsor.html
+SciPy Japan 2019,2019-04-23,2019-04-25,"Tokyo, Japan",,,,,https://www.scipyjapan2019.scipy.org,,
+SciPy Japan 2020,2020-10-30,2020-11-03,Online,,,,,https://www.scipyjapan.scipy.org,,
+SciPy Latam,2019-10-08,2019-10-11,"Bogota, Colombia",,,,,http://conf.scipyla.org/en/,,
+SciPy Latin America,2017-10-13,2017-10-16,"Havana, Havana, Cuba",CUB,,2017-08-15,2017-08-15,https://conf.scipyla.org,,http://conf.scipyla.org/sponsors/prospectus
+SciPy Latin America,2018-08-29,2018-09-01,"Curitiba, Paraná, Brazil",BRA,,,,https://conf.scipyla.org,,mailto:sponsor@scipyla.org
+SciPy Latin America,2022-09-26,2022-09-28,"Salta, Salta, Argentina",ARG,Universidad Nacional de Salta,,,https://pythoncientifico.ar,https://pythoncientifico.ar/pages/llamado-a-propuestas,https://pythoncientifico.ar/sponsors
+SciPy US 2024,2024-07-08,2024-07-14,"Tacoma, USA",,,,,https://scipy2024.scipy.org,,
+SciPy,,,United States,,,,,https://conference.scipy.org,,
+SciPy,2018-07-09,2018-07-15,"Austin, Texas, United States of America",USA,,2018-02-09,2018-02-09,https://scipy2018.scipy.org,https://scipy2018.scipy.org/ehome/299527/648140,https://scipy2018.scipy.org/ehome/299527/648129
+SciPy,2019-07-08,2019-07-14,"Austin, Texas, United States of America",USA,,,,https://www.scipy2019.scipy.org,,
+SciPy,2020-07-06,2020-07-12,"Austin, Texas, United States of America",USA,Online,2020-02-11,2020-02-11,https://www.scipy2020.scipy.org,https://www.scipy2020.scipy.org/participate,https://www.scipy2020.scipy.org/sponsors-job-fair
+SciPy,2023-07-10,2023-07-16,"Austin, Texas, United States of America",USA,AT&T Center,,2023-03-01,https://www.scipy2023.scipy.org,https://www.scipy2023.scipy.org/present,https://www.scipy2023.scipy.org/sponsor
 SciPy,2025-07-07,2025-07-13,"Tacoma, Washington, United States of America",USA,Tacoma Convention Center,,2025-03-05,https://www.scipy2025.scipy.org,https://cfp.scipy.org/scipy2025/cfp,https://www.scipy2025.scipy.org/s/SciPy-2025-Sponsorship-Prospectus.pdf
+SciPy,2025-07-07,2025-07-13,"Tacoma, Washington, United States of America",USA,Tacoma Convention Center,,2025-03-05,https://www.scipy2025.scipy.org,https://cfp.scipy.org/scipy2025/cfp,https://www.scipy2025.scipy.org/s/SciPy-2025-Sponsorship-Prospectus.pdf
+SciPy,2026-07-13,2026-07-19,"Minneapolis, Minnesota, United Status of America",USA,University of Minnesota,2026-05-04,2026-05-04,https://www.scipy2026.scipy.org/,https://pretalx.com/scipy-2026/cfp,https://www.scipy2026.scipy.org/
 SciPy.in,,,India,,,,,https://scipy.in,,
+Science Hack Day India 2017,2017-10-13,2017-10-16,"Belgaum, India",,,,,http://sciencehackday.in,,
+Scipy,2024-07-08,2024-07-14,"Tacoma, Washington, United States of America",USA,,,2024-02-27,https://scipy2024.scipy.org,https://cfp.scipy.org/2024/cfp,
+SpaceCon 2025,2025-04-11,2025-04-12,"Kathmandu, Nepal",,,,,https://spacecon.antarikchya.org.np,,
 SpaceCon 2025,2025-04-11,2025-04-12,"Kathmandu, Nepal",,,,,https://spacecon.antarikchya.org.np/,,
+StatusCode 2 Hackathon,2025-08-23,2025-08-25,"Haringhata Farm, West Bengal, India",,,,,https://hackathon.iiitkalyani.ac.in,,
 StatusCode 2 Hackathon,2025-08-23,2025-08-25,"Haringhata Farm, West Bengal, India",,,,,https://hackathon.iiitkalyani.ac.in/,,
+Swiss Python Summit (cancelled),2020-10-23,2020-10-24,"Rapperswil, Switzerland",,,,,https://www.python-summit.ch,,
+Swiss Python Summit 2018,2018-02-16,2018-02-17,"HSR University of Applied Sciences, Rapperswil, Switzerland",,,,,http://www.python-summit.ch,,
+Swiss Python Summit 2023,2023-09-21,2023-09-22,"Rapperswil, Switzerland",,,,,https://www.python-summit.ch,,
+Swiss Python Summit 2024,2024-10-17,2024-10-19,"Rapperswil, Switzerland",,,,,https://python-summit.ch,,
+Swiss Python Summit 2025,2025-10-16,2025-10-18,"Rapperswil, Switzerland",,,,,https://www.python-summit.ch,,
 Swiss Python Summit 2025,2025-10-16,2025-10-18,"Rapperswil, Switzerland",,,,,https://www.python-summit.ch/,,
+Swiss Python Summit 2026,2026-10-22,2026-10-24,"Rapperswil, Switzerland",,,,,https://www.python-summit.ch,,
+Swiss Python Summit,2017-02-17,2017-02-18,"Rapperswil, Switzerland",,,,,http://www.python-summit.ch,,
+Swiss Python Summit,2018-02-16,2018-02-16,"Rapperswil, Rapperswil-Jona, Switzerland",CHE,,,,https://www.python-summit.ch,,
+Swiss Python Summit,2023-09-21,2023-09-21,"Rapperswil, Rapperswil-Jona, Switzerland",CHE,OST Eastern Switzerland University of Applied Sciences,,2023-07-01,https://www.python-summit.ch,https://www.python-summit.ch/cfp,https://www.python-summit.ch/helpus
+Swiss Python Summit,2024-10-17,2024-10-18,"Rapperswil, Switzerland",CHE,,,,https://python-summit.ch,,
 Swiss Python Summit,2025-10-16,2025-10-17,"Rapperswil, Switzerland",CHE,OST Campus,,2025-05-31,https://www.python-summit.ch,https://www.python-summit.ch/cfp/,https://www.python-summit.ch/sponsoring/
+Swiss Python Summit,2025-10-16,2025-10-17,"Rapperswil, Switzerland",CHE,OST Campus,,2025-05-31,https://www.python-summit.ch,https://www.python-summit.ch/cfp/,https://www.python-summit.ch/sponsoring/
+Swiss Python Summit,2026-10-22,2026-10-23,"Rapperswil, Switzerland",CHE,OST campus,,2026-06-15,https://www.python-summit.ch/,https://python-summit.ch/cfp/,https://python-summit.ch/sponsoring/
 Wagtail Space 2025,2025-10-08,2025-10-11,Online,,,,,https://events.zoom.us/ev/AtWesoZI_eMUAZtG3IN1jHe29h3D8ymQo_CtHXHif8OXHxce920A~AsPDB_wMeHEWoOe5NMmxxfUvLYmDix4jgAeEnfHjMc5yHnblkIJ88jr23fxwtHhVFjK-X8n_7gP1dGlP2Nok1bHg4A,,
+Wagtail Space 2025,2025-10-08,2025-10-11,Online,,,,,https://events.zoom.us/ev/AtWesoZI_eMUAZtG3IN1jHe29h3D8ymQo_CtHXHif8OXHxce920A~AsPDB_wMeHEWoOe5NMmxxfUvLYmDix4jgAeEnfHjMc5yHnblkIJ88jr23fxwtHhVFjK-X8n_7gP1dGlP2Nok1bHg4A,,
+Wagtail Space 2026,2026-11-18,2026-11-21,Online,,,,,https://wagtail.org/wagtail-space-2026/,,
 Wagtail Space NL,,,,,,,,,,
+Wagtail Space NL,2024-06-12,2024-06-14,"Arnhem, Netherlands",NLD,,,2024-03-08,https://nl.wagtail.space/,https://nl.wagtail.space/call-for-participation,https://nl.wagtail.space/sponsors
+Wagtail Space NL,2024-06-12,2024-06-15,"Arnhem, The Netherlands",,,,,https://nl.wagtail.space,,
 Wagtail Space US,,,,,,,,,,
+Wagtail Space US,2024-06-20,2024-06-22,"Philadelphia, Pennsylvania, United States of America",USA,,,2024-04-22,https://us.wagtail.space/,https://us.wagtail.space/#speak,https://us.wagtail.space/#sponsors
+Wagtail Space US,2024-06-20,2024-06-23,"Philadelphia, PA, USA",,,,,https://us.wagtail.space,,
+Warsaw Python Pizza,2026-05-09,2026-05-09,"Warsaw, Poland",POL,"PJAIT building A, Koszykowa 86",,2026-04-12,https://warsaw.python.pizza,https://forms.gle/5pqj68ES9ENaGPBf6,https://warsaw.python.pizza/#sponsors
+WeAreDevelopers Live - Python Day,2021-02-17,2021-02-18,Online event,,,,,https://wearedevelopers.com/event/python-day,,
 Web Summer Camp,2025-07-03,2025-07-05,"Opatija, Croatia",HRV,Hotel Ambasador,,2025-03-15,https://websummercamp.com/,,
+Web Summer Camp,2025-07-03,2025-07-05,"Opatija, Croatia",HRV,Hotel Ambasador,,2025-03-15,https://websummercamp.com/,,
+Women Who Code CONNECT Forward 2021,2021-11-18,2021-11-20,Online,,,,,https://connectforward.womenwhocode.dev,,
+World Conference on Data Science & Statistics,2023-06-26,2023-06-29,"Frankfurt, Germany",,,,,https://datascience.thepeopleevents.com,,
+World Conference on Data Science & Statistics,2024-06-17,2024-06-20,"Amsterdam, Netherlands",,,,,https://datascience.thepeopleevents.com,,
+Xtreme Python,2021-11-24,2021-11-25,Online (Israel),,,,,https://xtremepython.dev,,
+XtremePython 2022,2022-12-27,2022-12-28,Online,,,,,https://www.xtremepython.dev,,
+XtremePython 2023,2023-12-05,2023-12-06,Online,,,,,https://xtremepython.dev,,
+XtremePython 2025,2025-11-18,2025-11-19,online,,,,,https://xtremepython.dev,,
 XtremePython 2025,2025-11-18,2025-11-19,online,,,,,https://xtremepython.dev/,,
+XtremePython 2026,2026-11-17,2026-11-18,Online,,,,,https://xtremepython.dev,,
+XtremePython,2023-12-05,2023-12-05,Online,,,,2023-11-01,https://xtremepython.dev/2023/,https://forms.gle/7dv6iqToggY8Gshs5,https://xtremepython.dev/2023/sponsors/
+enterPy (cancelled),2020-11-23,2020-11-25,"Heidelberg, Germany",,,,,https://www.enterpy.de,,
+enterPy 2022,2022-10-25,2022-10-26,Online,,,,,https://www.enterpy.de,,
+sciwork 2023,2023-12-09,2023-12-11,,,,,,https://conf.sciwork.dev,,

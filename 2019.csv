@@ -1,51 +1,80 @@
 Subject,Start Date,End Date,Location,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
-PyCon Colombia,2019-02-08,2019-02-10,"Medellin, Antioquia, Colombia",COL,,2018-09-01,2018-09-01,https://www.pycon.co,https://www.papercall.io/pycon-colombia-2019-talks,
-PyTennessee,2019-02-09,2019-02-10,"Nashville, Tennessee, United States of America",USA,Nashville School of Law,2018-11-01,2018-11-01,https://www.pytennessee.org,https://www.papercall.io/pytn2019,https://www.pytennessee.org/prospectus
+FOSDEM: Python Dev Room,2019-02-02,2019-02-04,"Brussels, Belgium",BEL,,,,https://fosdem.org/2019,,
+PyCon Colombia,2019-02-08,2019-02-10,"Medellín, Antioquia, Colombia",COL,,2018-09-01,2018-09-01,https://www.pycon.co,https://www.papercall.io/pycon-colombia-2019-talks,
+PyTennessee,2019-02-09,2019-02-10,"Nashville, Tennessee, USA",USA,Nashville School of Law,2018-11-01,2018-11-01,https://www.pytennessee.org,https://www.papercall.io/pytn2019,https://www.pytennessee.org/prospectus
 PyCon Belarus,2019-02-15,2019-02-16,"Minsk, Minsk, Belarus",BLR,,,2018-12-24,https://by.pycon.org,https://www.papercall.io/pyconby,https://drive.google.com/file/d/1DEY7aYs7byXUwZLozHhoHs8uuLHq_la1/view
-PyCaribbean,2019-02-16,2019-02-17,"Santo Domingo, National District, Dominican Republic",DOM,,,2018-11-15,http://pycaribbean.com,https://www.papercall.io/pycaribbean-2019,
-PyCascades,2019-02-23,2019-02-24,"Seattle, Washington, United States of America",USA,University of Washington,,2018-10-21,https://2019.pycascades.com,https://www.papercall.io/pycascades-2019,https://2019.pycascades.com/become-a-sponsor
-PyCon Asia Pacific,2019-02-23,2019-02-24,"Manila, National Capital Region, Philippines",PHL,,,,https://pycon-tickets.python.ph,,https://docs.google.com/forms/d/e/1FAIpQLSfZ7g2QxEpA13QvvHUXvLHcQ0KAiJBEidDMY5UpRRPs_bb4gA/viewform
+PyCaribbean,2019-02-16,2019-02-17,"Santo Domingo, National District, Dominican Republic",DOM,,,2018-11-15,https://pycaribbean.com,https://www.papercall.io/pycaribbean-2019,
+PyCon Namibia,2019-02-19,2019-02-22,"Windhoek, Namibia",NAM,,,,https://na.pycon.org,,
+Berlin Python Pizza,2019-02-23,2019-02-24,"Berlin, Germany",DEU,,,,https://berlin.python.pizza,,
+PyCascades,2019-02-23,2019-02-24,"Seattle, Washington, USA",USA,University of Washington,,2018-10-21,https://2019.pycascades.com,https://www.papercall.io/pycascades-2019,https://2019.pycascades.com/become-a-sponsor
+PyCon Asia Pacific,2019-02-23,2019-02-24,"Manila, National Capital Region, The Philippines",PHL,,,,https://pycon-tickets.python.ph,,https://docs.google.com/forms/d/e/1FAIpQLSfZ7g2QxEpA13QvvHUXvLHcQ0KAiJBEidDMY5UpRRPs_bb4gA/viewform
 PyCon Odessa,2019-03-16,2019-03-16,"Odessa, Odesa Oblast, Ukraine",UKR,Shantambala Retreat & Resort,,,https://pyconodessa.com/en/2019,,
-PyCon Slovakia,2019-03-22,2019-03-24,"Bratislava, Bratislava, Slovakia",SVK,,,,https://2019.pycon.sk,,
-DjangoCon Europe,2019-04-10,2019-04-12,"Copenhagen, Hovedstaden, Denmark",DNK,,,,https://2019.djangocon.eu,,
-PyCon US,2019-05-01,2019-05-09,"Cleveland, Ohio, United States of America",USA,Huntington Convention Center,2018-11-26,2019-01-03,https://us.pycon.org/2019,https://us.pycon.org/2019/speaking,https://us.pycon.org/2019/sponsors/prospectus
-PyCon Italia,2019-05-02,2019-05-05,"Florence, Tuscany, Italy",ITA,Grand Hotel Mediterraneo,,2019-01-06,https://www.pycon.it/en,https://www.pycon.it/en/call-for-proposals,https://www.pycon.it/en/sponsor
+IndyPy Automate Conf,2019-03-22,2019-03-23,"Indiana, USA",USA,,,,https://2019.indypy.org/automate,,
+PyCon SK,2019-03-22,2019-03-25,"Bratislava, Slovakia",SVK,,,,https://2019.pycon.sk/en,,
+Moscow Python Conf++,2019-04-05,2019-04-06,"Moscow, Russia",RUS,,,,https://mpc2019.tilda.ws,,
+DjangoCon Europe,2019-04-10,2019-04-15,"Copenhagen, Denmark",DNK,,,,https://2019.djangocon.eu,,
+PyTexas,2019-04-13,2019-04-15,"Austin, Texas, USA",USA,,,,https://www.pytexas.org/2019,,
+PythonCamp - Cologne,2019-04-13,2019-04-15,"Köln, Germany",DEU,"GFU Cyrus AG
+",,,https://pythoncamp.de,,
+SciPy Japan,2019-04-23,2019-04-25,"Tokyo, Japan",JPN,,,,https://www.scipyjapan2019.scipy.org,,
+Python Sudeste,2019-04-26,2019-04-29,"Vitória - ES, Brasil",BRA,,,,https://2019.pythonsudeste.org,,
+PyCon US,2019-05-01,2019-05-09,"Cleveland, Ohio, USA",USA,Huntington Convention Center,2018-11-26,2019-01-03,https://us.pycon.org/2019,https://us.pycon.org/2019/speaking,https://us.pycon.org/2019/sponsors/prospectus
+PyCon Italia,2019-05-02,2019-05-05,"Firenze, Italia",ITA,Grand Hotel Mediterraneo,,2019-01-06,https://www.pycon.it/en,https://www.pycon.it/en/call-for-proposals,https://www.pycon.it/en/sponsor
 PyDays Vienna,2019-05-03,2019-05-04,"Vienna, Vienna, Austria",AUT,,,,https://www.pydays.at,,
-PyData Amsterdam,2019-05-10,2019-05-12,"Amsterdam, North Holland, The Netherlands",NLD,,,,https://pydata.org/amsterdam2019,,
+PyData Amsterdam,2019-05-10,2019-05-12,"Amsterdam, The Netherlands",NLD,,,,https://pydata.org/amsterdam2019,,
 PyCon mini Sapporo,2019-05-11,2019-05-11,"Sapporo, Hokkaido, Japan",JPN,Sapporo Business Innovation Center,,,https://sapporo.pycon.jp/2019,,
 PyCon Kyushu in Okinawa,2019-05-18,2019-05-18,"Okinawa, Okinawa Prefecture, Japan",JPN,University of the Ryukyus,,,https://kyushu.pycon.jp/2019,,
-PyCon Israel,2019-06-02,2019-06-05,"Ramat Gan, Tel Aviv, Israel",ISR,,,,https://il.pycon.org/2019,,
-PyCon Czech Republic,2019-06-14,2019-06-16,"Ostrava, Moravian-Silesian, Czech Republic",CZE,Dolní oblast Vítkovice,,,https://cz.pycon.org/2019,,https://cz.pycon.org/2019/static/pyconcz-2019-sponsorship-prospectus.pdf
+PyConWeb,2019-05-25,2019-05-27,"Microsoft Deutschland GmbH, Walter-Gropius-Straße 5, München, Germany",DEU,,,,https://pyconweb.com,,
+PyCon Israel,2019-06-03,2019-06-06,"Ramat Gan, Israel",ISR,,,,https://il.pycon.org/2019,,
+PyCon CZ,2019-06-14,2019-06-16,"Ostrava, Moravian-Silesian, Czech Republic",CZE,Dolní oblast Vítkovice,,,https://cz.pycon.org/2019,,https://cz.pycon.org/2019/static/pyconcz-2019-sponsorship-prospectus.pdf
 PyLondinium,2019-06-14,2019-06-16,"London, England, United Kingdom",GBR,Bloomberg's European HQ,,,https://pylondinium.org,,
+PyCon Thailand,2019-06-15,2019-06-17,"Bangkok, Thailand",THA,,,,https://th.pycon.org/en,,
 PyCon Russia,2019-06-24,2019-06-25,"Tarusa, Tarussky, Russia",RUS,Hotel Cronwell Yahonty Tarusa,,,https://pycon.ru,,
-GeoPython,2019-06-24,2019-06-26,"Basel, Basel-Stadt, Switzerland",CHE,,,,http://2019.geopython.net,,http://2019.geopython.net/GeoPython_Sponsoring_2019_lowres.pdf
+GeoPython,2019-06-24,2019-06-26,"Basel, Basel-Stadt, Switzerland",CHE,,,,https://2019.geopython.net,,https://2019.geopython.net/GeoPython_Sponsoring_2019_lowres.pdf
+PyDay Pereira,2019-06-29,2019-06-30,"Pereira, Colombia",COL,,,,https://pereira.pyday.co,,
+PyDayNEA,2019-06-29,2019-06-30,"Resistencia, Chaco Province, Argentina",ARG,,,,https://eventos.python.org.ar/events/pydaynea2019,,
+Caipyra,2019-07-07,2019-07-11,"São Carlos, SP, Brasil",BRA,,,,https://caipyra.python.org.br,,
 EuroPython,2019-07-08,2019-07-14,"Basel, Basel-Stadt, Switzerland",CHE,FHNW & Convention Center Basel,,,https://ep2019.europython.eu,,
-SciPy,2019-07-08,2019-07-14,"Austin, Texas, United States of America",USA,,,,https://www.scipy2019.scipy.org,,
+SciPy,2019-07-08,2019-07-15,"Austin, TX, USA",USA,,,,https://www.scipy2019.scipy.org,,
 PyData London,2019-07-12,2019-07-14,"London, Greater London, United Kingdom",GBR,The Tower Hotel,,,https://pydata.org/london2019,,
-PyOhio,2019-07-27,2019-07-28,"Columbus, Ohio, United States of America",USA,The Ohio Union,2019-05-12,2019-05-12,https://www.pyohio.org/2019,https://www.pyohio.org/cfp,https://www.pyohio.org/2019/sponsorship
-PyCon Australia,2019-08-02,2019-08-06,"Sydney, New South Wales, Australia",AUS,International Convention Centre,,,https://2019.pycon-au.org,,https://2019.pycon-au.org/sponsor
+PyOhio,2019-07-27,2019-07-28,"Columbus, Ohio, USA",USA,The Ohio Union,2019-05-12,2019-05-12,https://www.pyohio.org/2019,https://www.pyohio.org/cfp,https://www.pyohio.org/2019/sponsorship
+DjangoCon AU,2019-08-02,2019-08-03,"Sydney, Australia",AUS,,,,https://djangocon.com.au,,
+PyCon AU,2019-08-02,2019-08-06,"Sydney, New South Wales, Australia",AUS,International Convention Centre,,,https://2019.pycon-au.org,,https://2019.pycon-au.org/sponsor
 PyCon Africa,2019-08-06,2019-08-10,"Accra, Greater Accra, Ghana",GHA,"University of Ghana, Legon Campus",2019-06-01,2019-06-01,https://africa.pycon.org,https://africa.pycon.org/speaking,https://africa.pycon.org/sponsor
-PyBay,2019-08-15,2019-08-18,"San Francisco, California, United States of America",USA,Mission Bay Conference Center,2019-05-12,2019-05-12,https://pybay.com,https://pybay2019cfp.hubb.me,
-PyCon Korea,2019-08-15,2019-08-18,"Seoul, Seoul Capital Area, South Korea",KOR,COEX,,,https://pycon.kr,,
-Kiwi PyCon,2019-08-23,2019-08-25,"Wellington, Wellington, New Zealand",NZL,,,,https://python.nz,,
-PyCon Latin America,2019-08-29,2019-08-31,"Puerto Vallarta, Jalisco, Mexico",MEX,Hotel Friendly Vallarta,,2019-05-31,https://www.pylatam.org,https://www.papercall.io/pyconlatam,
-EuroSciPy,2019-09-03,2019-09-06,"Bilbao, Biscay, Spain",ESP,Bizkaia Aretoa,2019-05-12,2019-05-12,https://www.euroscipy.org/2019,https://pretalx.com/euroscipy-2019,https://www.euroscipy.org/2019/sponsors.html
-Flask Conf Brasil,2019-09-06,2019-09-08,"Florianópolis, Santa Catarina, Brazil",BRA,,,,https://2019.flask.python.org.br,,
-PyColorado,2019-09-07,2019-09-08,"Denver, Colorado, United States of America",USA,The Studio Loft at Ellie Caulkins Opera House,,,https://pycolorado.org,,
+PyBay,2019-08-15,2019-08-18,"San Francisco, California, USA",USA,Mission Bay Conference Center,2019-05-12,2019-05-12,https://pybay.com,https://pybay2019cfp.hubb.me,
+PyCon Korea,2019-08-15,2019-08-18,"Seoul, South Korea",KOR,COEX,,,https://pycon.kr,,
+IndyPy Web Conf,2019-08-23,2019-08-24,"Indianapolis, IN, USA",USA,,,,https://2019.indypy.org/webconf,,
+Kiwi PyCon,2019-08-23,2019-08-26,"Wellington, New Zealand",NZL,,,,https://python.nz,,
+PyCon Latam,2019-08-29,2019-08-31,"Puerto Vallarta, Jalisco, México",MEX,Hotel Friendly Vallarta,,2019-05-31,https://www.pylatam.org,https://www.papercall.io/pyconlatam,
+EuroSciPy,2019-09-03,2019-09-06,"Bilbao, Biscay, España",ESP,Bizkaia Aretoa,2019-05-12,2019-05-12,https://www.euroscipy.org/2019,https://pretalx.com/euroscipy-2019,https://www.euroscipy.org/2019/sponsors.html
+Flask Conf Brasil,2019-09-06,2019-09-08,"Florianópolis, Santa Catarina, Brasil",BRA,,,,https://2019.flask.python.org.br,,
+PyColorado,2019-09-07,2019-09-08,"Denver, Colorado, USA",USA,The Studio Loft at Ellie Caulkins Opera House,,,https://pycolorado.org,,
 PyCon UK,2019-09-13,2019-09-17,"Cardiff, Wales, United Kingdom",GBR,Cardiff City Hall,,,https://2019.pyconuk.org,,
-PyCon Japan,2019-09-16,2019-09-17,"Tokyo, Kantō, Japan",JPN,Ota City Industrial Plaza PiO,,2019-06-02,https://pycon.jp/2019,https://www.papercall.io/pyconjp2019,https://docs.google.com/forms/d/e/1FAIpQLScTCSXE3VsdjHZbxt3QOJbRLNEFjXBDKZxjX6Z2uwWqoT3rYg/viewform
-PyCon Taiwan,2019-09-20,2019-09-22,"Taipei, Northern Taiwan, Taiwan",TWN,,,,https://tw.pycon.org/2019,https://tw.pycon.org/2019/en-us/events/talks,https://tw.pycon.org/2019/en-us/sponsor/sponsor
-PyCon China,2019-09-21,2019-09-21,"Shanghai, Shanghai, China",CHN,,,,http://cn.pycon.org,,
-DjangoCon US,2019-09-22,2019-09-27,"San Diego, California, United States of America",USA,Mission Valley Marriott,,,https://2019.djangocon.us,,
+AfroPython Conf,2019-09-14,2019-09-15,"Rio de Janeiro, Brasil",BRA,,,,https://afropython.org,,
+PyCon JP,2019-09-16,2019-09-17,"Tokyo, Kantō, Japan",JPN,Ota City Industrial Plaza PiO,,2019-06-02,https://pycon.jp/2019,https://www.papercall.io/pyconjp2019,https://docs.google.com/forms/d/e/1FAIpQLScTCSXE3VsdjHZbxt3QOJbRLNEFjXBDKZxjX6Z2uwWqoT3rYg/viewform
+PyCon TW,2019-09-20,2019-09-22,"Taipei, Taiwan",TWN,,,,https://tw.pycon.org/2019,https://tw.pycon.org/2019/en-us/events/talks,https://tw.pycon.org/2019/en-us/sponsor/sponsor
+PyCon China,2019-09-21,2019-09-22,"Shanghai, China",CHN,,,,https://cn.pycon.org,,
+DjangoCon US,2019-09-22,2019-09-27,"San Diego, California, USA",USA,Mission Valley Marriott,,,https://2019.djangocon.us,,
+PyCon Estonia,2019-10-03,2019-10-04,"Tallinn, Estonia",EST,,,,https://pycon.ee,,
 PyCon Balkan,2019-10-03,2019-10-05,"Belgrade, Srem, Serbia",SRB,Hilton Belgrade,2019-07-15,2019-07-15,https://www.pyconbalkan.com,https://sessionize.com/pycon-balkan-2019,https://www.pyconbalkan.com/faq
-PyGotham,2019-10-04,2019-10-05,"New York, New York, United States of America",USA,Hotel Pennsylvania,,2019-05-12,https://2019.pygotham.org,https://cfp.pygotham.org,https://2019.pygotham.org/sponsors/prospectus
-PyCon España,2019-10-04,2019-10-06,"Alicante, Alicante, Spain",ESP,,,2019-05-10,https://2019.es.pycon.org,https://easychair.org/cfp/pycones2019,
-PyCon Germany & PyData Berlin,2019-10-09,2019-10-13,"Berlin, Brandenburg, Germany",DEU,Kosmos,2019-06-09,2019-06-09,https://de.pycon.org,https://de.pycon.org/call-for-proposals,https://de.pycon.org/sponsors
+PyGotham,2019-10-04,2019-10-05,"New York, New York, USA",USA,Hotel Pennsylvania,,2019-05-12,https://2019.pygotham.org,https://cfp.pygotham.org,https://2019.pygotham.org/sponsors/prospectus
+PyConES,2019-10-04,2019-10-06,"Alicante, Alicante, España",ESP,,,2019-05-10,https://2019.es.pycon.org,https://easychair.org/cfp/pycones2019,
+SciPy Latin America,2019-10-08,2019-10-11,"Bogotá, Colombia",COL,,,,https://conf.scipyla.org/en,,
+PyCon DE & PyData Berlin,2019-10-09,2019-10-13,"Berlin, Brandenburg, Germany",DEU,Kosmos,2019-06-09,2019-06-09,https://de.pycon.org,https://de.pycon.org/call-for-proposals,https://de.pycon.org/sponsors
+PyConZA,2019-10-09,2019-10-14,"The Wanderers Club, Illovo, Johannesburg, South Africa",ZAF,,,,https://za.pycon.org,,
 PyCon mini Hiroshima,2019-10-12,2019-10-12,"Hiroshima, Chugoku, Japan",JPN,"Satellite Campus, Horoshima City Unversity",,,https://hiroshima.pycon.jp/2019,https://docs.google.com/forms/d/e/1FAIpQLSdIebD2ijyIFFKAtlR-iYiYWs8kPbP8ZMXNSaw0iiXeC57szA/viewform,
-PythonDay México,2019-10-18,2019-10-19,"Mexico City, Federal District, Mexico",MEX,"Auditorio Javier Barros Sierra, Facultad de Ingeniería e IIMAS, UNAM",2019-09-27,2019-09-27,http://pythonday.mx,https://www.papercall.io/pythondaymx2019,
-Python Brasil,2019-10-23,2019-10-28,"Ribeirão Preto, São Paulo, Brazil",BRA,Centro de Convenções Ribeirão Preto (CCRP),,,https://pythonbrasil.org.br,https://2019.pythonbrasil.org.br/submissao-de-palestras,https://2019.pythonbrasil.org.br/assets/pdfs/sponsorship_plan.pdf
-PyCon Sweden,2019-10-31,2019-11-01,"Stockholm, Stockholm County, Sweden",SWE,Münchenbryggeriet,2019-09-13,2019-09-13,http://www.pycon.se,https://forms.gle/hZWhUePsHB34xtUM9,http://www.pycon.se/sponsorship.html
-PyCon France,2019-10-31,2019-11-03,"Bordeaux, Nouvelle-Aquitaine, France",FRA,Université Bordeaux,,,https://www.pycon.fr/2019,,
-North Bay Python,2019-11-02,2019-11-03,"Petaluma, California, United States of America",USA,Mystic Theatre,,2019-08-16,https://2019.northbaypython.org,,
+PyCon Pakistan,2019-10-12,2019-10-13,"Habib University, Karachi, Pakistan",PAK,,,,https://pycon.pk,,
+PyCon India,2019-10-12,2019-10-16,"Chennai, Tamil Nadu, India",IND,,,,https://in.pycon.org/2019,,
+PyCode Conference,2019-10-14,2019-10-17,"Gdansk, Poland",POL,,,,https://pycode-conference.org,,
+PyDay México,2019-10-18,2019-10-19,"México City, Federal District, México",MEX,"Auditorio Javier Barros Sierra, Facultad de Ingeniería e IIMAS, UNAM",2019-09-27,2019-09-27,https://pythonday.mx,https://www.papercall.io/pythondaymx2019,
+PyCon China Beijing Branch,2019-10-19,2019-10-20,"Beijing, China",CHN,,,,https://cn.pycon.org,,
+PyDay Barcelona,2019-10-19,2019-10-20,"Barcelona, España",ESP,,,,https://pybcn.org/pyday-bcn-2019,,
+Python Brasil,2019-10-23,2019-10-28,"Ribeirão Preto, São Paulo, Brasil",BRA,Centro de Convenções Ribeirão Preto (CCRP),,,https://pythonbrasil.org.br,https://2019.pythonbrasil.org.br/submissao-de-palestras,https://2019.pythonbrasil.org.br/assets/pdfs/sponsorship_plan.pdf
+PyCon Sweden,2019-10-31,2019-11-01,"Stockholm, Sweden",SWE,Münchenbryggeriet,2019-09-13,2019-09-13,https://www.pycon.se,https://forms.gle/hZWhUePsHB34xtUM9,https://www.pycon.se/sponsorship.html
+PyConFR,2019-10-31,2019-11-03,"Bordeaux, Nouvelle-Aquitaine, France",FRA,Université Bordeaux,,,https://www.pycon.fr/2019,,
+PiterPy,2019-11-01,2019-11-02,"Saint Petersburg, Russia",RUS,,,,https://piterpy.com/en,,
+North Bay Python,2019-11-02,2019-11-03,"Petaluma, California, USA",USA,Mystic Theatre,,2019-08-16,https://2019.northbaypython.org,,
 PyCon Canada,2019-11-16,2019-11-19,"Toronto, Ontario, Canada",CAN,,2019-08-31,2019-08-31,https://2019.pycon.ca,https://cfp.pycon.ca,
+PyCon Indonesia,2019-11-23,2019-11-24,"Surabaya, Jawa Timur, Indonesia",IDN,,,,https://pycon.id,,
+PyCon Tanzania,2019-12-10,2019-12-12,"Dar es Salaam, Tanzania",TZA,,,,https://pycon.or.tz,,
 Python fwdays,2019-12-14,2019-12-14,"Kyiv, Kyiv Oblast, Ukraine",UKR,Online,,2019-11-28,https://fwdays.com/en/event/python-fwdays-online-conference,https://docs.google.com/forms/d/e/1FAIpQLSde6NvTplJa_S8AwDYbXPHqCrUDlEGvaq_78xD2VyPgV6Cz6g/viewform,
