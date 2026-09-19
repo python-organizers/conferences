@@ -12,12 +12,10 @@ PyCon SK,2017-03-10,2017-03-10,"Bratislava, Slovakia",SVK,,2017-02-14,2017-02-14
 Rencontres Django,2017-04-01,2017-04-03,"Toulon, France",FRA,,,,https://rencontres.django-fr.org/2017,,
 DjangoCon Europe,2017-04-03,2017-04-08,"Florence, Italy",ITA,,,,https://2017.djangocon.eu,,
 PyCon Italia,2017-04-06,2017-04-09,"Firenze, Italia",ITA,Grand Hotel Mediterraneo,,,https://www.pycon.it,https://www.pycon.it/en/call-for-proposals,
-PyData Amsterdam,2017-04-07,2017-04-10,"Amsterdam, The Netherlands",NLD,"Herengracht 597
-",,,https://pydata.org/amsterdam2017,,
+PyData Amsterdam,2017-04-07,2017-04-10,"Amsterdam, The Netherlands",NLD,Herengracht 597,,,https://pydata.org/amsterdam2017,,
 PyCon Ukraine,2017-04-08,2017-04-09,"Lviv, Lviv Oblast, Ukraine",UKR,,,,https://ua.pycon.org,https://ua.pycon.org/en/announcements/2017-02-01-become-a-speaker.html,https://ua.pycon.org/en/become_a_sponsor.html
 PyCon UA,2017-04-08,2017-04-10,"Lviv Arena Stadium, Lviv City, Ukraine",UKR,,,,https://ua.pycon.org,,
-PythonCamp - Cologne,2017-04-08,2017-04-10,"Köln, Germany",DEU,"GFU Cyrus AG
-",,,https://pythoncamp.de,,
+PythonCamp - Cologne,2017-04-08,2017-04-10,"Köln, Germany",DEU,GFU Cyrus AG,,,https://pythoncamp.de,,
 PyDays Vienna,2017-05-05,2017-05-07,"Vienna, Austria",AUT,University of Applied Sciences Technikum Wien,,,https://pydays.at,,
 PyData London,2017-05-05,2017-05-08,"Bloomberg No 39/45 Finsbury Square City Gate House, London, United Kingdom",GBR,,,,https://pydata.org/london2017,,
 GeoPython,2017-05-08,2017-05-11,"Basel, Switzerland",CHE,,,,https://2017.geopython.net,,
@@ -30,8 +28,7 @@ PyCon TW,2017-06-09,2017-06-11,"Taipei, Taiwan",TWN,,,,https://tw.pycon.org/2017
 PyDay México,2017-06-10,2017-06-10,"México City, Federal District, México",MEX,,,,https://www.toptal.com/events/2017-06-10/python-day-mexico,,
 PyCon Israel,2017-06-11,2017-06-14,"Ramat Gan, Tel Aviv, Israel",ISR,,,,https://il.pycon.org/2017,https://il.pycon.org/wwwpyconIL/cfp,
 PyParis,2017-06-12,2017-06-14,"Paris, France",FRA,,,,https://pyparis.org,,
-PyData Berlin,2017-06-30,2017-07-03,"Berlin, Germany",DEU,"Treskowallee 8
-",,,https://pydata.org/berlin2017,,
+PyData Berlin,2017-06-30,2017-07-03,"Berlin, Germany",DEU,Treskowallee 8,,,https://pydata.org/berlin2017,,
 PyData Seattle,2017-07-05,2017-07-08,"Microsoft Conference Center Redmond, WA, USA",USA,,,,https://pydata.org/seattle2017,,
 EuroPython,2017-07-09,2017-07-16,"Rimini, Emilia-Romagna, Italy",ITA,,2017-04-16,2017-04-16,https://ep2017.europython.eu,https://ep2017.europython.eu/en/call-for-proposals,https://ep2017.europython.eu/en/sponsor/packages
 SciPy,2017-07-10,2017-07-15,"Austin, TX, USA",USA,,,,https://scipy2017.scipy.org,,
@@ -81,5 +78,5 @@ PyData NYC,2017-11-27,2017-11-30,"New York, New York, USA",USA,,,,https://pydata
 SciPy India,2017-11-29,2017-12-01,"LCH, IIT Bombay, Powai, Mumbai, India",IND,,,,https://www.scipy.in,,
 Kiwi PyCon,2017-12-02,2017-12-04,"Auckland, New Zealand",NZL,,,,https://python.nz,,
 North Bay Python,2017-12-02,2017-12-04,"Petaluma, California, USA",USA,,,,https://northbaypython.org,,
-PyCon Indonesia,2017-12-09,2017-12-09,"Surabaya, Java, Indonesia",IDN,,2017-11-06,2017-11-06,https://pycon.id,,
+PyCon ID,2017-12-09,2017-12-09,"Surabaya, Java, Indonesia",IDN,,2017-11-06,2017-11-06,https://pycon.id,,
 PyCon Pakistan,2017-12-16,2017-12-17,"Lahore, Pakistan",PAK,,,,https://pycon.pk,,

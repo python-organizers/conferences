@@ -13,7 +13,7 @@ def strip_safely(x):
 
 repository_folder = Path(__file__).parents[1]
 drafts_folder = repository_folder / 'drafts'
-t = pd.read_csv(drafts_folder / 'conferences_clean.csv')
+t = pd.read_csv(drafts_folder / 'conferences_updated.csv')
 t = t.dropna(subset=['Subject'])
 events_by_year = defaultdict(list)
 for _, r in t.iterrows():

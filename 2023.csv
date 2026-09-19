@@ -21,8 +21,11 @@ PyData London,2023-06-02,2023-06-04,"London, Greater London, United Kingdom",GBR
 PyDay La Paz,2023-06-03,2023-06-03,"La Paz, Bolivia",BOL,,,2023-03-30,https://pyday.pylapaz.org,,https://forms.gle/7SoVfzBgwYfv1Qw59
 PyCon Colombia,2023-06-09,2023-06-11,"Bogotá, Capital District, Colombia",COL,,,2023-03-30,https://2023.pycon.co,https://2023.pycon.co/call-for-proposals,
 PyDay La Paz,2023-06-10,2023-06-11,"Higher University of San Andrés (UMSA), J.J.Perez, La Paz, Bolivia",BOL,,,,https://pyday.pylapaz.org,,
+PyDay Chile Valparaiso,2023-06-16,2023-06-16,"Valparaiso, Chile",CHL,,,,,,
+PyDay Chile Online,2023-06-17,2023-06-18,Chile,CHL,Online,,,,,
 World Conference on Data Science & Statistics,2023-06-26,2023-06-29,"Frankfurt, Germany",DEU,,,,https://datascience.thepeopleevents.com,,
 PyCon PL,2023-06-29,2023-07-02,"Gliwice, Poland",POL,,,2023-03-27,https://pl.pycon.org/2023,,https://pl.pycon.org/2023/sponsorship.pdf
+PyDay Chile Santiago,2023-07-01,2023-07-01,"Santiago, Chile",CHL,,,,,,
 PyCon Israel,2023-07-04,2023-07-05,"Ramat Gan, Tel Aviv, Israel",ISR,,,2023-04-02,https://2023.pycon.org.il,https://cfp.pycon.org.il/conference2023/cfp,https://2023.pycon.org.il/#sponsorship
 SciPy,2023-07-10,2023-07-16,"Austin, Texas, USA",USA,AT&T Center,,2023-03-01,https://www.scipy2023.scipy.org,https://www.scipy2023.scipy.org/present,https://www.scipy2023.scipy.org/sponsor
 EuroPython,2023-07-17,2023-07-23,"Prague, Bohemia, Czech Republic",CZE,The Prague Congress Centre,,2023-03-26,https://europython.eu,https://ep2023.europython.eu/cfp,https://ep2023.europython.eu/sponsor/information
@@ -70,9 +73,9 @@ PyCon HK,2023-11-11,2023-11-11,Hong Kong,HKG,The HKFYG Building,,2023-06-18,http
 PyCon Ireland,2023-11-11,2023-11-12,"Dublin, Ireland",IRL,,,2023-07-16,https://python.ie/pycon-2023,,
 PyData Tel Aviv,2023-11-14,2023-11-14,"Tel Aviv, Gush Dan, Israel",ISR,InterContinental David Tel Aviv,,2023-07-14,https://pydata.org/telaviv2023,https://pydata.org/telaviv2023/cfp,https://pydata.org/telaviv2023/sponsor
 Hamburg Python Pizza,2023-11-17,2023-11-17,"Hamburg, Germany",DEU,,,2023-09-30,https://hamburg.python.pizza,https://forms.gle/Mssgv25KUgjBv3hN6,https://hamburg.python.pizza/#sponsors
-PyCon Indonesia,2023-11-18,2023-11-19,"Badung City, Indonesia",IDN,,,2023-07-15,https://pycon.id,https://papercall.io/pyconid2023,https://pycon.id/sponsor
+PyCon ID,2023-11-18,2023-11-19,"Badung City, Indonesia",IDN,,,2023-07-15,https://pycon.id,https://papercall.io/pyconid2023,https://pycon.id/sponsor
 PyCon ID,2023-11-18,2023-11-20,"Bandung, Indonesia",IDN,,,,https://pycon.id,,
-PyCon Chile,2023-11-24,2023-11-26,"Valparaiso, Chile & Online",CHL,,,2023-09-15,https://pycon.cl,,
+PyCon Chile,2023-11-24,2023-11-26,"Valparaiso, Chile",CHL,,,2023-09-15,https://pycon.cl,,
 PyLadiesCon,2023-12-02,2023-12-03,Online,,,,2023-09-04,https://conference.pyladies.com,https://pretalx.com/pyladiescon-2023/cfp,
 XtremePython,2023-12-05,2023-12-05,Online,,,,2023-11-01,https://xtremepython.dev/2023,https://forms.gle/7dv6iqToggY8Gshs5,https://xtremepython.dev/2023/sponsors
 PyData Global,2023-12-06,2023-12-08,Online,,,,2023-10-01,https://pydata.org/global2023,https://pydata.org/global2023/cfp,https://pydata.org/global2023/sponsor

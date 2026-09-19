@@ -1,6 +1,6 @@
 """Generate an iCalendar file from the year CSV files.
 
-Usage: uv run scripts/generate_ics.py [output.ics]
+Usage: uv run scripts/generate.py [output.ics]
 """
 
 # /// script

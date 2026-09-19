@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
       - uses: astral-sh/setup-uv@v9.0.0
-      - run: uv run scripts/generate_ics.py site/conferences.ics
+      - run: uv run scripts/generate.py site/conferences.ics
       - run: |
           cat > site/index.html << 'EOF'
           <!DOCTYPE html>
