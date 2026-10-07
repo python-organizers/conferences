@@ -77,5 +77,6 @@ There are tests to ensure that the files are written in the correct format
 
 - [See upcoming proposal deadlines and conference dates](https://crosscompute.com/t/show-conferences/r/python/o)
 - [Add conference dates to your calendar](https://pythondeadlin.es)
+- [Browse past and future conferences](https://gredowski.com/python-conferences/)
 
 [ISO3166]: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3
