@@ -1,5 +1,9 @@
 Subject,Start Date,End Date,Location,Country,Venue,Tutorial Deadline,Talk Deadline,Website URL,Proposal URL,Sponsorship URL
+PyCon CI,2027-01-22,2027-01-23,"Abidjan, Côte d'Ivoire",CIV,,,2026-12-01,https://pycon.ci,https://pycon.ci/participer/cfp,https://pycon.ci/evenement/offre-sponsoring
 PyCon Namibia,2027-02-19,2027-02-26,"Windhoek, Namibia",NAM,,,,https://na.pycon.org,,
+Hamburg Python Pizza,2027-02-27,2027-02-27,"Hamburg, Germany, and Online",DEU,KLU,,,https://hamburg.python.pizza,,
+PyCon SK,2027-03-12,2027-03-13,"Bratislava, Slovakia",SVK,FIIT STU,,,https://pycon.sk,,
+PyCon CZ,2027-04-16,2027-04-18,"Pilsen, Czech Republic",CZE,,,,https://cz.pycon.org/2027,,
 PyCon DE,2027-04-19,2027-04-24,"Heidelberg, Germany",DEU,Heidelberg Congress Center,2026-12-20,2026-12-20,https://pycon.de,https://pycon.de/call-for-proposals/,https://pycon.de/sponsoring
 PyCon Austria,2027-04-25,2027-04-27,"Eisenstadt, Austria",AUT,,,,https://pycon.at,,
 PyCon Lithuania,2027-04-28,2027-04-30,"Vilnius, Lithuania",LTU,Hotel Panorama Vilnius,,2027-01-13,https://pycon.lt/2027,https://pycon.lt/2027/cfp,
